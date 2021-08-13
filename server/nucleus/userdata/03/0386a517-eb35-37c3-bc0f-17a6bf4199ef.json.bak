@@ -1,0 +1,39 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622413570217,
+  "lastIP": "/170.245.197.16",
+  "usedKits": {
+    "inicial": 1621994239165,
+    "start": 1622033700349,
+    "ajuda": 1622037553357,
+    "diario": 1622037608905,
+    "farm": 1622039540379,
+    "casa": 1622042380211
+  },
+  "firstJoin": 1621994239152,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Fronnie",
+  "fly": true,
+  "homes": {
+    "home": {
+      "x": -3040.6006836847155,
+      "y": 64.0,
+      "z": 8207.78240684206,
+      "rotx": 28.349964141845703,
+      "roty": 328.99383544921875,
+      "rotz": 0.0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    },
+    "cofre": {
+      "x": -3090.896925006896,
+      "y": 67.0,
+      "z": 8267.486773399081,
+      "rotx": 34.0496826171875,
+      "roty": -337.763916015625,
+      "rotz": 0.0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  }
+}

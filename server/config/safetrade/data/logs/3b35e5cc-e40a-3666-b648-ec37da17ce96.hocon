@@ -1,0 +1,47 @@
+logs=[
+    {
+        otherParticipant="3b35e5cc-e40a-3666-b648-ec37da17ce96"
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[]
+        participant="73346dfa-0996-3790-884f-ad81e9af4124"
+        sideItemStrings=[]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[
+            "{\"EVSpeed\":0.0,\"IVAttack\":2.0,\"Growth\":4.0,\"originalTrainerUUIDMost\":8.301380933820758E18,\"PersistentData\":{\"SpongeData\":{}},\"Gender\":0.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":12.0,\"Name\":\"Riolu\",\"isInRanch\":0.0,\"Friendship\":201.0,\"StatsDefence\":13.0,\"IVDefence\":29.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":10.0,\"IVSpDef\":9.0,\"CaughtBall\":2.0,\"IVHP\":31.0,\"AbilitySlot\":0.0,\"EVHP\":0.0,\"ndex\":447.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-8.6244839879082476E18,\"Nature\":15.0,\"StatsHP\":26.0,\"UUIDLeast\":-8.3039617290598502E18,\"Health\":26.0,\"originalTrainer\":\"Kothan\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":-1.0,\"StatsSpeed\":16.0,\"EVSpecialAttack\":0.0,\"IsShiny\":0.0,\"StatsAttack\":16.0,\"UUIDMost\":1.94668575263944141E18,\"IVSpeed\":5.0,\"Level\":8.0,\"IVSpAtt\":18.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}"
+        ]
+        timestamp="25/05/2021 18:24"
+        uniqueID="8f46f84d-cd53-4f4e-a4d7-d3edc7c1f71a"
+    },
+    {
+        otherParticipant="3b35e5cc-e40a-3666-b648-ec37da17ce96"
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[
+            "{\"EVSpeed\":0.0,\"IVAttack\":30.0,\"Growth\":3.0,\"originalTrainerUUIDMost\":4.2665688901653765E18,\"PersistentData\":{\"SpongeData\":{\"CanGrief\":1.0}},\"Gender\":0.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":77.0,\"Name\":\"Charizard\",\"isInRanch\":0.0,\"Friendship\":93.0,\"StatsDefence\":66.0,\"IVDefence\":16.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":96.0,\"IVSpDef\":31.0,\"CaughtBall\":0.0,\"IVHP\":26.0,\"AbilitySlot\":0.0,\"EVHP\":12.0,\"ndex\":6.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-5.31173603585715E18,\"Nature\":17.0,\"StatsHP\":112.0,\"UUIDLeast\":-6.0427909058791895E18,\"Health\":112.0,\"HeldItemStack\":{\"id\":\"pixelmon:lucky_egg\",\"Count\":1.0,\"Damage\":0.0},\"originalTrainer\":\"SraKothan\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":0.0,\"StatsSpeed\":86.0,\"EVSpecialAttack\":0.0,\"IsShiny\":0.0,\"StatsAttack\":68.0,\"UUIDMost\":-4.3953588665734733E18,\"IVSpeed\":25.0,\"Level\":36.0,\"IVSpAtt\":13.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":3413.0}",
+            "{\"EVSpeed\":0.0,\"IVAttack\":2.0,\"Growth\":4.0,\"originalTrainerUUIDMost\":8.301380933820758E18,\"PersistentData\":{\"SpongeData\":{\"CanGrief\":1.0}},\"Gender\":0.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":64.0,\"Name\":\"Lucario\",\"isInRanch\":0.0,\"Friendship\":255.0,\"StatsDefence\":72.0,\"IVDefence\":29.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":93.0,\"IVSpDef\":9.0,\"CaughtBall\":2.0,\"IVHP\":31.0,\"AbilitySlot\":0.0,\"EVHP\":12.0,\"ndex\":448.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-8.6244839879082476E18,\"Nature\":15.0,\"StatsHP\":119.0,\"UUIDLeast\":-8.3039617290598502E18,\"Health\":119.0,\"originalTrainer\":\"Kothan\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":0.0,\"StatsSpeed\":86.0,\"EVSpecialAttack\":0.0,\"IsShiny\":0.0,\"StatsAttack\":93.0,\"UUIDMost\":1.94668575263944141E18,\"IVSpeed\":5.0,\"Level\":40.0,\"IVSpAtt\":18.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":19.0}"
+        ]
+        participant="73346dfa-0996-3790-884f-ad81e9af4124"
+        sideItemStrings=[]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[]
+        timestamp="25/05/2021 19:04"
+        uniqueID=b195bd4f-76c5-4d7f-b1fd-d710ec32dbe6
+    },
+    {
+        otherParticipant="3b35e5cc-e40a-3666-b648-ec37da17ce96"
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[]
+        participant="73346dfa-0996-3790-884f-ad81e9af4124"
+        sideItemStrings=[]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[
+            "{\"EVSpeed\":34.0,\"IVAttack\":30.0,\"Growth\":3.0,\"originalTrainerUUIDMost\":4.2665688901653765E18,\"PersistentData\":{\"SpongeData\":{\"CanGrief\":1.0}},\"Gender\":0.0,\"EVSpecialDefence\":1.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":107.0,\"Name\":\"Charizard\",\"isInRanch\":0.0,\"Friendship\":142.0,\"StatsDefence\":93.0,\"IVDefence\":16.0,\"EVAttack\":12.0,\"StatsSpecialAttack\":138.0,\"IVSpDef\":31.0,\"CaughtBall\":0.0,\"IVHP\":26.0,\"AbilitySlot\":0.0,\"EVHP\":53.0,\"ndex\":6.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-5.31173603585715E18,\"Nature\":17.0,\"StatsHP\":160.0,\"UUIDLeast\":-6.0427909058791895E18,\"Health\":160.0,\"HeldItemStack\":{\"id\":\"pixelmon:lucky_egg\",\"Count\":1.0,\"Damage\":0.0},\"originalTrainer\":\"SraKothan\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":0.0,\"StatsSpeed\":124.0,\"EVSpecialAttack\":31.0,\"IsShiny\":0.0,\"StatsAttack\":96.0,\"UUIDMost\":-4.3953588665734733E18,\"IVSpeed\":25.0,\"Level\":51.0,\"IVSpAtt\":13.0,\"EVDefence\":9.0,\"NBT_VERSION\":1.0,\"EXP\":7771.0}",
+            "{\"EVSpeed\":34.0,\"IVAttack\":2.0,\"Growth\":4.0,\"originalTrainerUUIDMost\":8.301380933820758E18,\"PersistentData\":{\"SpongeData\":{\"CanGrief\":1.0}},\"Gender\":0.0,\"EVSpecialDefence\":1.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":128.0,\"Name\":\"Lucario\",\"isInRanch\":0.0,\"Friendship\":255.0,\"StatsDefence\":147.0,\"IVDefence\":29.0,\"EVAttack\":12.0,\"StatsSpecialAttack\":195.0,\"IVSpDef\":9.0,\"CaughtBall\":2.0,\"IVHP\":31.0,\"AbilitySlot\":0.0,\"EVHP\":53.0,\"ndex\":448.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-8.6244839879082476E18,\"Nature\":15.0,\"StatsHP\":245.0,\"UUIDLeast\":-8.3039617290598502E18,\"Health\":245.0,\"HeldItemStack\":{\"id\":\"pixelmon:lucky_egg\",\"Count\":1.0,\"Damage\":0.0},\"originalTrainer\":\"Kothan\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":0.0,\"StatsSpeed\":181.0,\"EVSpecialAttack\":31.0,\"IsShiny\":0.0,\"StatsAttack\":191.0,\"UUIDMost\":1.94668575263944141E18,\"IVSpeed\":5.0,\"Level\":83.0,\"IVSpAtt\":18.0,\"EVDefence\":9.0,\"NBT_VERSION\":1.0,\"EXP\":5350.0}",
+            "{\"EVSpeed\":39.0,\"IVAttack\":15.0,\"Growth\":3.0,\"originalTrainerUUIDMost\":8.301380933820758E18,\"PersistentData\":{\"SpongeData\":{\"CanGrief\":1.0}},\"Gender\":0.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":165.0,\"Name\":\"Salamence\",\"isInRanch\":0.0,\"Friendship\":243.0,\"StatsDefence\":175.0,\"IVDefence\":19.0,\"EVAttack\":196.0,\"StatsSpecialAttack\":243.0,\"IVSpDef\":9.0,\"CaughtBall\":0.0,\"IVHP\":4.0,\"AbilitySlot\":0.0,\"EVHP\":252.0,\"ndex\":373.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-8.6244839879082476E18,\"Nature\":19.0,\"StatsHP\":349.0,\"UUIDLeast\":-5.0884849903046124E18,\"Health\":349.0,\"HeldItemStack\":{\"id\":\"pixelmon:lucky_egg\",\"Count\":1.0,\"Damage\":0.0},\"originalTrainer\":\"Kothan\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":0.0,\"StatsSpeed\":183.0,\"EVSpecialAttack\":20.0,\"IsShiny\":0.0,\"StatsAttack\":322.0,\"UUIDMost\":2.4528247314410568E18,\"IVSpeed\":0.0,\"Level\":95.0,\"IVSpAtt\":3.0,\"EVDefence\":3.0,\"NBT_VERSION\":1.0,\"EXP\":23262.0}"
+        ]
+        timestamp="25/05/2021 19:40"
+        uniqueID="02df7b03-8e74-4fb6-886e-1591c00c426f"
+    }
+]

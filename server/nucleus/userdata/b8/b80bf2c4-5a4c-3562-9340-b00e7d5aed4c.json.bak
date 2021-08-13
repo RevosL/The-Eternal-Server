@@ -1,0 +1,42 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622961369964,
+  "lastIP": "/168.227.228.158",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622470649202,
+    "start": 1622471015835,
+    "diario": 1622647199971,
+    "casa": 1622472278096,
+    "ajuda": 1622518496796,
+    "farm": 1622518659620,
+    "dstart": 1622961417374,
+    "sstart": 1622587293979,
+    "mstart": 1622587319875
+  },
+  "firstJoin": 1622470649190,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Boreade",
+  "fly": true,
+  "homes": {
+    "home": {
+      "x": 4619.776430635383,
+      "y": 79,
+      "z": -882.0375653673983,
+      "rotx": 19.35007095336914,
+      "roty": -14.262224197387695,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    },
+    "deep": {
+      "x": 3496.462281355455,
+      "y": 72.49321828551689,
+      "z": -7478.60482839645,
+      "rotx": 79.05013275146484,
+      "roty": -238.96275329589844,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  }
+}

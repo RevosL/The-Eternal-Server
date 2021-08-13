@@ -1,0 +1,34 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622152671803,
+  "lastIP": "/168.121.255.40",
+  "usedKits": {
+    "inicial": 1622151805714,
+    "start": 1622153095131,
+    "casa": 1622153141196,
+    "dstart": 1622153200998,
+    "sstart": 1622153232357,
+    "mstart": 1622153280836,
+    "farm": 1622153541629,
+    "diario": 1622153548088,
+    "ajuda": 1622153645802
+  },
+  "firstJoin": 1622151805709,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Maike02",
+  "fly": true,
+  "powertools": {},
+  "homes": {
+    "casa": {
+      "x": 8156.328434558185,
+      "y": 68.0,
+      "z": 2229.704909645949,
+      "rotx": 15.149996757507324,
+      "roty": 49.82183837890625,
+      "rotz": 0.0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  }
+}

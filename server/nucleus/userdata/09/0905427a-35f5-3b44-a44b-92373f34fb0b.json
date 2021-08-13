@@ -1,0 +1,19 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623142788994,
+  "lastIP": "/200.252.51.242",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1623142789014,
+    "start": 1623142920394,
+    "dstart": 1623142933306,
+    "sstart": 1623142942061,
+    "mstart": 1623142956209
+  },
+  "firstJoin": 1623142788994,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Aiin_MK",
+  "powertools": {},
+  "fly": true
+}

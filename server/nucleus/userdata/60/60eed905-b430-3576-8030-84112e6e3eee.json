@@ -1,0 +1,28 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622508108365,
+  "lastIP": "/189.27.215.109",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622470507286,
+    "start": 1622470891978,
+    "comida": 1622472396567
+  },
+  "firstJoin": 1622470507273,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Spoteff",
+  "fly": false,
+  "homes": {
+    "casa": {
+      "x": -4556.64314095326,
+      "y": 64,
+      "z": 5726.426584866584,
+      "rotx": -2.999943494796753,
+      "roty": 161.02471923828125,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  },
+  "powertools": {}
+}

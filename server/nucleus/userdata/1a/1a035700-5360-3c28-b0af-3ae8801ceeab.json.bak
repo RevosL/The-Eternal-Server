@@ -1,0 +1,20 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622984998772,
+  "lastIP": "/200.4.105.8",
+  "usedKits": {
+    "inicial": 1622983990421,
+    "start": 1622984032915,
+    "mstart": 1622984066551,
+    "sstart": 1622984136561,
+    "dstart": 1622984138158,
+    "comida": 1622985567657
+  },
+  "firstJoin": 1622983990416,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "AmigoFelipe",
+  "fly": false,
+  "powertools": {}
+}

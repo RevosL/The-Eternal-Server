@@ -1,0 +1,18 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622684548555,
+  "lastIP": "/189.39.107.73",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622681254764,
+    "start": 1622681377745,
+    "ajuda": 1622681404195,
+    "diario": 1622681427348
+  },
+  "firstJoin": 1622681254757,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "KiwiComunista",
+  "fly": false,
+  "powertools": {}
+}

@@ -1,0 +1,44 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623279446786,
+  "lastIP": "/168.197.244.86",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1623164400649,
+    "ajuda": 1623165049243,
+    "casa": 1623165074589,
+    "start": 1623165649086,
+    "comida": 1623165654061,
+    "dstart": 1623279469568,
+    "sstart": 1623165688443,
+    "mstart": 1623165738699,
+    "diario": 1623166917897,
+    "farm": 1623167006490
+  },
+  "firstJoin": 1623164400627,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "0kauablack0",
+  "fly": true,
+  "homes": {
+    "home": {
+      "x": 926.034099039819,
+      "y": 73.0,
+      "z": 9653.478047918956,
+      "rotx": 13.949980735778809,
+      "roty": 88.93832397460938,
+      "rotz": 0.0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    },
+    "ultrafloreset": {
+      "x": 4444.697732492579,
+      "y": 103.0,
+      "z": -4765.886136975507,
+      "rotx": -2.699998617172241,
+      "roty": 349.6387939453125,
+      "rotz": 0.0,
+      "world": "c28925ca-19de-463e-a50c-875f2214c05e"
+    }
+  },
+  "powertools": {}
+}

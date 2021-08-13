@@ -1,0 +1,31 @@
+{
+  "id": "Regieleki",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Regieleki",
+        "level": 40
+      },
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "structures": [
+          "EndCity"
+        ],
+        "stringBiomes": [
+          "end"
+        ]
+      },
+      "rarity": 1.0
+    }
+  ]
+}

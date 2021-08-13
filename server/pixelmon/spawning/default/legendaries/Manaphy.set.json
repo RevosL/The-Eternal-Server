@@ -1,0 +1,29 @@
+{
+  "id": "Manaphy",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Manaphy",
+        "level": 50
+      },
+      "stringLocationTypes": [
+        "Underground Water"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "structures": [
+          "Monument"
+        ]
+      },
+      "rarity": 0.4
+    }
+  ]
+}

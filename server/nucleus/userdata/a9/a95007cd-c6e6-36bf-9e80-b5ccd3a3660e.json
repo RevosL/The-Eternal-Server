@@ -1,0 +1,34 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623148272825,
+  "lastIP": "/177.37.195.246",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622662508684,
+    "start": 1622662850232,
+    "mstart": 1622666340140,
+    "sstart": 1622666608709,
+    "dstart": 1623072782646,
+    "ajuda": 1622666715451,
+    "diario": 1623002541773,
+    "farm": 1623149664667,
+    "pascoa": 1622671445665
+  },
+  "firstJoin": 1622662508679,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "darknesslord22",
+  "fly": true,
+  "homes": {
+    "home": {
+      "x": -591.5889795088203,
+      "y": 71,
+      "z": 7315.126848570433,
+      "rotx": 31.52153778076172,
+      "roty": -331.841552734375,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  },
+  "powertools": {}
+}

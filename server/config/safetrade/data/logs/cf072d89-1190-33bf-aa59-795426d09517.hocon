@@ -1,0 +1,16 @@
+logs=[
+    {
+        otherParticipant=cf072d89-1190-33bf-aa59-795426d09517
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[]
+        participant="891b20e2-aa4a-3e4e-b520-07ee7b1ecdb1"
+        sideItemStrings=[]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[
+            "{\"EVSpeed\":0.0,\"IVAttack\":28.0,\"Growth\":3.0,\"originalTrainerUUIDMost\":-8.5672177082505462E18,\"PersistentData\":{\"SpongeData\":{}},\"Gender\":0.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":19.0,\"Name\":\"Ralts\",\"isInRanch\":0.0,\"Friendship\":35.0,\"StatsDefence\":13.0,\"IVDefence\":6.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":18.0,\"IVSpDef\":24.0,\"CaughtBall\":21.0,\"IVHP\":2.0,\"AbilitySlot\":1.0,\"EVHP\":0.0,\"ndex\":280.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-5.3953036327406275E18,\"Nature\":2.0,\"StatsHP\":33.0,\"UUIDLeast\":-5.9252530783122084E18,\"Health\":33.0,\"originalTrainer\":\"Noragami\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":-1.0,\"StatsSpeed\":18.0,\"EVSpecialAttack\":0.0,\"IsShiny\":0.0,\"StatsAttack\":16.0,\"UUIDMost\":8.6004801692788511E18,\"IVSpeed\":12.0,\"Level\":15.0,\"IVSpAtt\":0.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}"
+        ]
+        timestamp="23/05/2021 04:57"
+        uniqueID=adeecc06-e5d3-4c37-b714-4dda1e24ed52
+    }
+]

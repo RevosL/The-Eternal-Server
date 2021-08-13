@@ -1,0 +1,18 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622838391083,
+  "lastIP": "/138.117.116.246",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622785912143,
+    "start": 1622786039170,
+    "sstart": 1622786205611,
+    "dstart": 1622786207108,
+    "pascoa": 1622838398443
+  },
+  "firstJoin": 1622785912137,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "MDM_EASY",
+  "fly": true
+}

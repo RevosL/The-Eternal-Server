@@ -1,0 +1,44 @@
+logs=[
+    {
+        otherParticipant="4e48b9d0-3b44-3b19-91ad-ccbd851623fb"
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[]
+        participant=a969dcde-46db-34ba-9462-3f7b40aac4b7
+        sideItemStrings=[]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[
+            "{\"EVSpeed\":0.0,\"IVAttack\":27.0,\"Growth\":5.0,\"originalTrainerUUIDMost\":-6.2392129615154903E18,\"PersistentData\":{},\"Gender\":0.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":140.0,\"Name\":\"Bastiodon\",\"isInRanch\":0.0,\"Friendship\":67.0,\"StatsDefence\":158.0,\"IVDefence\":4.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":55.0,\"IVSpDef\":25.0,\"CaughtBall\":0.0,\"IVHP\":17.0,\"AbilitySlot\":0.0,\"EVHP\":0.0,\"ndex\":411.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-7.7545658097801124E18,\"Nature\":3.0,\"StatsHP\":116.0,\"UUIDLeast\":-5.45089671063731E18,\"Health\":0.0,\"originalTrainer\":\"JczinX\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":-1.0,\"StatsSpeed\":36.0,\"EVSpecialAttack\":0.0,\"IsShiny\":1.0,\"StatsAttack\":63.0,\"UUIDMost\":-8.50160308049869E18,\"IVSpeed\":10.0,\"Level\":45.0,\"IVSpAtt\":19.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}"
+        ]
+        timestamp="03/06/2021 23:52"
+        uniqueID=a46d5544-995f-430d-8495-2588979d37bc
+    },
+    {
+        otherParticipant=a969dcde-46db-34ba-9462-3f7b40aac4b7
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[]
+        participant="21fb4f6a-03fd-3133-8bf9-4d1a51463989"
+        sideItemStrings=[
+            "{\"ContentVersion\":2,\"ItemType\":\"pixelmon:thunder_stone_shovel\",\"Count\":1,\"UnsafeDamage\":68,\"UnsafeData\":{\"ench\":[{\"lvl\":5,\"id\":32},{\"lvl\":3,\"id\":34},{\"lvl\":3,\"id\":35}],\"RepairCost\":15}}"
+        ]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[]
+        timestamp="04/06/2021 02:03"
+        uniqueID="1ba55625-9ffc-4fcf-beec-fe64cf36e881"
+    },
+    {
+        otherParticipant="1fa9f143-4ef9-3830-b290-162f40b0d820"
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[
+            "{\"EVSpeed\":0.0,\"IVAttack\":1.0,\"Growth\":3.0,\"originalTrainerUUIDMost\":2.28161995762992538E18,\"PersistentData\":{},\"Gender\":1.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":87.0,\"Name\":\"Reuniclus\",\"isInRanch\":0.0,\"Friendship\":70.0,\"StatsDefence\":93.0,\"IVDefence\":31.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":136.0,\"IVSpDef\":19.0,\"CaughtBall\":0.0,\"IVHP\":3.0,\"AbilitySlot\":1.0,\"EVHP\":0.0,\"ndex\":579.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-5.5799355461074391E18,\"Nature\":16.0,\"StatsHP\":168.0,\"UUIDLeast\":-6.7554898839776543E18,\"Health\":168.0,\"originalTrainer\":\"rickwolfgamer\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":-1.0,\"StatsSpeed\":48.0,\"EVSpecialAttack\":0.0,\"IsShiny\":1.0,\"StatsAttack\":69.0,\"UUIDMost\":-5.8652283051469517E18,\"IVSpeed\":21.0,\"Level\":49.0,\"IVSpAtt\":19.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}"
+        ]
+        participant=a969dcde-46db-34ba-9462-3f7b40aac4b7
+        sideItemStrings=[]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[]
+        timestamp="04/06/2021 02:52"
+        uniqueID="95144814-4617-4866-a625-9a1ca1fb64ca"
+    }
+]

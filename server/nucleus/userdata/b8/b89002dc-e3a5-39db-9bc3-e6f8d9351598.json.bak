@@ -1,0 +1,21 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622776635119,
+  "lastIP": "/138.255.179.233",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622755186994,
+    "start": 1622755288142,
+    "livros": 1622756131081,
+    "diario": 1622758932761,
+    "mstart": 1622759249750,
+    "sstart": 1622760037337,
+    "dstart": 1622760225587,
+    "ajuda": 1622760398939
+  },
+  "firstJoin": 1622755186986,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Raygotz",
+  "fly": true
+}

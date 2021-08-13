@@ -1,0 +1,55 @@
+{
+  "data_version": 2,
+  "lastLogin": 1621871409619,
+  "lastIP": "/189.4.78.222",
+  "usedKits": {
+    "inicial": 1621777296470,
+    "start": 1621777517784,
+    "mstart": 1621777540341,
+    "sstart": 1621777673153,
+    "dstart": 1621777675640,
+    "ajuda": 1621777980934,
+    "raro": 1621778554198,
+    "diario": 1621779975829,
+    "pascoa": 1621780235848,
+    "farm": 1621780286525,
+    "menu": 1621780482686,
+    "casa": 1621780486380,
+    "ultra": 1621781197164
+  },
+  "firstJoin": 1621777296462,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Gustavo124000",
+  "fly": true,
+  "homes": {
+    "casa": {
+      "x": -7314.897340485063,
+      "y": 75,
+      "z": 1193.142026756623,
+      "rotx": 14.699980735778809,
+      "roty": 248.98394775390625,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    },
+    "bau": {
+      "x": -2142.8898830949934,
+      "y": 68,
+      "z": 928.9223342527765,
+      "rotx": 6.449951648712158,
+      "roty": 127.78662109375,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    },
+    "casa1": {
+      "x": -3780.8372192865927,
+      "y": 64,
+      "z": 5000.4544632602265,
+      "rotx": 8.55003547668457,
+      "roty": 100.6268310546875,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  }
+}

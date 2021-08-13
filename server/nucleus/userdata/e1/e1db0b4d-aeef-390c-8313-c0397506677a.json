@@ -1,0 +1,19 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622213505881,
+  "lastIP": "/138.99.55.2",
+  "usedKits": {
+    "inicial": 1621960425928,
+    "start": 1621960469856,
+    "dstart": 1622213533303,
+    "sstart": 1621960693294,
+    "mstart": 1621961557702
+  },
+  "firstJoin": 1621960425921,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "derunoob",
+  "fly": false,
+  "powertools": {}
+}

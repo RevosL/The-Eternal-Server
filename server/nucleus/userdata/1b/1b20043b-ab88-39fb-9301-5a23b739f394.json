@@ -1,0 +1,19 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623052133250,
+  "lastIP": "/198.8.92.133",
+  "usedKits": {
+    "inicial": 1623052133256,
+    "start": 1623052149399,
+    "mstart": 1623052292684,
+    "sstart": 1623052384284,
+    "dstart": 1623052385861
+  },
+  "firstJoin": 1623052133250,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Hurricane",
+  "fly": true,
+  "powertools": {}
+}

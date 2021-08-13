@@ -1,0 +1,30 @@
+logs=[
+    {
+        otherParticipant="849cb3bf-8e8c-3b98-9346-7ba3e7dd66ed"
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[
+            "{\"Currency\":\"economylite:coin\",\"Balance\":10000}"
+        ]
+        otherSidePokemonStrings=[]
+        participant="94d5a47f-5bdc-31a4-89da-397f6267d857"
+        sideItemStrings=[]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[]
+        timestamp="06/06/2021 21:19"
+        uniqueID="3bb69710-99ed-453e-92e6-e588a3c74cc1"
+    },
+    {
+        otherParticipant="849cb3bf-8e8c-3b98-9346-7ba3e7dd66ed"
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[]
+        participant="94d5a47f-5bdc-31a4-89da-397f6267d857"
+        sideItemStrings=[]
+        sideMoneyStrings=[
+            "{\"Currency\":\"economylite:coin\",\"Balance\":3000}"
+        ]
+        sidePokemonStrings=[]
+        timestamp="08/06/2021 17:33"
+        uniqueID="8b65f6ae-c94f-4862-a3ea-d07b9ffc311c"
+    }
+]

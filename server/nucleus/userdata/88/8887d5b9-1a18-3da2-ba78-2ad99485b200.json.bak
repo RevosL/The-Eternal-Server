@@ -1,0 +1,19 @@
+{
+  "data_version": 2,
+  "lastLogin": 1621816300800,
+  "lastIP": "/179.99.74.211",
+  "usedKits": {
+    "inicial": 1621816300809,
+    "start": 1621816821953,
+    "diario": 1621816831674,
+    "ajuda": 1621819798646,
+    "farm": 1621819864439,
+    "mstart": 1621820621280
+  },
+  "firstJoin": 1621816300800,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "samiirzinho",
+  "fly": false
+}

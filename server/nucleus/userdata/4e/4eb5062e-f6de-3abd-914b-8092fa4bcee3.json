@@ -1,0 +1,16 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623334596560,
+  "lastIP": "/190.237.242.17",
+  "usedKits": {
+    "inicial": 1623269435478,
+    "start": 1623269526072
+  },
+  "firstJoin": 1623269435472,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "maicol333",
+  "fly": true,
+  "powertools": {}
+}

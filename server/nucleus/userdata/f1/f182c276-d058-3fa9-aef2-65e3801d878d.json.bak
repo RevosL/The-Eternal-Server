@@ -1,0 +1,22 @@
+{
+  "data_version": 2,
+  "lastLogin": 1621890690409,
+  "lastIP": "/81.17.19.62",
+  "usedKits": {
+    "inicial": 1621890690420,
+    "start": 1621890832280,
+    "mstart": 1621890839722,
+    "sstart": 1621890994542,
+    "dstart": 1621890996097,
+    "ajuda": 1621891055410,
+    "diario": 1621891080522,
+    "farm": 1621891085418,
+    "casa": 1621891105132
+  },
+  "firstJoin": 1621890690409,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "SA_sasuke",
+  "fly": false
+}

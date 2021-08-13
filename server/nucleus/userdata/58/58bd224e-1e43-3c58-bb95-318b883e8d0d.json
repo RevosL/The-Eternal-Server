@@ -1,0 +1,21 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622163517059,
+  "lastIP": "/217.138.194.93",
+  "usedKits": {
+    "inicial": 1622062155373,
+    "start": 1622062215183,
+    "mstart": 1622062224925,
+    "sstart": 1622062329833,
+    "dstart": 1622062365580,
+    "pascoa": 1622062367823,
+    "diario": 1622062374425
+  },
+  "firstJoin": 1622062155368,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Scobby_Doo",
+  "fly": false,
+  "powertools": {}
+}

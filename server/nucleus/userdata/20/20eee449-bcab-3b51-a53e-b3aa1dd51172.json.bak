@@ -1,0 +1,18 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622692396661,
+  "lastIP": "/177.89.136.176",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622692396668,
+    "start": 1622693003906,
+    "mstart": 1622693048538,
+    "sstart": 1622693352465,
+    "dstart": 1622693354869,
+    "comida": 1622693992134
+  },
+  "firstJoin": 1622692396661,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "maymay"
+}

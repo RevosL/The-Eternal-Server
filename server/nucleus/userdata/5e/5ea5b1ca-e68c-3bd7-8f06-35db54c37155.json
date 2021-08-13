@@ -1,0 +1,16 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622174717177,
+  "lastIP": "/45.87.214.115",
+  "usedKits": {
+    "inicial": 1622174389476,
+    "start": 1622174508325
+  },
+  "firstJoin": 1622174389468,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Maskiz2",
+  "powertools": {},
+  "fly": false
+}

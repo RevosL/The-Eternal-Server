@@ -1,0 +1,202 @@
+logs=[
+    {
+        otherParticipant="09eeaad3-1c05-37d3-9ee1-27e3da7527e4"
+        otherSideItemStrings=[
+            "{\"ContentVersion\":2,\"ItemType\":\"minecraft:diamond_pickaxe\",\"Count\":1,\"UnsafeDamage\":312,\"UnsafeData\":{\"ench\":[{\"lvl\":3,\"id\":32}]}}"
+        ]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[]
+        participant=d61bd900-a97b-330d-ba48-f5739db16028
+        sideItemStrings=[]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[]
+        timestamp="24/05/2021 23:14"
+        uniqueID="057a2e86-bf61-459b-a59b-ce99231d348b"
+    },
+    {
+        otherParticipant="09eeaad3-1c05-37d3-9ee1-27e3da7527e4"
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[]
+        participant=d61bd900-a97b-330d-ba48-f5739db16028
+        sideItemStrings=[
+            "{\"ContentVersion\":2,\"ItemType\":\"minecraft:golden_shovel\",\"Count\":1,\"UnsafeDamage\":0}"
+        ]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[]
+        timestamp="25/05/2021 01:01"
+        uniqueID=f1b8b282-719d-402e-9f67-7616c35c9f5c
+    },
+    {
+        otherParticipant="09eeaad3-1c05-37d3-9ee1-27e3da7527e4"
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[
+            "{\"EVSpeed\":0.0,\"IVAttack\":28.0,\"Growth\":3.0,\"originalTrainerUUIDMost\":7.1569721448341299E17,\"PersistentData\":{},\"Gender\":0.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":49.0,\"Name\":\"Kirlia\",\"isInRanch\":0.0,\"Friendship\":35.0,\"StatsDefence\":41.0,\"IVDefence\":30.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":62.0,\"IVSpDef\":2.0,\"CaughtBall\":0.0,\"IVHP\":21.0,\"AbilitySlot\":0.0,\"EVHP\":0.0,\"ndex\":281.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-6.9982684863808696E18,\"Nature\":23.0,\"StatsHP\":80.0,\"UUIDLeast\":-7.1369411626447299E18,\"Health\":80.0,\"originalTrainer\":\"layon1324\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":-1.0,\"StatsSpeed\":45.0,\"EVSpecialAttack\":0.0,\"IsShiny\":0.0,\"StatsAttack\":40.0,\"UUIDMost\":3.2836037509859446E18,\"IVSpeed\":26.0,\"Level\":36.0,\"IVSpAtt\":29.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}"
+        ]
+        participant=d61bd900-a97b-330d-ba48-f5739db16028
+        sideItemStrings=[]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[
+            "{\"EVSpeed\":0.0,\"IVAttack\":11.0,\"Growth\":1.0,\"originalTrainerUUIDMost\":8.4219183955782011E18,\"PersistentData\":{},\"Gender\":0.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":11.0,\"Name\":\"Shellder\",\"isInRanch\":0.0,\"Friendship\":70.0,\"StatsDefence\":26.0,\"IVDefence\":19.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":18.0,\"IVSpDef\":12.0,\"CaughtBall\":0.0,\"IVHP\":16.0,\"AbilitySlot\":0.0,\"EVHP\":0.0,\"ndex\":90.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-5.4653431432751503E18,\"Nature\":17.0,\"StatsHP\":27.0,\"UUIDLeast\":-7.4308585243257856E18,\"Health\":27.0,\"originalTrainer\":\"mayconcosta75\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":-1.0,\"StatsSpeed\":15.0,\"EVSpecialAttack\":0.0,\"IsShiny\":1.0,\"StatsAttack\":17.0,\"UUIDMost\":-3.1090398673021997E17,\"IVSpeed\":29.0,\"Level\":10.0,\"IVSpAtt\":31.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}"
+        ]
+        timestamp="26/05/2021 04:40"
+        uniqueID="36f776da-e7f4-4761-a173-f7786cd868d8"
+    },
+    {
+        otherParticipant="17627af0-198d-329e-a580-6b3fcd5a47b3"
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[]
+        participant="09eeaad3-1c05-37d3-9ee1-27e3da7527e4"
+        sideItemStrings=[]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[
+            "{\"EVSpeed\":0.0,\"IVAttack\":29.0,\"Growth\":4.0,\"originalTrainerUUIDMost\":7.1569721448341299E17,\"PersistentData\":{\"SpongeData\":{}},\"Gender\":0.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":13.0,\"Name\":\"Magikarp\",\"isInRanch\":0.0,\"Friendship\":70.0,\"StatsDefence\":28.0,\"IVDefence\":7.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":16.0,\"IVSpDef\":1.0,\"CaughtBall\":21.0,\"IVHP\":26.0,\"AbilitySlot\":0.0,\"EVHP\":0.0,\"ndex\":129.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-6.9982684863808696E18,\"Nature\":4.0,\"StatsHP\":43.0,\"UUIDLeast\":-7.5322791547266806E18,\"Health\":43.0,\"originalTrainer\":\"layon1324\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":0.0,\"StatsSpeed\":42.0,\"EVSpecialAttack\":0.0,\"IsShiny\":0.0,\"StatsAttack\":14.0,\"UUIDMost\":3.4691772467176612E18,\"IVSpeed\":29.0,\"Level\":20.0,\"IVSpAtt\":25.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}"
+        ]
+        timestamp="27/05/2021 17:53"
+        uniqueID=aa413a63-120b-4ff6-8533-5c6f21e3e075
+    },
+    {
+        otherParticipant=c0886896-0973-385d-853d-26a7b0c7e185
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[]
+        participant="09eeaad3-1c05-37d3-9ee1-27e3da7527e4"
+        sideItemStrings=[
+            "{\"ContentVersion\":2,\"ItemType\":\"minecraft:sapling\",\"Count\":8,\"UnsafeDamage\":0}",
+            "{\"ContentVersion\":2,\"ItemType\":\"minecraft:sapling\",\"Count\":17,\"UnsafeDamage\":5}"
+        ]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[]
+        timestamp="30/05/2021 14:59"
+        uniqueID=e2f1e4b3-c9e5-470a-80c8-afa7e2ea3c9a
+    },
+    {
+        otherParticipant="09eeaad3-1c05-37d3-9ee1-27e3da7527e4"
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[]
+        participant="1c2189fd-5e31-3316-bf94-81204e86d51c"
+        sideItemStrings=[]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[
+            "{\"EVSpeed\":0.0,\"IVAttack\":0.0,\"Growth\":2.0,\"originalTrainerUUIDMost\":2.02705302859344768E18,\"PersistentData\":{\"SpongeData\":{\"CanGrief\":1.0}},\"Gender\":0.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":38.0,\"Name\":\"Alakazam\",\"isInRanch\":0.0,\"Friendship\":70.0,\"StatsDefence\":20.0,\"IVDefence\":7.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":45.0,\"IVSpDef\":18.0,\"CaughtBall\":21.0,\"IVHP\":20.0,\"AbilitySlot\":0.0,\"EVHP\":0.0,\"ndex\":65.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-4.6419433401557432E18,\"Nature\":7.0,\"StatsHP\":46.0,\"UUIDLeast\":-5.6830418262702029E18,\"Health\":46.0,\"originalTrainer\":\"BoyFrend\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":0.0,\"StatsSpeed\":44.0,\"EVSpecialAttack\":0.0,\"IsShiny\":0.0,\"StatsAttack\":23.0,\"UUIDMost\":-8.2225774836141722E18,\"IVSpeed\":9.0,\"Level\":16.0,\"IVSpAtt\":15.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}"
+        ]
+        timestamp="30/05/2021 23:26"
+        uniqueID="626c0509-768f-4cb1-8997-30bfc8e2120a"
+    },
+    {
+        otherParticipant="09eeaad3-1c05-37d3-9ee1-27e3da7527e4"
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[]
+        participant="92483c4e-c4c1-3d5f-b49d-28aab2bd1d7f"
+        sideItemStrings=[]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[
+            "{\"EVSpeed\":0.0,\"IVAttack\":1.0,\"Growth\":5.0,\"originalTrainerUUIDMost\":-7.9060028368427919E18,\"PersistentData\":{\"SpongeData\":{\"CanGrief\":1.0}},\"Gender\":2.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":118.0,\"Name\":\"Blacephalon\",\"isInRanch\":0.0,\"Friendship\":70.0,\"StatsDefence\":87.0,\"IVDefence\":31.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":204.0,\"IVSpDef\":31.0,\"CaughtBall\":4.0,\"IVHP\":29.0,\"AbilitySlot\":0.0,\"EVHP\":0.0,\"ndex\":806.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-5.4321408619306609E18,\"Nature\":1.0,\"StatsHP\":151.0,\"UUIDLeast\":-7.4524092547932191E18,\"Health\":151.0,\"originalTrainer\":\"TreemBala\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":-1.0,\"StatsSpeed\":145.0,\"EVSpecialAttack\":0.0,\"IsShiny\":0.0,\"StatsAttack\":158.0,\"UUIDMost\":-5.3686736732077261E18,\"IVSpeed\":20.0,\"Level\":60.0,\"IVSpAtt\":31.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}"
+        ]
+        timestamp="04/06/2021 22:14"
+        uniqueID="0f3a5620-ca53-4626-9f33-02253c7aec5a"
+    },
+    {
+        otherParticipant="09eeaad3-1c05-37d3-9ee1-27e3da7527e4"
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[]
+        participant="92483c4e-c4c1-3d5f-b49d-28aab2bd1d7f"
+        sideItemStrings=[]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[
+            "{\"EVSpeed\":252.0,\"IVAttack\":31.0,\"originalTrainerUUIDMost\":-7.9060028368427919E18,\"Growth\":2.0,\"PersistentData\":{\"SpongeData\":{\"CanGrief\":1.0},\"SrcForm\":0.0},\"Gender\":2.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":196.0,\"Name\":\"Zygarde\",\"isInRanch\":0.0,\"Friendship\":247.0,\"StatsDefence\":244.0,\"IVDefence\":25.0,\"EVAttack\":252.0,\"IVSpDef\":1.0,\"StatsSpecialAttack\":198.0,\"CaughtBall\":0.0,\"IVHP\":31.0,\"AbilitySlot\":1.0,\"EVHP\":6.0,\"ndex\":718.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-5.4321408619306609E18,\"MoveSkillCooldowns\":{\"change_formLeast\":1.622846347218E12,\"change_formMost\":1.622846346218E12},\"Nature\":14.0,\"StatsHP\":358.0,\"HeldItemStack\":{\"id\":\"pixelmon:leftovers\",\"Count\":1.0,\"Damage\":0.0},\"UUIDLeast\":-9.1454957772864369E18,\"Health\":358.0,\"originalTrainer\":\"TreemBala\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":0.0,\"EVSpecialAttack\":0.0,\"StatsSpeed\":292.0,\"IsShiny\":0.0,\"StatsAttack\":299.0,\"UUIDMost\":1.9308305370807831E18,\"IVSpeed\":8.0,\"Level\":100.0,\"EVDefence\":0.0,\"IVSpAtt\":31.0,\"NBT_VERSION\":1.0,\"EXP\":20622.0}"
+        ]
+        timestamp="04/06/2021 22:44"
+        uniqueID=b4fee3b8-1c05-4ec2-beed-e69602940959
+    },
+    {
+        otherParticipant="09eeaad3-1c05-37d3-9ee1-27e3da7527e4"
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[
+            "{\"EVSpeed\":252.0,\"IVAttack\":31.0,\"originalTrainerUUIDMost\":-7.9060028368427919E18,\"Growth\":2.0,\"PersistentData\":{\"SpongeData\":{\"CanGrief\":1.0},\"SrcForm\":0.0},\"Gender\":2.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":196.0,\"Name\":\"Zygarde\",\"isInRanch\":0.0,\"Friendship\":247.0,\"StatsDefence\":244.0,\"IVDefence\":25.0,\"EVAttack\":252.0,\"IVSpDef\":1.0,\"StatsSpecialAttack\":198.0,\"CaughtBall\":0.0,\"IVHP\":31.0,\"AbilitySlot\":1.0,\"EVHP\":6.0,\"ndex\":718.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-5.4321408619306609E18,\"MoveSkillCooldowns\":{\"change_formLeast\":1.62284669005E12,\"change_formMost\":1.62284668905E12},\"Nature\":14.0,\"StatsHP\":358.0,\"HeldItemStack\":{\"id\":\"pixelmon:leftovers\",\"Count\":1.0,\"Damage\":0.0},\"UUIDLeast\":-9.1454957772864369E18,\"Health\":358.0,\"originalTrainer\":\"TreemBala\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":0.0,\"EVSpecialAttack\":0.0,\"StatsSpeed\":292.0,\"IsShiny\":0.0,\"StatsAttack\":299.0,\"UUIDMost\":1.9308305370807831E18,\"IVSpeed\":8.0,\"Level\":100.0,\"EVDefence\":0.0,\"IVSpAtt\":31.0,\"NBT_VERSION\":1.0,\"EXP\":20622.0}"
+        ]
+        participant="92483c4e-c4c1-3d5f-b49d-28aab2bd1d7f"
+        sideItemStrings=[]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[]
+        timestamp="04/06/2021 22:45"
+        uniqueID="018323e2-b5e2-4c8e-b164-2fa82d7ba0ba"
+    },
+    {
+        otherParticipant="09eeaad3-1c05-37d3-9ee1-27e3da7527e4"
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[]
+        participant="84613ed4-119f-3b1f-b999-af70664f62bc"
+        sideItemStrings=[
+            "{\"ContentVersion\":2,\"ItemType\":\"pixelmon:pure_incense\",\"Count\":1,\"UnsafeDamage\":0}",
+            "{\"ContentVersion\":2,\"ItemType\":\"pixelmon:cherish_ball\",\"Count\":1,\"UnsafeDamage\":0}",
+            "{\"ContentVersion\":2,\"ItemType\":\"minecraft:golden_apple\",\"Count\":64,\"UnsafeDamage\":0}",
+            "{\"ContentVersion\":2,\"ItemType\":\"minecraft:compass\",\"Count\":1,\"UnsafeDamage\":0,\"Data\":[{\"ContentVersion\":2,\"ManipulatorId\":\"commanditems:commanditem_data\",\"ManipulatorData\":{\"ContentVersion\":2,\"commanditem\":\"menu\"}}],\"UnsafeData\":{\"display\":{\"Lore\":[\"§a§labre menu\"],\"Name\":\"§2§lMENU\"}}}",
+            "{\"ContentVersion\":2,\"ItemType\":\"pixelmon:yellow_apricorn\",\"Count\":1,\"UnsafeDamage\":0}",
+            "{\"ContentVersion\":2,\"ItemType\":\"minecraft:golden_apple\",\"Count\":16,\"UnsafeDamage\":1}",
+            "{\"ContentVersion\":2,\"ItemType\":\"pixelmon:exp_share\",\"Count\":1,\"UnsafeDamage\":0}",
+            "{\"ContentVersion\":2,\"ItemType\":\"pixelmon:great_ball\",\"Count\":64,\"UnsafeDamage\":0}",
+            "{\"ContentVersion\":2,\"ItemType\":\"pixelmon:great_ball\",\"Count\":22,\"UnsafeDamage\":0}",
+            "{\"ContentVersion\":2,\"ItemType\":\"pixelmon:quick_ball\",\"Count\":64,\"UnsafeDamage\":0}",
+            "{\"ContentVersion\":2,\"ItemType\":\"pixelmon:quick_ball\",\"Count\":64,\"UnsafeDamage\":0}",
+            "{\"ContentVersion\":2,\"ItemType\":\"minecraft:cooked_mutton\",\"Count\":62,\"UnsafeDamage\":0}",
+            "{\"ContentVersion\":2,\"ItemType\":\"minecraft:cooked_porkchop\",\"Count\":62,\"UnsafeDamage\":0}",
+            "{\"ContentVersion\":2,\"ItemType\":\"pixelmon:quick_ball\",\"Count\":6,\"UnsafeDamage\":0}",
+            "{\"ContentVersion\":2,\"ItemType\":\"pixelmon:pokemail_steel\",\"Count\":1,\"UnsafeDamage\":0}",
+            "{\"ContentVersion\":2,\"ItemType\":\"pixelmon:ultra_ball\",\"Count\":1,\"UnsafeDamage\":0}",
+            "{\"ContentVersion\":2,\"ItemType\":\"minecraft:coal\",\"Count\":3,\"UnsafeDamage\":0}",
+            "{\"ContentVersion\":2,\"ItemType\":\"minecraft:diamond_shovel\",\"Count\":1,\"UnsafeDamage\":53}",
+            "{\"ContentVersion\":2,\"ItemType\":\"pixelmon:old_running_boots\",\"Count\":1,\"UnsafeDamage\":0}",
+            "{\"ContentVersion\":2,\"ItemType\":\"minecraft:compass\",\"Count\":1,\"UnsafeDamage\":0,\"UnsafeData\":{\"display\":{\"Lore\":[\"§a§labre menu\"],\"Name\":\"§2§lMENU\"}}}",
+            "{\"ContentVersion\":2,\"ItemType\":\"minecraft:diamond_leggings\",\"Count\":1,\"UnsafeDamage\":0}",
+            "{\"ContentVersion\":2,\"ItemType\":\"minecraft:diamond_chestplate\",\"Count\":1,\"UnsafeDamage\":0}",
+            "{\"ContentVersion\":2,\"ItemType\":\"minecraft:diamond_helmet\",\"Count\":1,\"UnsafeDamage\":0}"
+        ]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[]
+        timestamp="09/06/2021 14:05"
+        uniqueID=cc501149-20c3-4302-9293-8af213b60138
+    },
+    {
+        otherParticipant="09eeaad3-1c05-37d3-9ee1-27e3da7527e4"
+        otherSideItemStrings=[
+            "{\"ContentVersion\":2,\"ItemType\":\"pixelmon:salamencite\",\"Count\":1,\"UnsafeDamage\":0}"
+        ]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[]
+        participant=b2199799-61d1-30ee-b8ab-751cdefcc54b
+        sideItemStrings=[
+            "{\"ContentVersion\":2,\"ItemType\":\"pixelmon:mewtwonite_x\",\"Count\":1,\"UnsafeDamage\":0}"
+        ]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[]
+        timestamp="17/06/2021 14:20"
+        uniqueID="1ebad068-50fc-4146-b292-d01c90de528f"
+    },
+    {
+        otherParticipant="09eeaad3-1c05-37d3-9ee1-27e3da7527e4"
+        otherSideItemStrings=[
+            "{\"ContentVersion\":2,\"ItemType\":\"minecraft:tripwire_hook\",\"Count\":1,\"UnsafeDamage\":0,\"UnsafeData\":{\"HCKEYUUID\":\"2564eae1-47b0-4db5-be42-ae18dbf3cda4\",\"display\":{\"Name\":\"§6Chave Caixa Shiny\"},\"HCKEYID\":\"LOCALKEY_ShinyRegular\"}}",
+            "{\"ContentVersion\":2,\"ItemType\":\"minecraft:tripwire_hook\",\"Count\":1,\"UnsafeDamage\":0,\"UnsafeData\":{\"HCKEYUUID\":\"d2e7ce7c-ca99-43a5-99e7-d88c26dba864\",\"display\":{\"Name\":\"§6Chave Caixa Shiny\"},\"HCKEYID\":\"LOCALKEY_ShinyRegular\"}}",
+            "{\"ContentVersion\":2,\"ItemType\":\"minecraft:tripwire_hook\",\"Count\":1,\"UnsafeDamage\":0,\"UnsafeData\":{\"HCKEYUUID\":\"eb60b156-9f03-4e01-8647-535506b13d3f\",\"display\":{\"Name\":\"§6Chave Caixa Shiny\"},\"HCKEYID\":\"LOCALKEY_ShinyRegular\"}}",
+            "{\"ContentVersion\":2,\"ItemType\":\"minecraft:tripwire_hook\",\"Count\":1,\"UnsafeDamage\":0,\"UnsafeData\":{\"HCKEYUUID\":\"3d662116-5c4f-4a91-94cb-62bed72cadc4\",\"display\":{\"Name\":\"§6Chave Caixa Shiny\"},\"HCKEYID\":\"LOCALKEY_ShinyRegular\"}}"
+        ]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[]
+        participant="5e088e59-9105-366c-bf7a-4b93604cccec"
+        sideItemStrings=[]
+        sideMoneyStrings=[
+            "{\"Currency\":\"economylite:coin\",\"Balance\":80000}"
+        ]
+        sidePokemonStrings=[]
+        timestamp="17/06/2021 22:51"
+        uniqueID="8519ec66-3f12-41f2-b818-1a464893c51f"
+    }
+]

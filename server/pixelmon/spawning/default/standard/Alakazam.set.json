@@ -1,0 +1,57 @@
+{
+  "id": "Alakazam",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Alakazam"
+      },
+      "stringLocationTypes": [
+        "Indoors"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:twisted_spoon",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "structures": [
+          "EndCity"
+        ],
+        "stringBiomes": [
+          "end"
+        ]
+      },
+      "rarity": 0.1
+    },
+    {
+      "spec": {
+        "name": "Alakazam"
+      },
+      "stringLocationTypes": [
+        "Indoors"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:twisted_spoon",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "structures": [
+          "Temple"
+        ],
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 0.1
+    }
+  ]
+}

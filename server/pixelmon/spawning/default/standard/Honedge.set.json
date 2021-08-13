@@ -1,0 +1,46 @@
+{
+  "id": "Honedge",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Honedge"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 90.0
+    },
+    {
+      "spec": {
+        "name": "Honedge"
+      },
+      "stringLocationTypes": [
+        "Manmade",
+        "Indoors"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "Fortress"
+        ],
+        "stringBiomes": [
+          "nether"
+        ]
+      },
+      "rarity": 90.0
+    }
+  ]
+}

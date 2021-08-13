@@ -1,0 +1,17 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622325450437,
+  "lastIP": "/177.66.57.133",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622325450444,
+    "start": 1622325550269,
+    "dstart": 1622325593906,
+    "sstart": 1622325703904,
+    "mstart": 1622325833650
+  },
+  "firstJoin": 1622325450437,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "ManoRafaArthur"
+}

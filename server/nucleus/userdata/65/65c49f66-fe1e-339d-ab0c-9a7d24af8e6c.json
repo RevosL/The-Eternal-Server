@@ -1,0 +1,20 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623049168966,
+  "lastIP": "/168.181.50.163",
+  "usedKits": {
+    "inicial": 1623001876942,
+    "start": 1623002085537,
+    "mstart": 1623002098484,
+    "sstart": 1623002267927,
+    "dstart": 1623002270235,
+    "ajuda": 1623002363845
+  },
+  "firstJoin": 1623001876934,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "PandaR",
+  "fly": false,
+  "powertools": {}
+}

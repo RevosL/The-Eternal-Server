@@ -1,0 +1,23 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622218689221,
+  "lastIP": "/191.242.246.160",
+  "usedKits": {
+    "inicial": 1622217945617,
+    "ajuda": 1622217978479,
+    "start": 1622218026661,
+    "farm": 1622220665096,
+    "diario": 1622220679229,
+    "casa": 1622220832465,
+    "dstart": 1622222532421,
+    "sstart": 1622222565891,
+    "mstart": 1622222601460
+  },
+  "firstJoin": 1622217945607,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "fefeterumi",
+  "powertools": {},
+  "fly": true
+}

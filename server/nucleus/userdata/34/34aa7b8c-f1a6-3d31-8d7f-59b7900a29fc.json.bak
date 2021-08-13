@@ -1,0 +1,21 @@
+{
+  "data_version": 2,
+  "lastLogin": 1621891916747,
+  "lastIP": "/141.255.167.138",
+  "usedKits": {
+    "inicial": 1621891916758,
+    "start": 1621891988417,
+    "mstart": 1621891993910,
+    "sstart": 1621892055085,
+    "dstart": 1621892056686,
+    "ajuda": 1621892098006,
+    "diario": 1621892134160,
+    "farm": 1621892155103
+  },
+  "firstJoin": 1621891916747,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "igorfukumga",
+  "fly": false
+}

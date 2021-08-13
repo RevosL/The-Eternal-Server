@@ -1,0 +1,101 @@
+logs=[
+    {
+        otherParticipant="73346dfa-0996-3790-884f-ad81e9af4124"
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[]
+        participant=f3f7acb8-5ca0-3769-b8c3-d5b02332367e
+        sideItemStrings=[]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[
+            "{\"EVSpeed\":0.0,\"IVAttack\":15.0,\"Growth\":5.0,\"originalTrainerUUIDMost\":-8.6703449541756736E17,\"PersistentData\":{},\"Gender\":0.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":14.0,\"Name\":\"Krabby\",\"isInRanch\":0.0,\"Friendship\":70.0,\"StatsDefence\":32.0,\"IVDefence\":31.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":11.0,\"IVSpDef\":20.0,\"CaughtBall\":0.0,\"IVHP\":5.0,\"AbilitySlot\":0.0,\"EVHP\":0.0,\"ndex\":98.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-5.1330241977907794E18,\"Nickname\":\"31 def\",\"Nature\":7.0,\"StatsHP\":31.0,\"UUIDLeast\":-6.2827638077399654E18,\"Health\":31.0,\"originalTrainer\":\"telesi12\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":-1.0,\"StatsSpeed\":21.0,\"EVSpecialAttack\":0.0,\"IsShiny\":0.0,\"StatsAttack\":37.0,\"UUIDMost\":-7.3805180174886984E18,\"IVSpeed\":26.0,\"Level\":13.0,\"IVSpAtt\":14.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}",
+            "{\"EVSpeed\":0.0,\"IVAttack\":1.0,\"Growth\":4.0,\"originalTrainerUUIDMost\":-8.6703449541756736E17,\"PersistentData\":{\"SpongeData\":{}},\"Gender\":1.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":11.0,\"Name\":\"Froslass\",\"isInRanch\":0.0,\"Friendship\":70.0,\"StatsDefence\":12.0,\"IVDefence\":17.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":13.0,\"IVSpDef\":21.0,\"CaughtBall\":21.0,\"IVHP\":13.0,\"AbilitySlot\":0.0,\"EVHP\":0.0,\"ndex\":478.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-5.1330241977907794E18,\"Nickname\":\"31 spd\",\"Nature\":16.0,\"StatsHP\":22.0,\"UUIDLeast\":-6.7516511719843215E18,\"Health\":22.0,\"originalTrainer\":\"telesi12\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":-1.0,\"StatsSpeed\":18.0,\"EVSpecialAttack\":0.0,\"IsShiny\":0.0,\"StatsAttack\":13.0,\"UUIDMost\":-6.8621344942587075E18,\"IVSpeed\":31.0,\"Level\":5.0,\"IVSpAtt\":18.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}"
+        ]
+        timestamp="25/05/2021 11:51"
+        uniqueID="006201e5-6c04-41fa-940a-f0b7bbae8dda"
+    },
+    {
+        otherParticipant=f3f7acb8-5ca0-3769-b8c3-d5b02332367e
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[]
+        participant="73346dfa-0996-3790-884f-ad81e9af4124"
+        sideItemStrings=[]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[
+            "{\"EVSpeed\":0.0,\"IVAttack\":27.0,\"Growth\":3.0,\"originalTrainerUUIDMost\":8.301380933820758E18,\"PersistentData\":{\"SpongeData\":{}},\"Gender\":1.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":17.0,\"Name\":\"Ralts\",\"isInRanch\":0.0,\"Friendship\":33.0,\"StatsDefence\":15.0,\"IVDefence\":13.0,\"EVAttack\":6.0,\"StatsSpecialAttack\":18.0,\"IVSpDef\":6.0,\"CaughtBall\":21.0,\"IVHP\":7.0,\"AbilitySlot\":0.0,\"EVHP\":0.0,\"ndex\":280.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-8.6244839879082476E18,\"Nickname\":\"Jolly\",\"Nature\":15.0,\"StatsHP\":36.0,\"UUIDLeast\":-5.1748809265230336E18,\"Health\":36.0,\"originalTrainer\":\"Kothan\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":-1.0,\"StatsSpeed\":20.0,\"EVSpecialAttack\":0.0,\"IsShiny\":0.0,\"StatsAttack\":17.0,\"UUIDMost\":6.4736876845020785E18,\"IVSpeed\":13.0,\"Level\":16.0,\"IVSpAtt\":16.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":399.0}"
+        ]
+        timestamp="25/05/2021 16:00"
+        uniqueID=b34a7d31-95d4-4306-a02d-e78147df83e0
+    },
+    {
+        otherParticipant=f3f7acb8-5ca0-3769-b8c3-d5b02332367e
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[
+            "{\"EVSpeed\":0.0,\"IVAttack\":27.0,\"Growth\":3.0,\"originalTrainerUUIDMost\":8.301380933820758E18,\"PersistentData\":{\"SpongeData\":{}},\"Gender\":1.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":19.0,\"Name\":\"Ralts\",\"isInRanch\":0.0,\"Friendship\":43.0,\"StatsDefence\":18.0,\"IVDefence\":13.0,\"EVAttack\":6.0,\"StatsSpecialAttack\":22.0,\"IVSpDef\":6.0,\"CaughtBall\":21.0,\"IVHP\":7.0,\"AbilitySlot\":0.0,\"EVHP\":0.0,\"ndex\":280.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-8.6244839879082476E18,\"Nickname\":\"Jolly\",\"Nature\":15.0,\"StatsHP\":40.0,\"UUIDLeast\":-5.1748809265230336E18,\"Health\":19.0,\"originalTrainer\":\"Kothan\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":-1.0,\"StatsSpeed\":24.0,\"EVSpecialAttack\":0.0,\"IsShiny\":0.0,\"StatsAttack\":19.0,\"UUIDMost\":6.4736876845020785E18,\"IVSpeed\":13.0,\"Level\":19.0,\"IVSpAtt\":16.0,\"EVDefence\":24.0,\"NBT_VERSION\":1.0,\"EXP\":597.0}"
+        ]
+        participant="73346dfa-0996-3790-884f-ad81e9af4124"
+        sideItemStrings=[]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[]
+        timestamp="25/05/2021 16:30"
+        uniqueID="026a296a-cdd1-446f-9421-a124572000e2"
+    },
+    {
+        otherParticipant=f3f7acb8-5ca0-3769-b8c3-d5b02332367e
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[]
+        participant="73346dfa-0996-3790-884f-ad81e9af4124"
+        sideItemStrings=[]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[
+            "{\"EVSpeed\":0.0,\"IVAttack\":27.0,\"Growth\":3.0,\"originalTrainerUUIDMost\":8.301380933820758E18,\"PersistentData\":{\"SpongeData\":{}},\"Gender\":1.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":19.0,\"Name\":\"Ralts\",\"isInRanch\":0.0,\"Friendship\":43.0,\"StatsDefence\":18.0,\"IVDefence\":13.0,\"EVAttack\":6.0,\"StatsSpecialAttack\":22.0,\"IVSpDef\":6.0,\"CaughtBall\":21.0,\"IVHP\":7.0,\"AbilitySlot\":0.0,\"EVHP\":0.0,\"ndex\":280.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-8.6244839879082476E18,\"Nickname\":\"Jolly\",\"Nature\":15.0,\"StatsHP\":40.0,\"UUIDLeast\":-5.1748809265230336E18,\"Health\":19.0,\"originalTrainer\":\"Kothan\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":-1.0,\"StatsSpeed\":24.0,\"EVSpecialAttack\":0.0,\"IsShiny\":0.0,\"StatsAttack\":19.0,\"UUIDMost\":6.4736876845020785E18,\"IVSpeed\":13.0,\"Level\":19.0,\"IVSpAtt\":16.0,\"EVDefence\":24.0,\"NBT_VERSION\":1.0,\"EXP\":597.0}"
+        ]
+        timestamp="25/05/2021 16:57"
+        uniqueID=d8e8c4de-59fc-4349-9350-df328d1b4475
+    },
+    {
+        otherParticipant="73346dfa-0996-3790-884f-ad81e9af4124"
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[]
+        participant=f3f7acb8-5ca0-3769-b8c3-d5b02332367e
+        sideItemStrings=[]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[
+            "{\"EVSpeed\":0.0,\"IVAttack\":27.0,\"Growth\":3.0,\"originalTrainerUUIDMost\":8.301380933820758E18,\"PersistentData\":{\"SpongeData\":{}},\"Gender\":1.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":19.0,\"Name\":\"Ralts\",\"isInRanch\":0.0,\"Friendship\":40.0,\"StatsDefence\":18.0,\"IVDefence\":13.0,\"EVAttack\":6.0,\"StatsSpecialAttack\":22.0,\"IVSpDef\":6.0,\"CaughtBall\":21.0,\"IVHP\":7.0,\"AbilitySlot\":0.0,\"EVHP\":0.0,\"ndex\":280.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-8.6244839879082476E18,\"Nickname\":\"Jolly\",\"Nature\":15.0,\"StatsHP\":40.0,\"UUIDLeast\":-5.1748809265230336E18,\"Health\":40.0,\"originalTrainer\":\"Kothan\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":-1.0,\"StatsSpeed\":24.0,\"EVSpecialAttack\":0.0,\"IsShiny\":0.0,\"StatsAttack\":19.0,\"UUIDMost\":6.4736876845020785E18,\"IVSpeed\":13.0,\"Level\":19.0,\"IVSpAtt\":16.0,\"EVDefence\":28.0,\"NBT_VERSION\":1.0,\"EXP\":1205.0}"
+        ]
+        timestamp="25/05/2021 17:16"
+        uniqueID="9f3de012-a15e-49c7-b0fc-c31d0934fa40"
+    },
+    {
+        otherParticipant=f3f7acb8-5ca0-3769-b8c3-d5b02332367e
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[]
+        participant="73346dfa-0996-3790-884f-ad81e9af4124"
+        sideItemStrings=[]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[
+            "{\"EVSpeed\":0.0,\"IVAttack\":31.0,\"Growth\":4.0,\"originalTrainerUUIDMost\":8.301380933820758E18,\"PersistentData\":{\"SpongeData\":{}},\"Gender\":1.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":23.0,\"Name\":\"Abra\",\"isInRanch\":0.0,\"Friendship\":70.0,\"StatsDefence\":14.0,\"IVDefence\":30.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":34.0,\"IVSpDef\":6.0,\"CaughtBall\":21.0,\"IVHP\":11.0,\"AbilitySlot\":0.0,\"EVHP\":0.0,\"ndex\":63.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-8.6244839879082476E18,\"Nature\":15.0,\"StatsHP\":35.0,\"UUIDLeast\":-8.3451149437900472E18,\"Health\":35.0,\"originalTrainer\":\"Kothan\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":-1.0,\"StatsSpeed\":36.0,\"EVSpecialAttack\":0.0,\"IsShiny\":0.0,\"StatsAttack\":16.0,\"UUIDMost\":-7.2736143417486019E18,\"IVSpeed\":0.0,\"Level\":16.0,\"IVSpAtt\":1.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}"
+        ]
+        timestamp="25/05/2021 17:26"
+        uniqueID="4818b60f-7a87-438e-a219-29729cc92113"
+    },
+    {
+        otherParticipant=f3f7acb8-5ca0-3769-b8c3-d5b02332367e
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[]
+        participant="73346dfa-0996-3790-884f-ad81e9af4124"
+        sideItemStrings=[]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[
+            "{\"EVSpeed\":0.0,\"IVAttack\":21.0,\"Growth\":3.0,\"originalTrainerUUIDMost\":8.301380933820758E18,\"PersistentData\":{\"SpongeData\":{}},\"Gender\":0.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":22.0,\"Name\":\"Abra\",\"isInRanch\":0.0,\"Friendship\":70.0,\"StatsDefence\":10.0,\"IVDefence\":3.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":46.0,\"IVSpDef\":2.0,\"CaughtBall\":21.0,\"IVHP\":5.0,\"AbilitySlot\":0.0,\"EVHP\":0.0,\"ndex\":63.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-8.6244839879082476E18,\"Nature\":17.0,\"StatsHP\":34.0,\"UUIDLeast\":-6.8826729207469322E18,\"Health\":34.0,\"originalTrainer\":\"Kothan\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":-1.0,\"StatsSpeed\":35.0,\"EVSpecialAttack\":0.0,\"IsShiny\":0.0,\"StatsAttack\":12.0,\"UUIDMost\":-3.0743568307059256E18,\"IVSpeed\":9.0,\"Level\":16.0,\"IVSpAtt\":25.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}"
+        ]
+        timestamp="25/05/2021 20:35"
+        uniqueID="8bc6e1cf-76d8-4f77-8588-0da41da27ec8"
+    }
+]

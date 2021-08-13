@@ -1,0 +1,18 @@
+{
+  "data_version": 2,
+  "lastLogin": 1621962804817,
+  "lastIP": "/179.192.16.185",
+  "usedKits": {
+    "inicial": 1621949185054,
+    "start": 1621949380852,
+    "ajuda": 1621949413408,
+    "dstart": 1621950279009,
+    "sstart": 1621950302104
+  },
+  "firstJoin": 1621949185046,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "TwilightWolf27",
+  "fly": true
+}

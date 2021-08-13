@@ -1,0 +1,16 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622749159103,
+  "lastIP": "/179.107.224.153",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622749159109,
+    "start": 1622749345948,
+    "dstart": 1622749379189,
+    "sstart": 1622749383468
+  },
+  "firstJoin": 1622749159103,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "pvpgato"
+}

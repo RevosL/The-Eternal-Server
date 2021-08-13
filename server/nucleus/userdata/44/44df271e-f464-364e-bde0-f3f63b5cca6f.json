@@ -1,0 +1,33 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623293285013,
+  "lastIP": "/138.117.116.246",
+  "usedKits": {
+    "inicial": 1623275234813,
+    "start": 1623275553819,
+    "mstart": 1623275660375,
+    "pascoa": 1623275733607,
+    "sstart": 1623275795413,
+    "dstart": 1623275893696,
+    "ajuda": 1623276566243,
+    "diario": 1623276596268
+  },
+  "firstJoin": 1623275234808,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "alistorres",
+  "homes": {
+    "base": {
+      "x": -7110.570610645676,
+      "y": 63,
+      "z": 6641.81850381456,
+      "rotx": 24.273590087890625,
+      "roty": -66.41661834716797,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  },
+  "fly": true,
+  "powertools": {}
+}

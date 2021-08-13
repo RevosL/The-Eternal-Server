@@ -1,0 +1,18 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622766065611,
+  "lastIP": "/5.62.51.133",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622766065618,
+    "start": 1622766160418,
+    "mstart": 1622766166836,
+    "sstart": 1622766301090,
+    "dstart": 1622766307132
+  },
+  "firstJoin": 1622766065611,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Dexter",
+  "fly": false
+}

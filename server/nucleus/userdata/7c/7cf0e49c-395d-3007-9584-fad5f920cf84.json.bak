@@ -1,0 +1,35 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623252701059,
+  "lastIP": "/191.188.83.170",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622658388730,
+    "farm": 1622840543718,
+    "pascoa": 1622658468555,
+    "livros": 1622658470922,
+    "start": 1622658473467,
+    "casa": 1622658503681,
+    "sstart": 1622658506286,
+    "ajuda": 1622735222742,
+    "diario": 1622735279036,
+    "dstart": 1622994663931,
+    "mstart": 1622736195767
+  },
+  "firstJoin": 1622658388724,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Red_Games",
+  "fly": true,
+  "homes": {
+    "casa": {
+      "x": -8951.850621800158,
+      "y": 66,
+      "z": 7743.5280220196655,
+      "rotx": 31.800018310546875,
+      "roty": -4.355359077453613,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  }
+}

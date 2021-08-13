@@ -1,0 +1,20 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623002992819,
+  "lastIP": "/189.40.87.4",
+  "usedKits": {
+    "inicial": 1623002992827,
+    "start": 1623003058790,
+    "sstart": 1623003117706,
+    "mstart": 1623003119265,
+    "pascoa": 1623003190952,
+    "dstart": 1623003192274
+  },
+  "firstJoin": 1623002992819,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "andreGM",
+  "fly": true,
+  "powertools": {}
+}

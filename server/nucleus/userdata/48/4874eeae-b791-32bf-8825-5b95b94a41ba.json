@@ -1,0 +1,38 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622327751717,
+  "lastIP": "/179.198.96.143",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622321649260,
+    "casa": 1622321765292,
+    "farm": 1622322421141,
+    "diario": 1622322463620,
+    "ajuda": 1622322485722,
+    "livros": 1622322615901,
+    "comida": 1622322618380,
+    "start": 1622322622440,
+    "sstart": 1622322643309,
+    "mstart": 1622322648130,
+    "menu": 1622323411223,
+    "dstart": 1622323413766,
+    "pascoa": 1622323451292
+  },
+  "firstJoin": 1622321649251,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "DARK444666",
+  "fly": false,
+  "homes": {
+    "home": {
+      "x": 4254.576115843412,
+      "y": 64,
+      "z": -8572.37899250231,
+      "rotx": 38.18034362792969,
+      "roty": -108.64974975585938,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  },
+  "powertools": {}
+}

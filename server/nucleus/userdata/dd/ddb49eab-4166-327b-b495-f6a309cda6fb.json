@@ -1,0 +1,36 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622672631812,
+  "lastIP": "/192.96.203.69",
+  "usedKits": {
+    "inicial": 1622594038379,
+    "start": 1622594099817,
+    "comida": 1622594419366,
+    "dstart": 1622594433167,
+    "mstart": 1622594755606,
+    "pascoa": 1622599392055,
+    "sstart": 1622599671950
+  },
+  "firstJoin": 1622594038370,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "aimbot",
+  "ignoreList": [
+    "49ff490b-4d9b-3318-a887-00bba5dab53e",
+    "92483c4e-c4c1-3d5f-b49d-28aab2bd1d7f"
+  ],
+  "fly": true,
+  "homes": {
+    "kyogre": {
+      "x": -8151.539947489654,
+      "y": 56,
+      "z": 535.5005078930214,
+      "rotx": 28.450145721435547,
+      "roty": -321.9292907714844,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  },
+  "powertools": {}
+}

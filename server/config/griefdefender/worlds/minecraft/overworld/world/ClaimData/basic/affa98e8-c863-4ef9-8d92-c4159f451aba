@@ -1,0 +1,42 @@
+GriefDefender {
+    accessor-groups=[]
+    accessors=[]
+    builder-groups=[]
+    builders=[]
+    claim-expiration=true
+    claim-type=basic
+    container-groups=[]
+    containers=[]
+    cuboid=false
+    date-created="2021-05-23T14:50:24.001Z"
+    date-last-active="2021-05-24T22:32:43.966Z"
+    deny-messages=true
+    economyData {
+        bankTransactionLog=[]
+        for-sale=false
+        forRent=false
+        rent-balances {}
+        rent-max-time=30
+        rent-min-time=0
+        rent-payment-type=UNDEFINED
+        rent-price=0.0
+        rentTransactionLog=[]
+        renters=[]
+        renters-delinquent=[]
+        sale-price=0.0
+        tax-balance=0.0
+        taxTransactionLog=[]
+    }
+    flag-overrides=true
+    greater-boundary-corner="-4091;255;-4097"
+    inherit-parent=true
+    isExpired=false
+    lesser-boundary-corner="-4095;0;-4103"
+    manager-groups=[]
+    managers=[]
+    owner-uuid=cee68a10-a093-3549-99d2-da330a3d0402
+    requires-claim-blocks=true
+    resizable=true
+    sizeRestrictions=true
+    world-uuid=fa9df8f4-6bbe-42a7-b26d-a3befddff91d
+}

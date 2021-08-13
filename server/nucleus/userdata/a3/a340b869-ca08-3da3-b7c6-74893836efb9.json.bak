@@ -1,0 +1,29 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623328704262,
+  "lastIP": "/189.27.232.47",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1623160381903,
+    "diario": 1623160561334,
+    "start": 1623161322720,
+    "sstart": 1623162346119,
+    "dstart": 1623162628789
+  },
+  "firstJoin": 1623160381895,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "zKilluaPvPz_",
+  "fly": true,
+  "homes": {
+    "home": {
+      "x": -5550.124188199102,
+      "y": 70,
+      "z": -6804.751109051237,
+      "rotx": 17.8504638671875,
+      "roty": -275.180419921875,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  }
+}

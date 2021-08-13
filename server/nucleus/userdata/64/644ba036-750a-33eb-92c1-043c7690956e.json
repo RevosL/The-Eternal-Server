@@ -1,0 +1,34 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623274440984,
+  "lastIP": "/177.126.20.91",
+  "usedKits": {
+    "inicial": 1623274440989,
+    "start": 1623274549990,
+    "dstart": 1623274560288,
+    "pascoa": 1623274742936,
+    "comida": 1623274774642,
+    "farm": 1623274775685,
+    "sstart": 1623274811671,
+    "mstart": 1623274814964,
+    "diario": 1623274946237
+  },
+  "firstJoin": 1623274440984,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "zfeel",
+  "homes": {
+    "casa": {
+      "x": -7676.498276002179,
+      "y": 63.0,
+      "z": -8673.818126883021,
+      "rotx": 25.499988555908203,
+      "roty": -331.8111877441406,
+      "rotz": 0.0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  },
+  "powertools": {},
+  "fly": true
+}

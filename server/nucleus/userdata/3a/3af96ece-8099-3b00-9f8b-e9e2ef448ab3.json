@@ -1,0 +1,18 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622692704304,
+  "lastIP": "/168.228.27.69",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622692704309,
+    "start": 1622692728411,
+    "diario": 1622692889919,
+    "ajuda": 1622692970125
+  },
+  "firstJoin": 1622692704304,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "NandoBlack",
+  "fly": false,
+  "powertools": {}
+}

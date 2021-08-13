@@ -1,0 +1,17 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622725691895,
+  "lastIP": "/179.162.193.241",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622725691908,
+    "start": 1622725835861,
+    "diario": 1622725898867,
+    "sstart": 1622726028511,
+    "farm": 1622726476155
+  },
+  "firstJoin": 1622725691895,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "NMsThIAgo"
+}

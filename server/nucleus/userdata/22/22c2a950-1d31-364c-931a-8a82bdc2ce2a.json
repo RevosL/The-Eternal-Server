@@ -1,0 +1,75 @@
+{
+  "data_version": 2,
+  "lastLogin": 1621986092769,
+  "lastIP": "/177.75.59.152",
+  "usedKits": {
+    "inicial": 1621811698110,
+    "diario": 1621967598972,
+    "pascoa": 1621811812148,
+    "ajuda": 1621811817415,
+    "start": 1621811825139,
+    "casa": 1621881883608,
+    "dstart": 1621986134721,
+    "mstart": 1621881730187,
+    "sstart": 1621881730388,
+    "s-shiny": 1621891911977,
+    "m-shiny": 1621891955593,
+    "d-shiny": 1621986144501,
+    "comida": 1621902749362
+  },
+  "firstJoin": 1621811698099,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Rafaelos_",
+  "homes": {
+    "casa": {
+      "x": -8805.853263487199,
+      "y": 68.0,
+      "z": -5887.436090344497,
+      "rotx": 51.74998474121094,
+      "roty": 243.5897216796875,
+      "rotz": 0.0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    },
+    "pantano": {
+      "x": 6143.482037505024,
+      "y": 59.0,
+      "z": 8113.085882705663,
+      "rotx": 79.95000457763672,
+      "roty": -82.0594711303711,
+      "rotz": 0.0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    },
+    "maskiz": {
+      "x": 1433.0606613781993,
+      "y": 66.0,
+      "z": 4780.42409193577,
+      "rotx": 25.200016021728516,
+      "roty": -8.49005126953125,
+      "rotz": 0.0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    },
+    "zero": {
+      "x": 0.4128467502784612,
+      "y": 67.0,
+      "z": 0.7121383204062646,
+      "rotx": -7.5000319480896,
+      "roty": -272.69696044921875,
+      "rotz": 0.0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    },
+    "blastephalon": {
+      "x": -1135.1646767114428,
+      "y": 92.0,
+      "z": 977.3540027463374,
+      "rotx": 57.74997329711914,
+      "roty": -26.843505859375,
+      "rotz": 0.0,
+      "world": "c28925ca-19de-463e-a50c-875f2214c05e"
+    }
+  },
+  "fly": true,
+  "nickname-text": "{\"extra\":[{\"color\":\"dark_green\",\"text\":\"R\"},{\"color\":\"dark_purple\",\"text\":\"a\"},{\"color\":\"dark_red\",\"text\":\"f\"},{\"color\":\"blue\",\"text\":\"a\"},{\"color\":\"gray\",\"text\":\"e\"},{\"color\":\"dark_blue\",\"text\":\"l\"}],\"text\":\"\"}",
+  "powertools": {}
+}

@@ -1,0 +1,33 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622844572084,
+  "lastIP": "/164.163.2.28",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622841138951,
+    "ajuda": 1622841394389,
+    "diario": 1622841428357,
+    "start": 1622843690997,
+    "pascoa": 1622844696531,
+    "dstart": 1622844722266,
+    "sstart": 1622844729387,
+    "mstart": 1622844752775
+  },
+  "firstJoin": 1622841138944,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "D4RCKtotozo",
+  "fly": true,
+  "homes": {
+    "casa": {
+      "x": -5918.708464730108,
+      "y": 71,
+      "z": -6632.478556998764,
+      "rotx": 24.290023803710938,
+      "roty": -12.7337646484375,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  },
+  "powertools": {}
+}

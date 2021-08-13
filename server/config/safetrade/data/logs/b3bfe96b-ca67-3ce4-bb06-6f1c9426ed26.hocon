@@ -1,0 +1,16 @@
+logs=[
+    {
+        otherParticipant=b3bfe96b-ca67-3ce4-bb06-6f1c9426ed26
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[]
+        participant="21fb4f6a-03fd-3133-8bf9-4d1a51463989"
+        sideItemStrings=[
+            "{\"ContentVersion\":2,\"ItemType\":\"minecraft:purple_shulker_box\",\"Count\":1,\"UnsafeDamage\":0,\"UnsafeData\":{\"BlockEntityTag\":{\"Items\":[{\"Slot\":0,\"id\":\"minecraft:diamond_pickaxe\",\"Count\":1,\"tag\":{\"ench\":[{\"lvl\":3,\"id\":34},{\"lvl\":3,\"id\":35},{\"lvl\":5,\"id\":32}],\"RepairCost\":7},\"Damage\":0},{\"Slot\":1,\"id\":\"minecraft:diamond_axe\",\"Count\":1,\"tag\":{\"ench\":[{\"lvl\":3,\"id\":35},{\"lvl\":3,\"id\":34},{\"lvl\":5,\"id\":32}],\"RepairCost\":7},\"Damage\":0},{\"Slot\":2,\"id\":\"minecraft:diamond_shovel\",\"Count\":1,\"tag\":{\"ench\":[{\"lvl\":5,\"id\":32},{\"lvl\":3,\"id\":35},{\"lvl\":3,\"id\":34}],\"RepairCost\":7},\"Damage\":0},{\"Slot\":6,\"id\":\"pixelmon:rare_candy\",\"Count\":64,\"Damage\":0},{\"Slot\":7,\"id\":\"pixelmon:master_ball\",\"Count\":1,\"Damage\":0},{\"Slot\":8,\"id\":\"minecraft:coal\",\"Count\":64,\"Damage\":0},{\"Slot\":15,\"id\":\"pixelmon:xl_exp_candy\",\"Count\":10,\"Damage\":0},{\"Slot\":16,\"id\":\"pixelmon:quick_ball\",\"Count\":64,\"Damage\":0},{\"Slot\":17,\"id\":\"minecraft:coal\",\"Count\":64,\"Damage\":0},{\"Slot\":18,\"id\":\"pixelmon:super_rod\",\"Count\":1,\"Damage\":0},{\"Slot\":24,\"id\":\"pixelmon:mechanical_anvil\",\"Count\":5,\"Damage\":0},{\"Slot\":25,\"id\":\"pixelmon:beast_ball\",\"Count\":1,\"Damage\":0},{\"Slot\":26,\"id\":\"minecraft:coal\",\"Count\":64,\"Damage\":0}]}}}"
+        ]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[]
+        timestamp="02/06/2021 06:11"
+        uniqueID="38345f54-00de-4efc-9bbd-85ea0af56c3f"
+    }
+]

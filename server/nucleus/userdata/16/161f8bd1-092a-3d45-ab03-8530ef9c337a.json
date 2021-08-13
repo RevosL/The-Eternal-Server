@@ -1,0 +1,59 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623264914834,
+  "lastIP": "/131.161.135.8",
+  "usedKits": {
+    "inicial": 1621724642988,
+    "comida": 1622673062102,
+    "m-ultra": 1621739341465,
+    "m-ultrak": 1621810068276,
+    "smod": 1622923446980,
+    "dmod": 1623261495060,
+    "pascoa": 1623261489082,
+    "megapedra": 1621810066107,
+    "s-ultra": 1622310919328
+  },
+  "firstJoin": 1621724642984,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "JunkDog",
+  "fly": true,
+  "homes": {
+    "home": {
+      "x": 7857.3908436580095,
+      "y": 66,
+      "z": -3216.156191750082,
+      "rotx": 52.17076873779297,
+      "roty": 308.479736328125,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    },
+    "brasil": {
+      "x": 421.7606564081733,
+      "y": 105.12869549387393,
+      "z": 2495.7633130762374,
+      "rotx": 42.869136810302734,
+      "roty": 206.47836303710938,
+      "rotz": 0,
+      "world": "c28925ca-19de-463e-a50c-875f2214c05e"
+    },
+    "farm": {
+      "x": 7690.301597257843,
+      "y": 48,
+      "z": -3370.300000011921,
+      "rotx": 4.949929237365723,
+      "roty": 179.62844848632812,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  },
+  "nickname-text": "{\"color\":\"red\",\"text\":\"JUNKKO6X0\"}",
+  "ignoreList": [
+    "49ff490b-4d9b-3318-a887-00bba5dab53e"
+  ],
+  "user-prefs": {
+    "nucleus:view-staff-chat": true
+  },
+  "powertools": {}
+}

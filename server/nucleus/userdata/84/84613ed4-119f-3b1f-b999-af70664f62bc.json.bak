@@ -1,0 +1,55 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623330103647,
+  "lastIP": "/45.185.95.219",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1623240073767,
+    "ajuda": 1623240239031,
+    "diario": 1623240412672,
+    "farm": 1623242184256,
+    "start": 1623242298573,
+    "dstart": 1623329087545,
+    "sstart": 1623242335029,
+    "mstart": 1623242352685,
+    "casa": 1623242550836,
+    "pascoa": 1623242635483,
+    "livros": 1623242643022,
+    "comida": 1623242645734,
+    "menu": 1623242649428
+  },
+  "firstJoin": 1623240073762,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "hedergomidess",
+  "fly": true,
+  "homes": {
+    "base": {
+      "x": 9448.025687303429,
+      "y": 77.37300987366136,
+      "z": 4328.19088782091,
+      "rotx": 41.09990692138672,
+      "roty": -8.251800537109375,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    },
+    "mew": {
+      "x": -2242.559133476825,
+      "y": 112,
+      "z": 3158.3016681077743,
+      "rotx": 66.2528076171875,
+      "roty": 12.113243103027344,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    },
+    "vila": {
+      "x": -6969.590095687556,
+      "y": 88,
+      "z": 881.1667853427831,
+      "rotx": -2.3354740142822266,
+      "roty": -21.0986328125,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  }
+}

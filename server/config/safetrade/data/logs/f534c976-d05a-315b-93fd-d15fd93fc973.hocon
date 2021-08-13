@@ -1,0 +1,42 @@
+logs=[
+    {
+        otherParticipant=f534c976-d05a-315b-93fd-d15fd93fc973
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[]
+        participant="3c00d6a2-eed7-39cf-9132-931b216b6020"
+        sideItemStrings=[]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[]
+        timestamp="25/05/2021 01:21"
+        uniqueID=f847e098-51eb-48f3-80ce-dbb48914dc3e
+    },
+    {
+        otherParticipant=f534c976-d05a-315b-93fd-d15fd93fc973
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[]
+        participant="3c00d6a2-eed7-39cf-9132-931b216b6020"
+        sideItemStrings=[
+            "{\"ContentVersion\":2,\"ItemType\":\"minecraft:diamond_axe\",\"Count\":1,\"UnsafeDamage\":1320,\"UnsafeData\":{\"ench\":[{\"lvl\":3,\"id\":32}]}}"
+        ]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[]
+        timestamp="25/05/2021 01:22"
+        uniqueID=ce4b4be5-d48a-4058-8973-3c0f7f864bd2
+    },
+    {
+        otherParticipant=f534c976-d05a-315b-93fd-d15fd93fc973
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[]
+        participant="49ff490b-4d9b-3318-a887-00bba5dab53e"
+        sideItemStrings=[
+            "{\"ContentVersion\":2,\"ItemType\":\"minecraft:enchanted_book\",\"Count\":1,\"UnsafeDamage\":0,\"UnsafeData\":{\"StoredEnchantments\":[{\"lvl\":5,\"id\":32}]}}"
+        ]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[]
+        timestamp="25/05/2021 21:13"
+        uniqueID="6034a9e7-68ac-4f64-a6e7-bd3b60e25655"
+    }
+]

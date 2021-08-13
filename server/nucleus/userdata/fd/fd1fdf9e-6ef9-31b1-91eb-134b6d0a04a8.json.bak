@@ -1,0 +1,44 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622674947074,
+  "lastIP": "/191.36.168.202",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1621938882718,
+    "start": 1621938913526,
+    "sstart": 1621938920866,
+    "dstart": 1622395137598,
+    "mstart": 1621939013262,
+    "pascoa": 1621939125207,
+    "menu": 1621939137555,
+    "ajuda": 1621939173555,
+    "livros": 1621939194865,
+    "diario": 1622306677107,
+    "caixas": 1622305765938
+  },
+  "firstJoin": 1621938882701,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "LaioPlays_751923",
+  "fly": false,
+  "homes": {
+    "casa": {
+      "x": -9222.827077678352,
+      "y": 64,
+      "z": 5422.6951278172155,
+      "rotx": -10.786140441894531,
+      "roty": 193.106689453125,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    },
+    "master": {
+      "x": -9032.250276415978,
+      "y": 64,
+      "z": 4537.860028171759,
+      "rotx": 44.26394271850586,
+      "roty": 210.50634765625,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  }
+}

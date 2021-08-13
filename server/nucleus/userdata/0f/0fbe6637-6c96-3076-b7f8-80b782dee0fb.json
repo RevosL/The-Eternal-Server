@@ -1,0 +1,19 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623001121082,
+  "lastIP": "/177.208.190.27",
+  "usedKits": {
+    "inicial": 1623001121087,
+    "farm": 1623001277196,
+    "start": 1623001377182,
+    "dstart": 1623001396929,
+    "sstart": 1623001404154
+  },
+  "firstJoin": 1623001121082,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "firepicie",
+  "fly": true,
+  "powertools": {}
+}

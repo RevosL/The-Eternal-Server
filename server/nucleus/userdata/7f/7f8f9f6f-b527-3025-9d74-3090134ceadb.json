@@ -1,0 +1,33 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622693110116,
+  "lastIP": "/177.206.238.68",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622425284086,
+    "start": 1622425306409,
+    "ajuda": 1622425320808,
+    "diario": 1622685759230,
+    "farm": 1622425429706,
+    "dstart": 1622687157387,
+    "sstart": 1622425466592,
+    "mstart": 1622687212522
+  },
+  "firstJoin": 1622425284070,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Jonas112",
+  "fly": true,
+  "homes": {
+    "home": {
+      "x": -3835.0294238559704,
+      "y": 64,
+      "z": 5923.6610473331775,
+      "rotx": 13.199995994567871,
+      "roty": 9.237360954284668,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  },
+  "powertools": {}
+}

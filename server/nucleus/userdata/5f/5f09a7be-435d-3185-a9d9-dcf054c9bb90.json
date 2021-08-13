@@ -1,0 +1,53 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622323034408,
+  "lastIP": "/187.44.227.54",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622317595358,
+    "start": 1622318592876,
+    "sstart": 1622319142659,
+    "dstart": 1622319147257,
+    "mstart": 1622319200346,
+    "farm": 1622319984098,
+    "diario": 1622319986832,
+    "pascoa": 1622320031705,
+    "menu": 1622320047281,
+    "ajuda": 1622320050874
+  },
+  "firstJoin": 1622317595351,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "PhantomX3",
+  "fly": true,
+  "homes": {
+    "swap": {
+      "x": 3932.4983174640156,
+      "y": 69.0,
+      "z": -9039.116324798975,
+      "rotx": 14.249987602233887,
+      "roty": 288.2887268066406,
+      "rotz": 0.0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    },
+    "birch": {
+      "x": -2382.699999988079,
+      "y": 83.3636829445006,
+      "z": 8507.432628620729,
+      "rotx": 10.949979782104492,
+      "roty": 270.3548278808594,
+      "rotz": 0.0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    },
+    "kyurem": {
+      "x": 95.30000001192093,
+      "y": 81.01990537014923,
+      "z": -2553.156779835226,
+      "rotx": 16.5,
+      "roty": 80.46061706542969,
+      "rotz": 0.0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  },
+  "powertools": {}
+}

@@ -1,0 +1,25 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623329093060,
+  "lastIP": "/177.157.162.59",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622504019475,
+    "diario": 1623263643450,
+    "start": 1622553268808,
+    "mstart": 1622553309908,
+    "sstart": 1622567877219,
+    "dstart": 1623011517344,
+    "ajuda": 1622568713530,
+    "farm": 1622569449813,
+    "pascoa": 1622569697217,
+    "menu": 1623089557532,
+    "livros": 1623089563639
+  },
+  "firstJoin": 1622504019463,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "hamers",
+  "fly": false,
+  "powertools": {}
+}

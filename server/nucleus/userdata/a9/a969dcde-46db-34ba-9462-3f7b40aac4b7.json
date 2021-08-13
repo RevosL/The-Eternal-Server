@@ -1,0 +1,53 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622825444323,
+  "lastIP": "/131.0.221.170",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622761107170,
+    "start": 1622761151502,
+    "pascoa": 1622761174072,
+    "diario": 1622761277898,
+    "sstart": 1622761295431,
+    "mstart": 1622761349189,
+    "dstart": 1622761450928,
+    "comida": 1622767422547,
+    "casa": 1622828740641,
+    "ajuda": 1622828936288
+  },
+  "firstJoin": 1622761107162,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "JczinX",
+  "fly": true,
+  "homes": {
+    "casa": {
+      "x": 4340.699999988079,
+      "y": 92.0,
+      "z": -1751.300000011921,
+      "rotx": 17.924135208129883,
+      "roty": -221.36785888671875,
+      "rotz": 0.0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    },
+    "mesa": {
+      "x": -6877.892202741232,
+      "y": 71.0,
+      "z": 544.0183992884718,
+      "rotx": 25.12230110168457,
+      "roty": 103.76752471923828,
+      "rotz": 0.0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    },
+    "blacephalon": {
+      "x": 2643.9683881317264,
+      "y": 102.0,
+      "z": 232.47146431194327,
+      "rotx": 65.0964126586914,
+      "roty": -88.43087768554688,
+      "rotz": 0.0,
+      "world": "c28925ca-19de-463e-a50c-875f2214c05e"
+    }
+  },
+  "powertools": {}
+}

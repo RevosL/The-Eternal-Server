@@ -1,0 +1,38 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622580676574,
+  "lastIP": "/189.6.248.90",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622397626942,
+    "start": 1622397711901,
+    "casa": 1622579717382,
+    "comida": 1622409873056,
+    "pascoa": 1622405811393,
+    "diario": 1622579700426,
+    "sstart": 1622405816693,
+    "menu": 1622409329278,
+    "farm": 1622409396172,
+    "mstart": 1622409436034,
+    "dstart": 1622579583443,
+    "ajuda": 1622409848147,
+    "livros": 1622414758495
+  },
+  "firstJoin": 1622397626931,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "TomiokaDeJuliet",
+  "fly": false,
+  "homes": {
+    "casa": {
+      "x": -8147.592130112718,
+      "y": 88.85216947428414,
+      "z": -8054.121082796433,
+      "rotx": 67.9013671875,
+      "roty": 28.837785720825195,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  },
+  "powertools": {}
+}

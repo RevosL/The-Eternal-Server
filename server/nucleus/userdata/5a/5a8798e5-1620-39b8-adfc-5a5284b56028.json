@@ -1,0 +1,28 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622699398410,
+  "lastIP": "/189.107.97.73",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622699398416,
+    "diario": 1622699865333,
+    "ajuda": 1622699915564
+  },
+  "firstJoin": 1622699398410,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "LoRd_Of_ErEn1",
+  "fly": false,
+  "homes": {
+    "base": {
+      "x": -2721.004748496863,
+      "y": 65.0,
+      "z": 9121.300000011921,
+      "rotx": 13.799851417541504,
+      "roty": -48.303680419921875,
+      "rotz": 0.0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  },
+  "powertools": {}
+}

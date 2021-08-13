@@ -1,0 +1,17 @@
+logs=[
+    {
+        otherParticipant=d61bd900-a97b-330d-ba48-f5739db16028
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[]
+        participant="74e0aa28-d7c4-33ff-b427-335e2977c2f2"
+        sideItemStrings=[]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[
+            "{\"EVSpeed\":0.0,\"IVAttack\":11.0,\"Growth\":1.0,\"originalTrainerUUIDMost\":8.4219183955782011E18,\"PersistentData\":{},\"Gender\":0.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":11.0,\"Name\":\"Shellder\",\"isInRanch\":0.0,\"Friendship\":70.0,\"StatsDefence\":26.0,\"IVDefence\":19.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":18.0,\"IVSpDef\":12.0,\"CaughtBall\":0.0,\"IVHP\":16.0,\"AbilitySlot\":0.0,\"EVHP\":0.0,\"ndex\":90.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-5.4653431432751503E18,\"Nature\":17.0,\"StatsHP\":27.0,\"UUIDLeast\":-7.4308585243257856E18,\"Health\":27.0,\"originalTrainer\":\"mayconcosta75\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":-1.0,\"StatsSpeed\":15.0,\"EVSpecialAttack\":0.0,\"IsShiny\":1.0,\"StatsAttack\":17.0,\"UUIDMost\":-3.1090398673021997E17,\"IVSpeed\":29.0,\"Level\":10.0,\"IVSpAtt\":31.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}",
+            "{\"EVSpeed\":0.0,\"IVAttack\":26.0,\"Growth\":0.0,\"originalTrainerUUIDMost\":8.4219183955782011E18,\"PersistentData\":{},\"Gender\":1.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":56.0,\"Name\":\"Crawdaunt\",\"isInRanch\":0.0,\"Friendship\":70.0,\"StatsDefence\":96.0,\"IVDefence\":21.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":106.0,\"IVSpDef\":11.0,\"CaughtBall\":0.0,\"IVHP\":9.0,\"AbilitySlot\":0.0,\"EVHP\":0.0,\"ndex\":342.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-5.4653431432751503E18,\"Nature\":20.0,\"StatsHP\":122.0,\"UUIDLeast\":-9.0392948184292506E18,\"Health\":122.0,\"originalTrainer\":\"mayconcosta75\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":-1.0,\"StatsSpeed\":65.0,\"EVSpecialAttack\":0.0,\"IsShiny\":1.0,\"StatsAttack\":132.0,\"UUIDMost\":-3.1698696696722683E18,\"IVSpeed\":15.0,\"Level\":48.0,\"IVSpAtt\":12.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}"
+        ]
+        timestamp="24/05/2021 21:45"
+        uniqueID=c76de5a9-562d-402d-885e-dba4ce19a201
+    }
+]

@@ -1,0 +1,24 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622765408341,
+  "lastIP": "/170.231.48.109",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622297246752,
+    "start": 1622297305377,
+    "dstart": 1622765901014,
+    "mstart": 1622297512877,
+    "sstart": 1622297693450,
+    "pascoa": 1622297906246,
+    "comida": 1622297907895,
+    "meternalkey": 1622765480761,
+    "seternal": 1622765611637,
+    "meternal": 1622765718648,
+    "deternal": 1622765927990
+  },
+  "firstJoin": 1622297246744,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Sir_Itazuke",
+  "fly": true
+}

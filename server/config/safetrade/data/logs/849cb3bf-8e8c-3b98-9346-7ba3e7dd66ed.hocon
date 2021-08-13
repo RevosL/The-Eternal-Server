@@ -1,0 +1,90 @@
+logs=[
+    {
+        otherParticipant="849cb3bf-8e8c-3b98-9346-7ba3e7dd66ed"
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[
+            "{\"Currency\":\"economylite:coin\",\"Balance\":250000}"
+        ]
+        otherSidePokemonStrings=[]
+        participant="59bc4fba-bba4-3205-ab0e-c0a556ba80b2"
+        sideItemStrings=[]
+        sideMoneyStrings=[
+            "{\"Currency\":\"economylite:coin\",\"Balance\":1}"
+        ]
+        sidePokemonStrings=[]
+        timestamp="04/06/2021 14:43"
+        uniqueID=edcd1d45-1225-48b3-b8fa-10628d6c3acd
+    },
+    {
+        otherParticipant="849cb3bf-8e8c-3b98-9346-7ba3e7dd66ed"
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[]
+        participant="161f8bd1-092a-3d45-ab03-8530ef9c337a"
+        sideItemStrings=[]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[
+            "{\"EVSpeed\":0.0,\"IVAttack\":31.0,\"Growth\":3.0,\"originalTrainerUUIDMost\":1.59414652303063373E18,\"PersistentData\":{},\"Gender\":2.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":236.0,\"Name\":\"Diancie\",\"isInRanch\":0.0,\"Friendship\":0.0,\"StatsDefence\":236.0,\"IVDefence\":31.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":152.0,\"IVSpDef\":31.0,\"CaughtBall\":0.0,\"IVHP\":19.0,\"AbilitySlot\":0.0,\"EVHP\":0.0,\"ndex\":719.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-6.1239046230688266E18,\"Nature\":13.0,\"StatsHP\":163.0,\"UUIDLeast\":-8.0561628916816835E18,\"Health\":163.0,\"originalTrainer\":\"JunkDog\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":0.0,\"StatsSpeed\":86.0,\"EVSpecialAttack\":0.0,\"IsShiny\":0.0,\"StatsAttack\":149.0,\"UUIDMost\":7.0700869787723551E18,\"IVSpeed\":6.0,\"Level\":70.0,\"IVSpAtt\":11.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}"
+        ]
+        timestamp="04/06/2021 16:56"
+        uniqueID=aebccbfb-9890-4f02-aa15-1b629dbd1b1e
+    },
+    {
+        otherParticipant="849cb3bf-8e8c-3b98-9346-7ba3e7dd66ed"
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[
+            "{\"Currency\":\"economylite:coin\",\"Balance\":10000}"
+        ]
+        otherSidePokemonStrings=[]
+        participant=ab076f73-73b4-3a9a-99db-d6b99e996453
+        sideItemStrings=[
+            "{\"ContentVersion\":2,\"ItemType\":\"minecraft:planks\",\"Count\":1,\"UnsafeDamage\":0}"
+        ]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[]
+        timestamp="06/06/2021 21:16"
+        uniqueID="816270cf-17d8-415c-a687-20ab3c357fdc"
+    },
+    {
+        otherParticipant="849cb3bf-8e8c-3b98-9346-7ba3e7dd66ed"
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[
+            "{\"Currency\":\"economylite:coin\",\"Balance\":10000}"
+        ]
+        otherSidePokemonStrings=[]
+        participant="94d5a47f-5bdc-31a4-89da-397f6267d857"
+        sideItemStrings=[]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[]
+        timestamp="06/06/2021 21:19"
+        uniqueID="3bb69710-99ed-453e-92e6-e588a3c74cc1"
+    },
+    {
+        otherParticipant="849cb3bf-8e8c-3b98-9346-7ba3e7dd66ed"
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[]
+        participant=ab076f73-73b4-3a9a-99db-d6b99e996453
+        sideItemStrings=[]
+        sideMoneyStrings=[
+            "{\"Currency\":\"economylite:coin\",\"Balance\":10000}"
+        ]
+        sidePokemonStrings=[]
+        timestamp="06/06/2021 21:31"
+        uniqueID="1d9d3a71-1615-462e-ac22-b123f871f39d"
+    },
+    {
+        otherParticipant="849cb3bf-8e8c-3b98-9346-7ba3e7dd66ed"
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[]
+        participant="94d5a47f-5bdc-31a4-89da-397f6267d857"
+        sideItemStrings=[]
+        sideMoneyStrings=[
+            "{\"Currency\":\"economylite:coin\",\"Balance\":3000}"
+        ]
+        sidePokemonStrings=[]
+        timestamp="08/06/2021 17:33"
+        uniqueID="8b65f6ae-c94f-4862-a3ea-d07b9ffc311c"
+    }
+]

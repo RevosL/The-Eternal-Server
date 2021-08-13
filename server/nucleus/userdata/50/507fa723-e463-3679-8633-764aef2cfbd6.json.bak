@@ -1,0 +1,30 @@
+{
+  "data_version": 2,
+  "lastLogin": 1621857980855,
+  "lastIP": "/200.236.255.42",
+  "usedKits": {
+    "inicial": 1621788396969,
+    "pascoa": 1621788455110,
+    "start": 1621788475451,
+    "dstart": 1621857832863,
+    "comida": 1621858086148
+  },
+  "firstJoin": 1621788396957,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "SouUmGamerPro2",
+  "fly": true,
+  "powertools": {},
+  "homes": {
+    "casa": {
+      "x": -8961.921311283179,
+      "y": 74.0,
+      "z": -7921.498905766043,
+      "rotx": 57.26234436035156,
+      "roty": -19.81705093383789,
+      "rotz": 0.0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  }
+}

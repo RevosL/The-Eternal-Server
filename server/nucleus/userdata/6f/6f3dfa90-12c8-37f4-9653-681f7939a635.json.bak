@@ -1,0 +1,31 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623185911790,
+  "lastIP": "/45.6.131.147",
+  "usedKits": {
+    "inicial": 1621776964164,
+    "start": 1621777186643,
+    "sstart": 1621777203081,
+    "mstart": 1621777206335,
+    "dstart": 1621777325488,
+    "pascoa": 1621777329037,
+    "comida": 1621777836041
+  },
+  "firstJoin": 1621776964156,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "lerin",
+  "fly": false,
+  "homes": {
+    "home": {
+      "x": 3713.0424589541094,
+      "y": 72,
+      "z": -1629.0574018908815,
+      "rotx": 15.933394432067871,
+      "roty": 341.1422424316406,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  }
+}

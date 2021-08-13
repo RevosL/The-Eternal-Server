@@ -1,0 +1,29 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623076826977,
+  "lastIP": "/149.90.200.10",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1623061703087,
+    "ajuda": 1623063985529,
+    "diario": 1623063999184,
+    "casa": 1623064137633,
+    "farm": 1623064219472
+  },
+  "firstJoin": 1623061703072,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "chuckypt2000",
+  "fly": false,
+  "homes": {
+    "casa": {
+      "x": 8106.33302766028,
+      "y": 63,
+      "z": -6601.59948196727,
+      "rotx": 13.799932479858398,
+      "roty": -71.8507080078125,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  }
+}

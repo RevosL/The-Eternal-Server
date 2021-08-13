@@ -1,0 +1,19 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623041857053,
+  "lastIP": "/138.185.156.251",
+  "usedKits": {
+    "inicial": 1623041857058,
+    "ajuda": 1623041929683,
+    "start": 1623041962290,
+    "diario": 1623041973484,
+    "dstart": 1623042284428,
+    "sstart": 1623042294127,
+    "mstart": 1623042341179
+  },
+  "firstJoin": 1623041857053,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "KyotoSmileBr100"
+}

@@ -1,0 +1,34 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622077540118,
+  "lastIP": "/186.193.143.93",
+  "usedKits": {
+    "inicial": 1622074966453,
+    "start": 1622075213558,
+    "mstart": 1622075232813,
+    "diario": 1622075277959,
+    "farm": 1622075380780,
+    "ajuda": 1622075466697,
+    "casa": 1622075678905,
+    "dstart": 1622076455400,
+    "sstart": 1622076469715
+  },
+  "firstJoin": 1622074966441,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "iMaatheus",
+  "fly": true,
+  "homes": {
+    "casa": {
+      "x": -505.9328321387096,
+      "y": 72.0,
+      "z": -8765.65124506646,
+      "rotx": 16.57895278930664,
+      "roty": 161.39569091796875,
+      "rotz": 0.0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  },
+  "powertools": {}
+}

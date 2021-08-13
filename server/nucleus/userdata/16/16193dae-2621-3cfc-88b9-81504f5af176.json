@@ -1,0 +1,15 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623244682091,
+  "lastIP": "/192.168.1.10",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1623244682102
+  },
+  "firstJoin": 1623244682091,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "DTECH02",
+  "fly": false,
+  "powertools": {}
+}

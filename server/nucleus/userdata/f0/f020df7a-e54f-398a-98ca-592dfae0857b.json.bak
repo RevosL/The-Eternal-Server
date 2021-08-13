@@ -1,0 +1,30 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622037614616,
+  "lastIP": "/93.34.225.249",
+  "usedKits": {
+    "inicial": 1622034745255,
+    "start": 1622035162405,
+    "diario": 1622039584105,
+    "ajuda": 1622039746058,
+    "farm": 1622039773100,
+    "casa": 1622039855949
+  },
+  "firstJoin": 1622034745246,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Anonymous01233",
+  "fly": true,
+  "homes": {
+    "home": {
+      "x": -3041.3812140436444,
+      "y": 64.0,
+      "z": 8208.496271989125,
+      "rotx": 19.799976348876953,
+      "roty": 346.693603515625,
+      "rotz": 0.0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  }
+}

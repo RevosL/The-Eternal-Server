@@ -1,0 +1,29 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622037194604,
+  "lastIP": "/186.207.83.72",
+  "usedKits": {
+    "inicial": 1621901542913,
+    "start": 1621901647612,
+    "mstart": 1621901662206,
+    "comida": 1622039563236,
+    "farm": 1622039871327
+  },
+  "firstJoin": 1621901542902,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Murilecs008",
+  "fly": true,
+  "homes": {
+    "home": {
+      "x": -9730.540476798253,
+      "y": 71,
+      "z": 5539.707884278808,
+      "rotx": 30.900020599365234,
+      "roty": 6.898193359375,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  }
+}

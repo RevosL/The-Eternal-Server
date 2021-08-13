@@ -1,0 +1,38 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622326755550,
+  "lastIP": "/168.0.108.251",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622320688631,
+    "menu": 1622321562571,
+    "comida": 1622321574185,
+    "start": 1622322428787,
+    "dstart": 1622322446608,
+    "sstart": 1622322450901,
+    "mstart": 1622322453618,
+    "casa": 1622322606857,
+    "diario": 1622322628244,
+    "farm": 1622322630811,
+    "pascoa": 1622322676594,
+    "livros": 1622322681094,
+    "ajuda": 1622322682342
+  },
+  "firstJoin": 1622320688623,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Cauanv99",
+  "fly": true,
+  "homes": {
+    "ze": {
+      "x": 4268.124523407523,
+      "y": 64,
+      "z": -8567.941679920015,
+      "rotx": 20.399988174438477,
+      "roty": -256.2054138183594,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  },
+  "powertools": {}
+}

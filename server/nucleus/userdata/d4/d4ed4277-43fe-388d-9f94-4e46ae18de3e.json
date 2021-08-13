@@ -1,0 +1,18 @@
+{
+  "data_version": 2,
+  "lastLogin": 1621809815345,
+  "lastIP": "/177.51.38.176",
+  "usedKits": {
+    "inicial": 1621809815362,
+    "start": 1621809914452,
+    "pascoa": 1621809916391,
+    "mstart": 1621809944502
+  },
+  "firstJoin": 1621809815345,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "laurinhagameplay",
+  "powertools": {},
+  "fly": false
+}

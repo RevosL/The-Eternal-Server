@@ -1,0 +1,33 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623158468051,
+  "lastIP": "/177.207.159.101",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1623158468075,
+    "start": 1623158600472,
+    "ajuda": 1623158624170,
+    "mstart": 1623158686163,
+    "sstart": 1623158890673,
+    "dstart": 1623158891714,
+    "diario": 1623158929420,
+    "casa": 1623159246969
+  },
+  "firstJoin": 1623158468051,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "RyGraTom71",
+  "homes": {
+    "home": {
+      "x": -8297.420585249572,
+      "y": 72.0,
+      "z": -7436.411503716231,
+      "rotx": 8.197200775146484,
+      "roty": 271.661376953125,
+      "rotz": 0.0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  },
+  "powertools": {},
+  "fly": true
+}

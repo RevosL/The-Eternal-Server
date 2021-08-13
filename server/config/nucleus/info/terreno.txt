@@ -1,0 +1,9 @@
+﻿ &fEste é o sistema de &6"TERRENOS"&f do nosso Servidor:
+
+     &6Como funciona o sistema de terrenos?
+&f* &7Voce inicia com 10k De blocos de proteçao &f*
+&f* &7Para Obiter seu terreno, use: &6/terreno &f*
+
+
+              &eInformações:
+&f* &7Clique coma pa de outros com o botao direito nos 2 cantos  da area desejada &f*

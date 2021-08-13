@@ -1,0 +1,41 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623286308258,
+  "lastIP": "/177.62.247.156",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1623261168322,
+    "start": 1623262042773,
+    "dstart": 1623262130569,
+    "sstart": 1623262136009,
+    "mstart": 1623262151117,
+    "pascoa": 1623262184904,
+    "comida": 1623262988395
+  },
+  "firstJoin": 1623261168300,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Luckz09",
+  "fly": true,
+  "homes": {
+    "casa": {
+      "x": -1971.668222152577,
+      "y": 78.0,
+      "z": -6162.638621603627,
+      "rotx": 28.28751564025879,
+      "roty": 241.59228515625,
+      "rotz": 0.0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    },
+    "pantano": {
+      "x": -5563.979529865272,
+      "y": 68.29999863252377,
+      "z": 9120.451628174267,
+      "rotx": 33.909088134765625,
+      "roty": 325.33428955078125,
+      "rotz": 0.0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  },
+  "powertools": {}
+}

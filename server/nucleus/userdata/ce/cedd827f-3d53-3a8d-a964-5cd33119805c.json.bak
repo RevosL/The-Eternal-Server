@@ -1,0 +1,31 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623074493911,
+  "lastIP": "/148.63.207.157",
+  "usedKits": {
+    "inicial": 1622983625718,
+    "start": 1622983670547,
+    "sstart": 1622983709586,
+    "diario": 1623074807244,
+    "farm": 1622985619359,
+    "ajuda": 1622985657759,
+    "casa": 1623074878639
+  },
+  "firstJoin": 1622983625712,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "pokemano",
+  "homes": {
+    "centro": {
+      "x": -1638.4130744316897,
+      "y": 66,
+      "z": 2571.5287047181264,
+      "rotx": 16.500009536743164,
+      "roty": 177.589599609375,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  },
+  "fly": true
+}

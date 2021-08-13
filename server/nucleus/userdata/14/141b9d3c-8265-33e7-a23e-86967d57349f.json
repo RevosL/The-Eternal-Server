@@ -1,0 +1,30 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622693191854,
+  "lastIP": "/171.22.76.17",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622691863309,
+    "start": 1622691888761,
+    "pascoa": 1622691896598,
+    "mstart": 1622692025976,
+    "sstart": 1622692027673
+  },
+  "firstJoin": 1622691863288,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Mstv",
+  "fly": false,
+  "homes": {
+    "home": {
+      "x": 14.69900705778881,
+      "y": 65,
+      "z": -609.5005826117999,
+      "rotx": 11.619043350219727,
+      "roty": -277.7637634277344,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  },
+  "powertools": {}
+}

@@ -1,0 +1,36 @@
+{
+  "id": "Bellossom",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Bellossom",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:absorb_bulb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "stringBiomes": [
+          "flowery",
+          "jungles"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

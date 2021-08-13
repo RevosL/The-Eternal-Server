@@ -1,0 +1,21 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623164190630,
+  "lastIP": "/177.86.188.6",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1623106809770,
+    "start": 1623106871283,
+    "mstart": 1623106888712,
+    "sstart": 1623106936229,
+    "dstart": 1623106937809,
+    "ajuda": 1623164750193,
+    "farm": 1623164795492
+  },
+  "firstJoin": 1623106809761,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "ElCaua500",
+  "fly": true,
+  "powertools": {}
+}

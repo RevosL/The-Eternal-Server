@@ -1,0 +1,50 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623961281987,
+  "lastIP": "/91.132.136.245",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1623961281998,
+    "start": 1623961372805,
+    "mstart": 1623962242473,
+    "sstart": 1623962315614,
+    "dstart": 1623962319118,
+    "diario": 1623962716270,
+    "ajuda": 1623962844347
+  },
+  "firstJoin": 1623961281987,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Nightmon",
+  "fly": true,
+  "homes": {
+    "kyogre": {
+      "x": -3029.571200979537,
+      "y": 52.0,
+      "z": 117.32801568682825,
+      "rotx": 18.899805068969727,
+      "roty": -308.425048828125,
+      "rotz": 0.0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    },
+    "casa": {
+      "x": 6311.989658377575,
+      "y": 73.0,
+      "z": -7592.258317348849,
+      "rotx": 30.599760055541992,
+      "roty": 6.421891689300537,
+      "rotz": 0.0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    },
+    "casa2": {
+      "x": -145.00143420073977,
+      "y": 73.0,
+      "z": -474.66207121809833,
+      "rotx": 21.449893951416016,
+      "roty": 91.47289276123047,
+      "rotz": 0.0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  },
+  "powertools": {}
+}

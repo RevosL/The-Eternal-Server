@@ -1,0 +1,34 @@
+logs=[
+    {
+        otherParticipant=df071efe-6299-3dfe-a985-e096ff8995cc
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[
+            "{\"EVSpeed\":0.0,\"IVAttack\":16.0,\"Growth\":3.0,\"originalTrainerUUIDMost\":-2.3758962004899108E18,\"PersistentData\":{\"SpongeData\":{\"CanGrief\":1.0}},\"Gender\":1.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":105.0,\"Name\":\"Druddigon\",\"isInRanch\":0.0,\"Friendship\":70.0,\"StatsDefence\":105.0,\"IVDefence\":21.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":66.0,\"IVSpDef\":21.0,\"CaughtBall\":2.0,\"IVHP\":1.0,\"AbilitySlot\":1.0,\"EVHP\":0.0,\"ndex\":621.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-6.2313275702602906E18,\"Nature\":2.0,\"StatsHP\":137.0,\"UUIDLeast\":-5.6833876242005094E18,\"Health\":137.0,\"originalTrainer\":\"Arckerman\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":-1.0,\"StatsSpeed\":55.0,\"EVSpecialAttack\":0.0,\"IsShiny\":0.0,\"StatsAttack\":133.0,\"UUIDMost\":3.2600634528470328E18,\"IVSpeed\":5.0,\"Level\":50.0,\"IVSpAtt\":3.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}"
+        ]
+        participant="1f0159a1-3820-3243-b29f-6af61b3bb51d"
+        sideItemStrings=[]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[
+            "{\"EVSpeed\":3.0,\"IVAttack\":4.0,\"Growth\":4.0,\"originalTrainerUUIDMost\":2.23416543911871744E18,\"PersistentData\":{\"SpongeData\":{\"CanGrief\":1.0}},\"Gender\":0.0,\"EVSpecialDefence\":2.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":91.0,\"Name\":\"Charizard\",\"isInRanch\":0.0,\"Friendship\":74.0,\"StatsDefence\":78.0,\"IVDefence\":14.0,\"EVAttack\":7.0,\"StatsSpecialAttack\":106.0,\"IVSpDef\":11.0,\"CaughtBall\":0.0,\"IVHP\":28.0,\"AbilitySlot\":0.0,\"EVHP\":0.0,\"ndex\":6.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-5.5756202084099881E18,\"Nature\":21.0,\"StatsHP\":132.0,\"UUIDLeast\":-5.9323410014832394E18,\"Health\":123.0,\"originalTrainer\":\"Naruto2021gamer\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":0.0,\"StatsSpeed\":92.0,\"EVSpecialAttack\":0.0,\"IsShiny\":0.0,\"StatsAttack\":71.0,\"UUIDMost\":3.9950772376440837E18,\"IVSpeed\":3.0,\"Level\":43.0,\"IVSpAtt\":19.0,\"EVDefence\":5.0,\"NBT_VERSION\":1.0,\"EXP\":1358.0}"
+        ]
+        timestamp="24/05/2021 14:53"
+        uniqueID="3a9f8864-1412-4c78-9177-eae1c8c19953"
+    },
+    {
+        otherParticipant="49ff490b-4d9b-3318-a887-00bba5dab53e"
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[
+            "{\"EVSpeed\":0.0,\"IVAttack\":31.0,\"Growth\":3.0,\"originalTrainerUUIDMost\":5.3320607967254415E18,\"PersistentData\":{\"SpongeData\":{}},\"Gender\":2.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":170.0,\"Name\":\"Nihilego\",\"isInRanch\":0.0,\"Friendship\":70.0,\"StatsDefence\":77.0,\"IVDefence\":26.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":165.0,\"IVSpDef\":13.0,\"CaughtBall\":3.0,\"IVHP\":31.0,\"AbilitySlot\":0.0,\"EVHP\":0.0,\"ndex\":793.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-6.3030683475402619E18,\"Nature\":13.0,\"StatsHP\":219.0,\"UUIDLeast\":-6.10609103020723E18,\"Health\":219.0,\"originalTrainer\":\"Vibesz\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":-1.0,\"StatsSpeed\":161.0,\"EVSpecialAttack\":0.0,\"IsShiny\":0.0,\"StatsAttack\":78.0,\"UUIDMost\":4.4703364670524785E18,\"IVSpeed\":31.0,\"Level\":60.0,\"IVSpAtt\":14.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}"
+        ]
+        participant="1f0159a1-3820-3243-b29f-6af61b3bb51d"
+        sideItemStrings=[]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[
+            "{\"EVSpeed\":0.0,\"IVAttack\":2.0,\"Growth\":4.0,\"originalTrainerUUIDMost\":2.23416543911871744E18,\"PersistentData\":{\"SpongeData\":{}},\"Gender\":1.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":35.0,\"Name\":\"Honedge\",\"isInRanch\":0.0,\"Friendship\":2.0,\"StatsDefence\":85.0,\"IVDefence\":17.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":34.0,\"IVSpDef\":15.0,\"CaughtBall\":2.0,\"IVHP\":4.0,\"AbilitySlot\":0.0,\"EVHP\":0.0,\"ndex\":679.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-5.5756202084099881E18,\"Nature\":9.0,\"StatsHP\":75.0,\"UUIDLeast\":-6.9695792629543424E18,\"Health\":75.0,\"originalTrainer\":\"Naruto2021gamer\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":-1.0,\"StatsSpeed\":24.0,\"EVSpecialAttack\":0.0,\"IsShiny\":0.0,\"StatsAttack\":54.0,\"UUIDMost\":1.71103440875620122E18,\"IVSpeed\":1.0,\"Level\":34.0,\"IVSpAtt\":17.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}"
+        ]
+        timestamp="26/05/2021 20:45"
+        uniqueID="470672b4-daa8-4876-aaed-9fbb6dedd1cc"
+    }
+]

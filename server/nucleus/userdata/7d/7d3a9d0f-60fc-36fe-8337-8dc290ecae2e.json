@@ -1,0 +1,22 @@
+{
+  "data_version": 2,
+  "lastLogin": 1621948717797,
+  "lastIP": "/138.117.119.108",
+  "usedKits": {
+    "inicial": 1621948717804,
+    "start": 1621948768136,
+    "mstart": 1621948799118,
+    "sstart": 1621949113558,
+    "dstart": 1621949115005,
+    "ajuda": 1621949223422,
+    "diario": 1621949259234,
+    "farm": 1621949312728
+  },
+  "firstJoin": 1621948717797,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "F4ALC0N",
+  "fly": true,
+  "powertools": {}
+}

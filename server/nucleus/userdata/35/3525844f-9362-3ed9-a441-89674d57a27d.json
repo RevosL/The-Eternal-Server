@@ -1,0 +1,34 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622473976133,
+  "lastIP": "/177.94.54.40",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622473976146,
+    "diario": 1622474180338,
+    "ajuda": 1622474229678,
+    "farm": 1622475012479,
+    "casa": 1622475768790,
+    "start": 1622475912227,
+    "dstart": 1622475936563,
+    "sstart": 1622475998017,
+    "mstart": 1622476002257
+  },
+  "firstJoin": 1622473976133,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "chalabaiano",
+  "fly": true,
+  "homes": {
+    "casa": {
+      "x": -8173.046237202185,
+      "y": 70.0,
+      "z": -5556.083527973506,
+      "rotx": 29.24997901916504,
+      "roty": 134.1324462890625,
+      "rotz": 0.0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  },
+  "powertools": {}
+}

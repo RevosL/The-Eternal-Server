@@ -1,0 +1,16 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622878972461,
+  "lastIP": "/201.94.195.34",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622303128581,
+    "start": 1622880242188
+  },
+  "firstJoin": 1622303128574,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "rKuroha",
+  "fly": false,
+  "powertools": {}
+}

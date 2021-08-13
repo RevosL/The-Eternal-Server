@@ -1,0 +1,54 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623166275439,
+  "lastIP": "/168.232.162.198",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622459940201,
+    "start": 1622459988130,
+    "mstart": 1622460039061,
+    "sstart": 1622461428223,
+    "dstart": 1622910753298,
+    "caixas": 1622642505827,
+    "pascoa": 1622464870918,
+    "diario": 1623166320855,
+    "farm": 1622571825748,
+    "ajuda": 1622572540344,
+    "comida": 1622591621151,
+    "casa": 1622759409903
+  },
+  "firstJoin": 1622459940185,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "dragons_SSx",
+  "fly": false,
+  "homes": {
+    "farm": {
+      "x": -3715.8902964630997,
+      "y": 72,
+      "z": 6044.819489971872,
+      "rotx": 67.48148345947266,
+      "roty": 161.95062255859375,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    },
+    "casa": {
+      "x": 1048.6877082957612,
+      "y": 73,
+      "z": 4102.5438041721245,
+      "rotx": 62.77827453613281,
+      "roty": -91.95431518554688,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    },
+    "cana": {
+      "x": -3995.872916313557,
+      "y": 68,
+      "z": 5947.470353505903,
+      "rotx": 55.72846603393555,
+      "roty": -352.7152099609375,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  }
+}

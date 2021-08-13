@@ -1,0 +1,19 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623880293850,
+  "lastIP": "/187.52.228.123",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1623875835884,
+    "start": 1623875881773,
+    "mstart": 1623875943601,
+    "ajuda": 1623876833660,
+    "comida": 1623877200266
+  },
+  "firstJoin": 1623875835871,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "TippedBobOver",
+  "fly": true,
+  "powertools": {}
+}

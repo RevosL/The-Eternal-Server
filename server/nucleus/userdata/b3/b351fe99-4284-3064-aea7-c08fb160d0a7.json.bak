@@ -1,0 +1,37 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622930504002,
+  "lastIP": "/45.173.84.38",
+  "usedKits": {
+    "inicial": 1621812271510,
+    "pascoa": 1621821989195,
+    "diario": 1621821991596,
+    "start": 1621822071425,
+    "dstart": 1622150657344,
+    "sstart": 1621822097183,
+    "mstart": 1621822099480,
+    "casa": 1622150660363,
+    "comida": 1621822879073,
+    "farm": 1621822920382,
+    "ajuda": 1621822930633,
+    "livros": 1621822961459,
+    "menu": 1621822963467
+  },
+  "firstJoin": 1621812271500,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Lunaria",
+  "fly": true,
+  "homes": {
+    "casa": {
+      "x": 7945.494784108923,
+      "y": 64,
+      "z": -5038.634859332017,
+      "rotx": 0.30004367232322693,
+      "roty": -212.71090698242188,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  }
+}

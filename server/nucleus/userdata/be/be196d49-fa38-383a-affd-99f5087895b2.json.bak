@@ -1,0 +1,20 @@
+{
+  "data_version": 2,
+  "lastLogin": 1621888843367,
+  "lastIP": "/45.186.178.40",
+  "usedKits": {
+    "inicial": 1621885490903,
+    "start": 1621885895135,
+    "dstart": 1621885915540,
+    "sstart": 1621885926666,
+    "mstart": 1621885928571,
+    "diario": 1621886320183,
+    "farm": 1621886339810
+  },
+  "firstJoin": 1621885490892,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "shadow_king8181",
+  "fly": true
+}

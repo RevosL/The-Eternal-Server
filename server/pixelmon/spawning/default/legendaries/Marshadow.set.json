@@ -1,0 +1,32 @@
+{
+  "id": "Marshadow",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Marshadow",
+        "level": 70
+      },
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "structures": [
+          "Fortress"
+        ],
+        "stringBiomes": [
+          "nether"
+        ]
+      },
+      "rarity": 0.2
+    }
+  ]
+}

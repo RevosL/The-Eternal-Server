@@ -1,0 +1,44 @@
+{
+  "id": "Eelektross",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Eelektross"
+      },
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 53,
+      "maxLevel": 64,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "deep_ocean",
+          "kelp_forest"
+        ],
+        "maxY": 35
+      },
+      "rarity": 0.5
+    },
+    {
+      "spec": {
+        "name": "Eelektross"
+      },
+      "stringLocationTypes": [
+        "Underground Water"
+      ],
+      "minLevel": 53,
+      "maxLevel": 64,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "Monument"
+        ]
+      },
+      "rarity": 1.0
+    }
+  ]
+}

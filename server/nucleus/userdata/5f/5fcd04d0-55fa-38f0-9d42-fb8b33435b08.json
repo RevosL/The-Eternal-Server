@@ -1,0 +1,35 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622925328160,
+  "lastIP": "/177.188.212.54",
+  "usedKits": {
+    "inicial": 1622176781998,
+    "start": 1622177202225,
+    "comida": 1622177543967,
+    "dstart": 1622681674205,
+    "diario": 1622179116609,
+    "sstart": 1622181117917,
+    "mstart": 1622181147549,
+    "casa": 1622225813976,
+    "farm": 1622308277733,
+    "ajuda": 1622573266113
+  },
+  "firstJoin": 1622176781991,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "narutin22",
+  "homes": {
+    "home": {
+      "x": 770.6999999880791,
+      "y": 79,
+      "z": -4505.177058189717,
+      "rotx": 11.699957847595215,
+      "roty": 88.532470703125,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  },
+  "fly": false,
+  "powertools": {}
+}

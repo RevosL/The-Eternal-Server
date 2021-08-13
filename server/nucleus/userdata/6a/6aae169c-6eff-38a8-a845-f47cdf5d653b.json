@@ -1,0 +1,20 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622796674000,
+  "lastIP": "/77.234.44.176",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622796674010,
+    "start": 1622796707681,
+    "mstart": 1622796788919,
+    "sstart": 1622796814168,
+    "dstart": 1622796820264,
+    "pascoa": 1622796828162
+  },
+  "firstJoin": 1622796674000,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Morango",
+  "fly": true,
+  "powertools": {}
+}

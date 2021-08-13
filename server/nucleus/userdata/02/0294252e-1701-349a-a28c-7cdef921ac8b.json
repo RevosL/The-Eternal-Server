@@ -1,0 +1,28 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623238433860,
+  "lastIP": "/186.210.138.139",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1623236063149,
+    "start": 1623236120423,
+    "farm": 1623236309514
+  },
+  "firstJoin": 1623236063138,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Juhzinhah",
+  "homes": {
+    "casa": {
+      "x": -2515.285005225063,
+      "y": 71,
+      "z": 1332.7024935595302,
+      "rotx": 13.799993515014648,
+      "roty": -152.96435546875,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  },
+  "fly": false,
+  "powertools": {}
+}

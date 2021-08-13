@@ -1,0 +1,45 @@
+logs=[
+    {
+        otherParticipant="8887d5b9-1a18-3da2-ba78-2ad99485b200"
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[]
+        participant="02fa4315-904c-34bf-82fd-d1fc976f4fba"
+        sideItemStrings=[]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[
+            "{\"EVSpeed\":0.0,\"IVAttack\":4.0,\"Growth\":3.0,\"originalTrainerUUIDMost\":2.14557692147807424E17,\"PersistentData\":{\"SpongeData\":{}},\"Gender\":0.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":33.0,\"Name\":\"Meowth\",\"isInRanch\":0.0,\"Friendship\":70.0,\"StatsDefence\":39.0,\"IVDefence\":14.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":27.0,\"IVSpDef\":12.0,\"CaughtBall\":21.0,\"IVHP\":17.0,\"AbilitySlot\":1.0,\"EVHP\":0.0,\"ndex\":52.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-9.0078127968685056E18,\"Nature\":21.0,\"StatsHP\":70.0,\"UUIDLeast\":-7.3451914605991813E18,\"Health\":70.0,\"originalTrainer\":\"The_Prince\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":2.0,\"StatsSpeed\":36.0,\"EVSpecialAttack\":0.0,\"IsShiny\":0.0,\"StatsAttack\":37.0,\"UUIDMost\":9.2008531010281984E18,\"IVSpeed\":31.0,\"Level\":28.0,\"IVSpAtt\":2.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}",
+            "{\"EVSpeed\":0.0,\"IVAttack\":31.0,\"Growth\":4.0,\"originalTrainerUUIDMost\":2.14557692147807424E17,\"PersistentData\":{\"SpongeData\":{}},\"Gender\":1.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":27.0,\"Name\":\"Meowth\",\"isInRanch\":0.0,\"Friendship\":70.0,\"StatsDefence\":27.0,\"IVDefence\":22.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":27.0,\"IVSpDef\":1.0,\"CaughtBall\":21.0,\"IVHP\":7.0,\"AbilitySlot\":0.0,\"EVHP\":0.0,\"ndex\":52.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-9.0078127968685056E18,\"Nature\":5.0,\"StatsHP\":62.0,\"UUIDLeast\":-5.1440434059954719E18,\"Health\":62.0,\"originalTrainer\":\"The_Prince\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":0.0,\"StatsSpeed\":59.0,\"EVSpecialAttack\":0.0,\"IsShiny\":0.0,\"StatsAttack\":41.0,\"UUIDMost\":4.0995075287669985E18,\"IVSpeed\":14.0,\"Level\":28.0,\"IVSpAtt\":0.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}"
+        ]
+        timestamp="24/05/2021 00:42"
+        uniqueID=bf7525c8-0c78-4e03-b872-27db03e384df
+    },
+    {
+        otherParticipant="8887d5b9-1a18-3da2-ba78-2ad99485b200"
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[]
+        participant="02fa4315-904c-34bf-82fd-d1fc976f4fba"
+        sideItemStrings=[]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[
+            "{\"EVSpeed\":7.0,\"IVAttack\":0.0,\"Growth\":5.0,\"originalTrainerUUIDMost\":2.14557692147807424E17,\"PersistentData\":{\"SpongeData\":{\"CanGrief\":1.0}},\"Gender\":0.0,\"EVSpecialDefence\":19.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":154.0,\"Name\":\"Persian\",\"isInRanch\":0.0,\"Friendship\":255.0,\"StatsDefence\":142.0,\"IVDefence\":17.0,\"EVAttack\":5.0,\"StatsSpecialAttack\":157.0,\"IVSpDef\":15.0,\"CaughtBall\":21.0,\"IVHP\":21.0,\"AbilitySlot\":0.0,\"EVHP\":0.0,\"ndex\":53.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-9.0078127968685056E18,\"Nature\":19.0,\"StatsHP\":261.0,\"UUIDLeast\":-9.0278356249743913E18,\"Health\":261.0,\"originalTrainer\":\"The_Prince\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":0.0,\"StatsSpeed\":216.0,\"EVSpecialAttack\":1.0,\"IsShiny\":0.0,\"StatsAttack\":146.0,\"UUIDMost\":5.6376201713335008E17,\"IVSpeed\":5.0,\"Level\":100.0,\"IVSpAtt\":8.0,\"EVDefence\":2.0,\"NBT_VERSION\":1.0,\"EXP\":17416.0}"
+        ]
+        timestamp="24/05/2021 01:36"
+        uniqueID="618712df-97ab-478e-b6aa-c2036f100381"
+    },
+    {
+        otherParticipant="02fa4315-904c-34bf-82fd-d1fc976f4fba"
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[]
+        participant="8887d5b9-1a18-3da2-ba78-2ad99485b200"
+        sideItemStrings=[]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[
+            "{\"EVSpeed\":7.0,\"IVAttack\":0.0,\"Growth\":5.0,\"originalTrainerUUIDMost\":2.14557692147807424E17,\"PersistentData\":{\"SpongeData\":{\"CanGrief\":1.0}},\"Gender\":0.0,\"EVSpecialDefence\":19.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":154.0,\"Name\":\"Persian\",\"isInRanch\":0.0,\"Friendship\":255.0,\"StatsDefence\":142.0,\"IVDefence\":17.0,\"EVAttack\":5.0,\"StatsSpecialAttack\":157.0,\"IVSpDef\":15.0,\"CaughtBall\":21.0,\"IVHP\":21.0,\"AbilitySlot\":0.0,\"EVHP\":0.0,\"ndex\":53.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-9.0078127968685056E18,\"Nature\":19.0,\"StatsHP\":261.0,\"UUIDLeast\":-9.0278356249743913E18,\"Health\":261.0,\"originalTrainer\":\"The_Prince\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":0.0,\"StatsSpeed\":216.0,\"EVSpecialAttack\":1.0,\"IsShiny\":0.0,\"StatsAttack\":146.0,\"UUIDMost\":5.6376201713335008E17,\"IVSpeed\":5.0,\"Level\":100.0,\"IVSpAtt\":8.0,\"EVDefence\":2.0,\"NBT_VERSION\":1.0,\"EXP\":17416.0}"
+        ]
+        timestamp="24/05/2021 01:38"
+        uniqueID=f4678181-6ca5-44d8-815c-96943bfce722
+    }
+]

@@ -1,0 +1,14 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622049435800,
+  "lastIP": "/201.158.21.254",
+  "usedKits": {
+    "inicial": 1622049435805,
+    "start": 1622049599892
+  },
+  "firstJoin": 1622049435800,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "BRabin"
+}

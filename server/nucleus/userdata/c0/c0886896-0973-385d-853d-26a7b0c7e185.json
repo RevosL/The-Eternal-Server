@@ -1,0 +1,50 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622648267796,
+  "lastIP": "/201.17.116.95",
+  "usedKits": {
+    "inicial": 1621881811717,
+    "start": 1621881859645,
+    "comida": 1622475877118,
+    "mstart": 1621883096262,
+    "ajuda": 1621883315113,
+    "sstart": 1621883334039,
+    "pascoa": 1621883345840,
+    "dstart": 1622473522758,
+    "diario": 1622473632839,
+    "farm": 1622314892666,
+    "casa": 1621900565164,
+    "menu": 1621883535981,
+    "s-ultra": 1622238388717,
+    "d-ultra": 1622560923002,
+    "m-ultrak": 1622238436576,
+    "m-ultra": 1622238608794
+  },
+  "firstJoin": 1621881811707,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "mariogostoso",
+  "fly": true,
+  "homes": {
+    "home": {
+      "x": 2207.504099560889,
+      "y": 65,
+      "z": -9880.203516708172,
+      "rotx": 26.699840545654297,
+      "roty": 269.39404296875,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    },
+    "ex": {
+      "x": 3321.653666309071,
+      "y": 76,
+      "z": -9449.072796540113,
+      "rotx": 35.5499267578125,
+      "roty": 6.2835693359375,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  },
+  "powertools": {}
+}

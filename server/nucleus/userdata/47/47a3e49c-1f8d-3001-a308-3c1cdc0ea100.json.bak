@@ -1,0 +1,37 @@
+{
+  "data_version": 2,
+  "lastLogin": 1621815030768,
+  "lastIP": "/190.12.159.43",
+  "usedKits": {
+    "inicial": 1621776755662,
+    "start": 1621777038532,
+    "sstart": 1621777356985,
+    "mstart": 1621777417583,
+    "dstart": 1621777606983,
+    "pascoa": 1621777612143,
+    "farm": 1621777662236,
+    "diario": 1621777708934,
+    "m-lendk": 1621815051606,
+    "m-lend": 1621815380101,
+    "s-lend": 1621815536569,
+    "d-lend": 1621815553163,
+    "casa": 1621815781600
+  },
+  "firstJoin": 1621776755655,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "AnjoNerd",
+  "fly": true,
+  "homes": {
+    "home": {
+      "x": 5155.837944963795,
+      "y": 79,
+      "z": -3677.3354731280774,
+      "rotx": 13.800020217895508,
+      "roty": -300.609619140625,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  }
+}

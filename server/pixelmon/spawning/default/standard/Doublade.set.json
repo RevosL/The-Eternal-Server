@@ -1,0 +1,46 @@
+{
+  "id": "Doublade",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Doublade"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 6.0
+    },
+    {
+      "spec": {
+        "name": "Doublade"
+      },
+      "stringLocationTypes": [
+        "Manmade",
+        "Indoors"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "Fortress"
+        ],
+        "stringBiomes": [
+          "nether"
+        ]
+      },
+      "rarity": 6.0
+    }
+  ]
+}

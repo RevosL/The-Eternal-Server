@@ -1,0 +1,34 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622135278224,
+  "lastIP": "/45.173.84.38",
+  "usedKits": {
+    "inicial": 1621822140785,
+    "start": 1621822528910,
+    "mstart": 1621822548317,
+    "pascoa": 1621822588936,
+    "sstart": 1621822802742,
+    "dstart": 1622135423950,
+    "casa": 1622135410102,
+    "diario": 1622135383864,
+    "farm": 1622135394820
+  },
+  "firstJoin": 1621822140775,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "FoxDamage",
+  "fly": true,
+  "homes": {
+    "casa": {
+      "x": 7946.089097147975,
+      "y": 64.0,
+      "z": -5037.375951310107,
+      "rotx": 12.75004768371582,
+      "roty": 185.3814697265625,
+      "rotz": 0.0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  },
+  "powertools": {}
+}

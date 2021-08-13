@@ -1,0 +1,57 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623160761586,
+  "lastIP": "/179.54.114.103",
+  "usedKits": {
+    "inicial": 1621777725980,
+    "comida": 1621777947446,
+    "m-lendk": 1621944764697,
+    "s-lend": 1622599790615,
+    "d-lend": 1622763549282,
+    "m-lend": 1621944815648,
+    "pascoa": 1621945056104,
+    "casa": 1621945072466,
+    "start": 1621945120950,
+    "menu": 1621945126308,
+    "dstart": 1622493636345,
+    "sstart": 1621945149802,
+    "mstart": 1621945156303
+  },
+  "firstJoin": 1621777725969,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "FaZeMzk",
+  "fly": true,
+  "homes": {
+    "home": {
+      "x": 9995.124038798402,
+      "y": 63,
+      "z": 9904.985534147352,
+      "rotx": 15.299983024597168,
+      "roty": 237.30389404296875,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    },
+    "roma": {
+      "x": -2083.2217712802467,
+      "y": 64,
+      "z": -3329.554048657138,
+      "rotx": 15.000024795532227,
+      "roty": 237.00807189941406,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    },
+    "finish": {
+      "x": 8510.916638845143,
+      "y": 217,
+      "z": 7229.689343572715,
+      "rotx": 33.60002517700195,
+      "roty": 167.66943359375,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  },
+  "nickname-text": "{\"extra\":[{\"color\":\"dark_aqua\",\"text\":\"Boy_\"},{\"color\":\"dark_green\",\"text\":\"Coach\"}],\"text\":\"\"}",
+  "powertools": {}
+}

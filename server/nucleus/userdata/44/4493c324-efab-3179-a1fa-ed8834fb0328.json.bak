@@ -1,0 +1,31 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623889802538,
+  "lastIP": "/45.232.88.179",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1623876301804,
+    "start": 1623876449718,
+    "mstart": 1623876480859,
+    "sstart": 1623876491559,
+    "dstart": 1623876495570,
+    "comida": 1623876804508,
+    "ajuda": 1623880364728
+  },
+  "firstJoin": 1623876301791,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "ClaraPontes211",
+  "homes": {
+    "home": {
+      "x": -809.2723793168195,
+      "y": 78,
+      "z": -394.65372015526646,
+      "rotx": 4.799997329711914,
+      "roty": -212.4884033203125,
+      "rotz": 0,
+      "world": "91562b72-1b18-4910-8987-42f4c73c7d28"
+    }
+  },
+  "fly": true
+}

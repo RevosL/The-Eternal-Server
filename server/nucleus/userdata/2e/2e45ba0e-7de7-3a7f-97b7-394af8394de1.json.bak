@@ -1,0 +1,32 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622740960763,
+  "lastIP": "/179.108.11.167",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622740960771,
+    "start": 1622741115228,
+    "ajuda": 1622742033375,
+    "farm": 1622742102318,
+    "diario": 1622742111048,
+    "mstart": 1622742139414,
+    "sstart": 1622742424230,
+    "dstart": 1622742425832
+  },
+  "firstJoin": 1622740960763,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Kynoox",
+  "fly": true,
+  "homes": {
+    "farm": {
+      "x": -3851.505964751793,
+      "y": 70.0,
+      "z": 5109.818730273232,
+      "rotx": 12.150017738342285,
+      "roty": 242.83721923828125,
+      "rotz": 0.0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  }
+}

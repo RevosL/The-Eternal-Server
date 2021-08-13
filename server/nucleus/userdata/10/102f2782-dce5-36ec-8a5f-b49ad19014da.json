@@ -1,0 +1,32 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623104562073,
+  "lastIP": "/132.255.143.1",
+  "usedKits": {
+    "inicial": 1623001101314,
+    "start": 1623001152176,
+    "dstart": 1623101349167,
+    "diario": 1623101396916,
+    "casa": 1623103980083,
+    "sstart": 1623104033982,
+    "mstart": 1623104036678
+  },
+  "firstJoin": 1623001101309,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "f4llt",
+  "fly": false,
+  "homes": {
+    "casa": {
+      "x": -6124.574418897162,
+      "y": 63,
+      "z": 4033.6746690006476,
+      "rotx": -90,
+      "roty": 273.7406921386719,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  },
+  "powertools": {}
+}

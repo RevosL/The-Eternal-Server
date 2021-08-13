@@ -1,0 +1,18 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622508129897,
+  "lastIP": "/186.204.160.208",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622507038522,
+    "ajuda": 1622508348780,
+    "diario": 1622508364155,
+    "start": 1622508726701
+  },
+  "firstJoin": 1622507038512,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Des0cupado",
+  "fly": false,
+  "powertools": {}
+}

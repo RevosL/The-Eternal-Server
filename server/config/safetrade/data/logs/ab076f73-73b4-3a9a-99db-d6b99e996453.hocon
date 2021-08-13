@@ -1,0 +1,32 @@
+logs=[
+    {
+        otherParticipant="849cb3bf-8e8c-3b98-9346-7ba3e7dd66ed"
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[
+            "{\"Currency\":\"economylite:coin\",\"Balance\":10000}"
+        ]
+        otherSidePokemonStrings=[]
+        participant=ab076f73-73b4-3a9a-99db-d6b99e996453
+        sideItemStrings=[
+            "{\"ContentVersion\":2,\"ItemType\":\"minecraft:planks\",\"Count\":1,\"UnsafeDamage\":0}"
+        ]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[]
+        timestamp="06/06/2021 21:16"
+        uniqueID="816270cf-17d8-415c-a687-20ab3c357fdc"
+    },
+    {
+        otherParticipant="849cb3bf-8e8c-3b98-9346-7ba3e7dd66ed"
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[]
+        participant=ab076f73-73b4-3a9a-99db-d6b99e996453
+        sideItemStrings=[]
+        sideMoneyStrings=[
+            "{\"Currency\":\"economylite:coin\",\"Balance\":10000}"
+        ]
+        sidePokemonStrings=[]
+        timestamp="06/06/2021 21:31"
+        uniqueID="1d9d3a71-1615-462e-ac22-b123f871f39d"
+    }
+]

@@ -1,0 +1,16 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623018610537,
+  "lastIP": "/187.20.216.156",
+  "usedKits": {
+    "inicial": 1622570953528,
+    "start": 1622573328746
+  },
+  "firstJoin": 1622570953503,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "SUPERAFAO",
+  "fly": true,
+  "powertools": {}
+}

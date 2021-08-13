@@ -1,0 +1,63 @@
+logs=[
+    {
+        otherParticipant="0bb2ea4e-7aa6-3469-b1a6-cfdd6d2ed797"
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[]
+        participant="49ff490b-4d9b-3318-a887-00bba5dab53e"
+        sideItemStrings=[]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[
+            "{\"EVSpeed\":0.0,\"IVAttack\":9.0,\"Growth\":0.0,\"originalTrainerUUIDMost\":5.3320607967254415E18,\"PersistentData\":{},\"Gender\":2.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":152.0,\"Name\":\"Darkrai\",\"isInRanch\":0.0,\"Friendship\":0.0,\"StatsDefence\":152.0,\"IVDefence\":31.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":189.0,\"IVSpDef\":31.0,\"CaughtBall\":0.0,\"IVHP\":31.0,\"AbilitySlot\":0.0,\"EVHP\":0.0,\"ndex\":491.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-6.3030683475402619E18,\"Nature\":7.0,\"StatsHP\":199.0,\"UUIDLeast\":-6.2213275069138555E18,\"Health\":199.0,\"originalTrainer\":\"Vibesz\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":-1.0,\"StatsSpeed\":188.0,\"EVSpecialAttack\":0.0,\"IsShiny\":0.0,\"StatsAttack\":150.0,\"UUIDMost\":-6.630413808486103E18,\"IVSpeed\":12.0,\"Level\":70.0,\"IVSpAtt\":24.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}"
+        ]
+        timestamp="23/05/2021 23:47"
+        uniqueID="79242cfe-e702-4b37-af69-a56476b9421b"
+    },
+    {
+        otherParticipant="21fb4f6a-03fd-3133-8bf9-4d1a51463989"
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[]
+        participant="0bb2ea4e-7aa6-3469-b1a6-cfdd6d2ed797"
+        sideItemStrings=[
+            "{\"ContentVersion\":2,\"ItemType\":\"pixelmon:thunder_stone_shovel\",\"Count\":1,\"UnsafeDamage\":0,\"UnsafeData\":{\"ench\":[{\"lvl\":5,\"id\":32},{\"lvl\":3,\"id\":34},{\"lvl\":3,\"id\":35}],\"RepairCost\":15}}"
+        ]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[]
+        timestamp="24/05/2021 02:39"
+        uniqueID=f845d992-1e5f-41db-9f7e-87ac459b7426
+    },
+    {
+        otherParticipant="21fb4f6a-03fd-3133-8bf9-4d1a51463989"
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[]
+        participant="0bb2ea4e-7aa6-3469-b1a6-cfdd6d2ed797"
+        sideItemStrings=[
+            "{\"ContentVersion\":2,\"ItemType\":\"pixelmon:thunder_stone_pickaxe\",\"Count\":1,\"UnsafeDamage\":0,\"UnsafeData\":{\"ench\":[{\"lvl\":3,\"id\":34},{\"lvl\":5,\"id\":32},{\"lvl\":3,\"id\":35}],\"RepairCost\":7}}"
+        ]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[]
+        timestamp="24/05/2021 02:43"
+        uniqueID="898fd1be-d786-41f0-972f-72794717698f"
+    },
+    {
+        otherParticipant="4e48b9d0-3b44-3b19-91ad-ccbd851623fb"
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[]
+        participant="0bb2ea4e-7aa6-3469-b1a6-cfdd6d2ed797"
+        sideItemStrings=[]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[
+            "{\"EVSpeed\":0.0,\"IVAttack\":28.0,\"Growth\":4.0,\"originalTrainerUUIDMost\":8.429937030577655E17,\"PersistentData\":{},\"Gender\":0.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":16.0,\"Name\":\"Froakie\",\"isInRanch\":0.0,\"Friendship\":0.0,\"StatsDefence\":17.0,\"IVDefence\":21.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":20.0,\"IVSpDef\":7.0,\"CaughtBall\":0.0,\"IVHP\":7.0,\"AbilitySlot\":0.0,\"EVHP\":0.0,\"ndex\":656.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-5.6455965329358295E18,\"Nature\":13.0,\"StatsHP\":32.0,\"UUIDLeast\":-5.8325602748737024E18,\"Health\":32.0,\"originalTrainer\":\"GyuTazZ\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":-1.0,\"StatsSpeed\":24.0,\"EVSpecialAttack\":0.0,\"IsShiny\":1.0,\"StatsAttack\":18.0,\"UUIDMost\":-2.9300217545128499E18,\"IVSpeed\":0.0,\"Level\":12.0,\"IVSpAtt\":1.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}",
+            "{\"EVSpeed\":0.0,\"IVAttack\":9.0,\"Growth\":3.0,\"originalTrainerUUIDMost\":8.429937030577655E17,\"PersistentData\":{},\"Gender\":0.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":51.0,\"Name\":\"Gloom\",\"isInRanch\":0.0,\"Friendship\":70.0,\"StatsDefence\":42.0,\"IVDefence\":16.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":44.0,\"IVSpDef\":25.0,\"CaughtBall\":0.0,\"IVHP\":7.0,\"AbilitySlot\":0.0,\"EVHP\":0.0,\"ndex\":44.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-5.6455965329358295E18,\"Nature\":24.0,\"StatsHP\":64.0,\"UUIDLeast\":-6.5887821469756508E18,\"Health\":64.0,\"originalTrainer\":\"GyuTazZ\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":-1.0,\"StatsSpeed\":26.0,\"EVSpecialAttack\":0.0,\"IsShiny\":1.0,\"StatsAttack\":38.0,\"UUIDMost\":-2.03813906714641818E18,\"IVSpeed\":9.0,\"Level\":24.0,\"IVSpAtt\":14.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}",
+            "{\"EVSpeed\":0.0,\"IVAttack\":26.0,\"Growth\":2.0,\"originalTrainerUUIDMost\":8.429937030577655E17,\"PersistentData\":{},\"Gender\":0.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":12.0,\"Name\":\"Shinx\",\"isInRanch\":0.0,\"Friendship\":70.0,\"StatsDefence\":13.0,\"IVDefence\":6.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":14.0,\"IVSpDef\":1.0,\"CaughtBall\":0.0,\"IVHP\":4.0,\"AbilitySlot\":0.0,\"EVHP\":0.0,\"ndex\":403.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-5.6455965329358295E18,\"Nature\":4.0,\"StatsHP\":31.0,\"UUIDLeast\":-5.0136912437209866E18,\"Health\":31.0,\"originalTrainer\":\"GyuTazZ\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":-1.0,\"StatsSpeed\":16.0,\"EVSpecialAttack\":0.0,\"IsShiny\":1.0,\"StatsAttack\":22.0,\"UUIDMost\":2.408792990705665E18,\"IVSpeed\":16.0,\"Level\":11.0,\"IVSpAtt\":5.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}",
+            "{\"EVSpeed\":0.0,\"IVAttack\":7.0,\"Growth\":3.0,\"originalTrainerUUIDMost\":8.429937030577655E17,\"PersistentData\":{},\"Gender\":1.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":64.0,\"Name\":\"Scolipede\",\"isInRanch\":0.0,\"Friendship\":70.0,\"StatsDefence\":76.0,\"IVDefence\":27.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":52.0,\"IVSpDef\":17.0,\"CaughtBall\":0.0,\"IVHP\":8.0,\"AbilitySlot\":1.0,\"EVHP\":0.0,\"ndex\":545.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-5.6455965329358295E18,\"Nature\":21.0,\"StatsHP\":89.0,\"UUIDLeast\":-7.8648567342858854E18,\"Health\":89.0,\"originalTrainer\":\"GyuTazZ\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":-1.0,\"StatsSpeed\":85.0,\"EVSpecialAttack\":0.0,\"IsShiny\":1.0,\"StatsAttack\":69.0,\"UUIDMost\":7.2626970762966661E18,\"IVSpeed\":7.0,\"Level\":35.0,\"IVSpAtt\":25.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}",
+            "{\"EVSpeed\":0.0,\"IVAttack\":26.0,\"Growth\":2.0,\"originalTrainerUUIDMost\":8.429937030577655E17,\"PersistentData\":{},\"Gender\":0.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":101.0,\"Name\":\"Blastoise\",\"isInRanch\":0.0,\"Friendship\":70.0,\"StatsDefence\":80.0,\"IVDefence\":12.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":80.0,\"IVSpDef\":30.0,\"CaughtBall\":0.0,\"IVHP\":14.0,\"AbilitySlot\":0.0,\"EVHP\":0.0,\"ndex\":9.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-5.6455965329358295E18,\"Nature\":5.0,\"StatsHP\":118.0,\"UUIDLeast\":-5.7187263406041395E18,\"Health\":118.0,\"originalTrainer\":\"GyuTazZ\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":0.0,\"StatsSpeed\":75.0,\"EVSpecialAttack\":0.0,\"IsShiny\":1.0,\"StatsAttack\":89.0,\"UUIDMost\":1.54162764725651277E18,\"IVSpeed\":20.0,\"Level\":40.0,\"IVSpAtt\":18.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}",
+            "{\"EVSpeed\":0.0,\"IVAttack\":24.0,\"Growth\":4.0,\"originalTrainerUUIDMost\":8.429937030577655E17,\"PersistentData\":{},\"Gender\":1.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":23.0,\"Name\":\"Snubbull\",\"isInRanch\":0.0,\"Friendship\":70.0,\"StatsDefence\":22.0,\"IVDefence\":0.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":19.0,\"IVSpDef\":27.0,\"CaughtBall\":0.0,\"IVHP\":25.0,\"AbilitySlot\":0.0,\"EVHP\":0.0,\"ndex\":209.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-5.6455965329358295E18,\"Nature\":7.0,\"StatsHP\":51.0,\"UUIDLeast\":-5.8201210527859446E18,\"Health\":51.0,\"originalTrainer\":\"GyuTazZ\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":-1.0,\"StatsSpeed\":18.0,\"EVSpecialAttack\":0.0,\"IsShiny\":1.0,\"StatsAttack\":39.0,\"UUIDMost\":7.1771870089978368E18,\"IVSpeed\":17.0,\"Level\":17.0,\"IVSpAtt\":22.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}"
+        ]
+        timestamp="24/05/2021 02:52"
+        uniqueID="7f2d687f-d08b-40f0-a520-1158411871d9"
+    }
+]

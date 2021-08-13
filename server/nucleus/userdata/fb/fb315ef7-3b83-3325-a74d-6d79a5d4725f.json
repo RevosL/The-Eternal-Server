@@ -1,0 +1,31 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622914489630,
+  "lastIP": "/138.99.52.71",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622667842097,
+    "diario": 1622668331746,
+    "start": 1622668776041,
+    "dstart": 1622668781402,
+    "sstart": 1622668800344,
+    "mstart": 1622668802036
+  },
+  "firstJoin": 1622667842087,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "MuTeeSD",
+  "fly": false,
+  "homes": {
+    "casa": {
+      "x": -4318.780470216298,
+      "y": 70,
+      "z": -2042.4736147833844,
+      "rotx": 19.312705993652344,
+      "roty": -124.75357055664062,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  },
+  "powertools": {}
+}

@@ -1,0 +1,18 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622794790581,
+  "lastIP": "/131.161.135.5",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622764974949,
+    "start": 1622794859776,
+    "pascoa": 1622794868815,
+    "mstart": 1622794893014,
+    "sstart": 1622794952812
+  },
+  "firstJoin": 1622764974942,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Isasz",
+  "fly": true
+}

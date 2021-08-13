@@ -1,0 +1,20 @@
+{
+  "data_version": 2,
+  "lastLogin": 1621776749450,
+  "lastIP": "/131.196.240.206",
+  "usedKits": {
+    "inicial": 1621776749458,
+    "start": 1621777011150,
+    "dstart": 1621777166885,
+    "sstart": 1621777551841,
+    "mstart": 1621777617838,
+    "diario": 1621780266645
+  },
+  "firstJoin": 1621776749450,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Nathan784",
+  "fly": true,
+  "powertools": {}
+}

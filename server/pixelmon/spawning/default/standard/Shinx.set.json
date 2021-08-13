@@ -1,0 +1,45 @@
+{
+  "id": "Shinx",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Shinx"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 15,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 170.0
+    },
+    {
+      "spec": {
+        "name": "Shinx"
+      },
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 5,
+      "maxLevel": 15,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "arid"
+        ],
+        "structures": [
+          "Temple"
+        ]
+      },
+      "rarity": 100.0
+    }
+  ]
+}

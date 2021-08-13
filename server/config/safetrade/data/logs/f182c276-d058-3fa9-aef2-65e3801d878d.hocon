@@ -1,0 +1,18 @@
+logs=[
+    {
+        otherParticipant=d61bd900-a97b-330d-ba48-f5739db16028
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[]
+        participant=f182c276-d058-3fa9-aef2-65e3801d878d
+        sideItemStrings=[]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[
+            "{\"EVSpeed\":0.0,\"IVAttack\":3.0,\"Growth\":2.0,\"originalTrainerUUIDMost\":-1.04405834803915994E18,\"PersistentData\":{},\"Gender\":1.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":158.0,\"Name\":\"Florges\",\"isInRanch\":0.0,\"Friendship\":0.0,\"StatsDefence\":72.0,\"IVDefence\":19.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":126.0,\"IVSpDef\":6.0,\"CaughtBall\":0.0,\"IVHP\":4.0,\"AbilitySlot\":0.0,\"EVHP\":0.0,\"ndex\":671.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-5.8404937389647114E18,\"Nature\":18.0,\"StatsHP\":137.0,\"UUIDLeast\":-8.0330831467089039E18,\"Health\":137.0,\"originalTrainer\":\"SA_sasuke\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":2.0,\"StatsSpeed\":87.0,\"EVSpecialAttack\":0.0,\"IsShiny\":1.0,\"StatsAttack\":70.0,\"UUIDMost\":7.5908629618102303E18,\"IVSpeed\":19.0,\"Level\":49.0,\"IVSpAtt\":1.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}",
+            "{\"EVSpeed\":0.0,\"IVAttack\":25.0,\"Growth\":5.0,\"originalTrainerUUIDMost\":-1.04405834803915994E18,\"PersistentData\":{},\"Gender\":0.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":39.0,\"Name\":\"Munchlax\",\"isInRanch\":0.0,\"Friendship\":76.0,\"StatsDefence\":22.0,\"IVDefence\":22.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":18.0,\"IVSpDef\":30.0,\"CaughtBall\":0.0,\"IVHP\":29.0,\"AbilitySlot\":2.0,\"EVHP\":0.0,\"ndex\":446.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-5.8404937389647114E18,\"Nature\":4.0,\"StatsHP\":77.0,\"UUIDLeast\":-7.9780587260989696E18,\"Health\":77.0,\"originalTrainer\":\"SA_sasuke\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":-1.0,\"StatsSpeed\":8.0,\"EVSpecialAttack\":0.0,\"IsShiny\":1.0,\"StatsAttack\":38.0,\"UUIDMost\":6.6440483612398899E18,\"IVSpeed\":13.0,\"Level\":17.0,\"IVSpAtt\":2.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}",
+            "{\"EVSpeed\":0.0,\"IVAttack\":11.0,\"Growth\":5.0,\"originalTrainerUUIDMost\":-1.04405834803915994E18,\"PersistentData\":{},\"Gender\":0.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":27.0,\"Name\":\"Inkay\",\"isInRanch\":0.0,\"Friendship\":0.0,\"StatsDefence\":31.0,\"IVDefence\":9.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":25.0,\"IVSpDef\":5.0,\"CaughtBall\":0.0,\"IVHP\":6.0,\"AbilitySlot\":1.0,\"EVHP\":0.0,\"ndex\":686.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-5.8404937389647114E18,\"Nature\":6.0,\"StatsHP\":58.0,\"UUIDLeast\":-6.4925301365033912E18,\"Health\":58.0,\"originalTrainer\":\"SA_sasuke\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":-1.0,\"StatsSpeed\":27.0,\"EVSpecialAttack\":0.0,\"IsShiny\":0.0,\"StatsAttack\":35.0,\"UUIDMost\":6.502108384762283E18,\"IVSpeed\":20.0,\"Level\":23.0,\"IVSpAtt\":13.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}"
+        ]
+        timestamp="24/05/2021 21:19"
+        uniqueID="28f74f0e-ea5f-4fbd-b895-f7a191283566"
+    }
+]

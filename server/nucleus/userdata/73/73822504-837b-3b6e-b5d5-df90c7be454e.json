@@ -1,0 +1,42 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623096542549,
+  "lastIP": "/191.215.186.146",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622410126471,
+    "diario": 1623103376724,
+    "pascoa": 1622410566211,
+    "ajuda": 1622410572446,
+    "livros": 1622410574844,
+    "comida": 1623097599376,
+    "casa": 1623102908148,
+    "farm": 1623013895284,
+    "menu": 1622411243946,
+    "start": 1622423492445,
+    "dstart": 1623013756996,
+    "sstart": 1622423519200,
+    "mstart": 1622423548947,
+    "s-ultra": 1622674014051,
+    "m-ultra": 1622674033671,
+    "m-ultrak": 1622674065162,
+    "d-ultra": 1623103318930
+  },
+  "firstJoin": 1622410126460,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "lkty",
+  "fly": true,
+  "homes": {
+    "home": {
+      "x": 2130.633848955425,
+      "y": 66,
+      "z": -9881.984555595422,
+      "rotx": 14.549972534179688,
+      "roty": 2.843447208404541,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  },
+  "powertools": {}
+}

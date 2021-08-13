@@ -1,0 +1,18 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622240323207,
+  "lastIP": "/201.89.6.133",
+  "usedKits": {
+    "inicial": 1622226640455,
+    "livros": 1622226995966,
+    "start": 1622227050629,
+    "dstart": 1622227063872,
+    "ajuda": 1622228972826
+  },
+  "firstJoin": 1622226640448,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "GuhChizin",
+  "fly": true
+}

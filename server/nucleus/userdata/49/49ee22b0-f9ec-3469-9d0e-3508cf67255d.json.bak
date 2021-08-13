@@ -1,0 +1,31 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622663534076,
+  "lastIP": "/177.234.177.33",
+  "usedKits": {
+    "inicial": 1621788713998,
+    "diario": 1621788864995,
+    "ajuda": 1621788899882,
+    "start": 1621881456405,
+    "dstart": 1622072859870,
+    "sstart": 1621881608880,
+    "mstart": 1621881625843
+  },
+  "firstJoin": 1621788713987,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Rafael_Otaku",
+  "fly": true,
+  "homes": {
+    "home": {
+      "x": -1963.1956400013798,
+      "y": 74,
+      "z": 1778.7241847844273,
+      "rotx": 32.84981155395508,
+      "roty": 77.55318450927734,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  }
+}

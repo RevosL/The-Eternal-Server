@@ -1,0 +1,59 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623266940175,
+  "lastIP": "/89.181.118.24",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622664843552,
+    "start": 1622664959294,
+    "ajuda": 1622664994359,
+    "diario": 1622933882093,
+    "farm": 1622665043389,
+    "dstart": 1623267083601,
+    "sstart": 1622665090930,
+    "mstart": 1622665498032
+  },
+  "firstJoin": 1622664843547,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "17Ricky",
+  "fly": true,
+  "homes": {
+    "safari": {
+      "x": -6582.1745115306285,
+      "y": 64,
+      "z": -7312.199867652175,
+      "rotx": 68.81820678710938,
+      "roty": -301.43438720703125,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    },
+    "riolu": {
+      "x": 3846.833603080108,
+      "y": 88.99571377187497,
+      "z": 9482.975895133963,
+      "rotx": 55.20649719238281,
+      "roty": -300.0323486328125,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    },
+    "safri2": {
+      "x": -3174.228892661235,
+      "y": 65,
+      "z": 3851.306617334526,
+      "rotx": 16.753402709960938,
+      "roty": -80.14468383789062,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    },
+    "savama": {
+      "x": -6277.446775597463,
+      "y": 80,
+      "z": -6478.922554645288,
+      "rotx": 35.52533721923828,
+      "roty": -135.99441528320312,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  }
+}

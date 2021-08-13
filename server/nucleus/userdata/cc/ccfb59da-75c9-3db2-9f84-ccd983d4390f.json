@@ -1,0 +1,38 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623016569400,
+  "lastIP": "/186.235.241.119",
+  "usedKits": {
+    "inicial": 1622589599392,
+    "start": 1622589733265,
+    "menu": 1622665009767,
+    "livros": 1622666768293,
+    "ajuda": 1622665822944,
+    "casa": 1622665907594,
+    "farm": 1622665960064,
+    "pascoa": 1622665994688,
+    "comida": 1622738692958,
+    "mstart": 1622666470507,
+    "dstart": 1622806939417,
+    "diario": 1622666622853,
+    "sstart": 1622666710019
+  },
+  "firstJoin": 1622589599378,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "REIZINHO15",
+  "fly": true,
+  "homes": {
+    "home": {
+      "x": -9348.565354439017,
+      "y": 70,
+      "z": -7711.6456534504305,
+      "rotx": 25.798246383666992,
+      "roty": -351.765625,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  },
+  "powertools": {}
+}

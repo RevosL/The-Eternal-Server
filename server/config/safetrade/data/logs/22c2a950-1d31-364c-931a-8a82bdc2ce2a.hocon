@@ -1,0 +1,30 @@
+logs=[
+    {
+        otherParticipant=d61bd900-a97b-330d-ba48-f5739db16028
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[]
+        participant="22c2a950-1d31-364c-931a-8a82bdc2ce2a"
+        sideItemStrings=[]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[
+            "{\"EVSpeed\":0.0,\"IVAttack\":15.0,\"Growth\":4.0,\"originalTrainerUUIDMost\":2.5047505043236593E18,\"PersistentData\":{},\"Gender\":2.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":6.0,\"Name\":\"Dracovish\",\"isInRanch\":0.0,\"Friendship\":50.0,\"StatsDefence\":7.0,\"IVDefence\":19.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":6.0,\"IVSpDef\":30.0,\"CaughtBall\":1.0,\"IVHP\":14.0,\"AbilitySlot\":0.0,\"EVHP\":0.0,\"ndex\":882.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-7.8468071066056253E18,\"Nature\":13.0,\"StatsHP\":12.0,\"UUIDLeast\":-7.4671285291417938E18,\"Health\":12.0,\"originalTrainer\":\"Rafaelos_\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":-1.0,\"StatsSpeed\":6.0,\"EVSpecialAttack\":0.0,\"IsShiny\":0.0,\"StatsAttack\":5.0,\"UUIDMost\":3.5806973934935265E18,\"IVSpeed\":15.0,\"Level\":1.0,\"IVSpAtt\":19.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}"
+        ]
+        timestamp="26/05/2021 01:20"
+        uniqueID="0635688c-80e3-4d5f-8cc6-ffb34b712bc2"
+    },
+    {
+        otherParticipant="22c2a950-1d31-364c-931a-8a82bdc2ce2a"
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[]
+        participant=b2199799-61d1-30ee-b8ab-751cdefcc54b
+        sideItemStrings=[]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[
+            "{\"EVSpeed\":0.0,\"IVAttack\":15.0,\"Growth\":4.0,\"originalTrainerUUIDMost\":-5.6132887755137229E18,\"PersistentData\":{\"SpongeData\":{}},\"Gender\":1.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":13.0,\"Name\":\"Magikarp\",\"isInRanch\":0.0,\"Friendship\":70.0,\"StatsDefence\":30.0,\"IVDefence\":13.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":16.0,\"IVSpDef\":4.0,\"CaughtBall\":2.0,\"IVHP\":3.0,\"AbilitySlot\":0.0,\"EVHP\":0.0,\"ndex\":129.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-5.1398857828526479E18,\"Nickname\":\"Speed 51\",\"Nature\":10.0,\"StatsHP\":37.0,\"UUIDLeast\":-5.2285381806669599E18,\"Health\":37.0,\"originalTrainer\":\"Romanholii\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":0.0,\"StatsSpeed\":36.0,\"EVSpecialAttack\":0.0,\"IsShiny\":0.0,\"StatsAttack\":11.0,\"UUIDMost\":6.2209043102894838E18,\"IVSpeed\":31.0,\"Level\":19.0,\"IVSpAtt\":29.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}"
+        ]
+        timestamp="26/05/2021 03:02"
+        uniqueID="8c9a0163-fa77-46ce-96ad-eb3529c3d5fa"
+    }
+]

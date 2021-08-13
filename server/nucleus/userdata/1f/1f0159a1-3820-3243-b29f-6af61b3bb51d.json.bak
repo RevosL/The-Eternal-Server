@@ -1,0 +1,46 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622969385468,
+  "lastIP": "/188.125.198.169",
+  "usedKits": {
+    "inicial": 1621760382777,
+    "start": 1621760490324,
+    "comida": 1622969626719,
+    "dstart": 1622050078496,
+    "sstart": 1621761372162,
+    "mstart": 1621761597417,
+    "farm": 1622969515122,
+    "diario": 1622969619820,
+    "ajuda": 1621787960509,
+    "casa": 1621952867247,
+    "pascoa": 1621952435635,
+    "livros": 1622969635619,
+    "menu": 1621952469088
+  },
+  "firstJoin": 1621760382772,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Naruto2021gamer",
+  "fly": true,
+  "homes": {
+    "base": {
+      "x": -5012.251978116254,
+      "y": 71,
+      "z": -3513.4799498396874,
+      "rotx": 18.299983978271484,
+      "roty": 258.8944396972656,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    },
+    "casa": {
+      "x": -3516.9910961130954,
+      "y": 76,
+      "z": -5982.257333421297,
+      "rotx": 21.000001907348633,
+      "roty": 74.0435791015625,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  }
+}

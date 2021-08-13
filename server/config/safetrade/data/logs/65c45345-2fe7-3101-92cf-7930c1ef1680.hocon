@@ -1,0 +1,16 @@
+logs=[
+    {
+        otherParticipant="65c45345-2fe7-3101-92cf-7930c1ef1680"
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[]
+        participant=c924cccc-c1df-35bd-a5e5-747661abbbd9
+        sideItemStrings=[]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[
+            "{\"EVSpeed\":0.0,\"IVAttack\":14.0,\"Growth\":5.0,\"originalTrainerUUIDMost\":-3.9528093931264271E18,\"PersistentData\":{\"SpongeData\":{}},\"Gender\":2.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":60.0,\"Name\":\"Kartana\",\"isInRanch\":0.0,\"Friendship\":70.0,\"StatsDefence\":180.0,\"IVDefence\":31.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":82.0,\"IVSpDef\":31.0,\"CaughtBall\":2.0,\"IVHP\":31.0,\"AbilitySlot\":0.0,\"EVHP\":0.0,\"ndex\":798.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-6.4926552359910943E18,\"Nature\":15.0,\"StatsHP\":159.0,\"UUIDLeast\":-9.0178200064355082E18,\"Health\":159.0,\"originalTrainer\":\"Desmond_Hume20\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":-1.0,\"StatsSpeed\":163.0,\"EVSpecialAttack\":0.0,\"IsShiny\":0.0,\"StatsAttack\":230.0,\"UUIDMost\":5.4777934214891117E17,\"IVSpeed\":23.0,\"Level\":60.0,\"IVSpAtt\":28.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}"
+        ]
+        timestamp="17/06/2021 16:39"
+        uniqueID="40cff304-5a14-4ff4-beea-7da77c271681"
+    }
+]

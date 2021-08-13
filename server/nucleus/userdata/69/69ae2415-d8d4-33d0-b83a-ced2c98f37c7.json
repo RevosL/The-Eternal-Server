@@ -1,0 +1,47 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623884319344,
+  "lastIP": "/177.75.23.118",
+  "usedKits": {
+    "inicial": 1623004430896,
+    "ajuda": 1623004501468,
+    "diario": 1623276099226,
+    "start": 1623004842631,
+    "farm": 1623184273685,
+    "casa": 1623168292853,
+    "sstart": 1623005103575,
+    "mstart": 1623005105129,
+    "pascoa": 1623005131756,
+    "comida": 1623276256630,
+    "dstart": 1623199252487,
+    "livros": 1623255468237,
+    "menu": 1623005150074
+  },
+  "firstJoin": 1623004430891,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "goku6990",
+  "fly": false,
+  "homes": {
+    "minerar": {
+      "x": 868.5,
+      "y": 70,
+      "z": -4042.5,
+      "rotx": 5.697000980377197,
+      "roty": -351.11358642578125,
+      "rotz": 0,
+      "world": "91562b72-1b18-4910-8987-42f4c73c7d28"
+    },
+    "casa": {
+      "x": -3346.574796897982,
+      "y": 71,
+      "z": 9953.267748871347,
+      "rotx": 2.05348801612854,
+      "roty": -0.3641844689846039,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  },
+  "powertools": {}
+}

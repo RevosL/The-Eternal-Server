@@ -1,0 +1,33 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623959897347,
+  "lastIP": "/200.171.80.194",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1623956005269,
+    "casa": 1623956278910,
+    "start": 1623956368762,
+    "mstart": 1623956379156,
+    "sstart": 1623956411262,
+    "dstart": 1623956413010,
+    "ajuda": 1623956936559,
+    "diario": 1623957059257,
+    "farm": 1623957982666
+  },
+  "firstJoin": 1623956005259,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Fe_De_Ferro",
+  "fly": false,
+  "homes": {
+    "casa": {
+      "x": 1748.3473845542358,
+      "y": 69,
+      "z": -6784.2323197091255,
+      "rotx": 11.620901107788086,
+      "roty": -128.4046630859375,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622556254734,
+  "lastIP": "/167.250.189.109",
+  "usedKits": {
+    "inicial": 1622552570899,
+    "start": 1622552705375,
+    "dstart": 1622552736001,
+    "sstart": 1622552751070,
+    "mstart": 1622554311510,
+    "ajuda": 1622556427452,
+    "diario": 1622556750749
+  },
+  "firstJoin": 1622552570888,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "felg82",
+  "fly": false,
+  "powertools": {}
+}

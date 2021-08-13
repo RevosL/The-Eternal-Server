@@ -1,0 +1,30 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622697907195,
+  "lastIP": "/189.91.97.60",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622697420561,
+    "start": 1622697516581,
+    "dstart": 1622697523517,
+    "sstart": 1622697655825,
+    "mstart": 1622697668732
+  },
+  "firstJoin": 1622697420556,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "FinguerDash",
+  "homes": {
+    "base": {
+      "x": -5181.012838834397,
+      "y": 69.0,
+      "z": -3569.7166867100414,
+      "rotx": 69.60018920898438,
+      "roty": 94.63662719726562,
+      "rotz": 0.0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  },
+  "fly": false,
+  "powertools": {}
+}

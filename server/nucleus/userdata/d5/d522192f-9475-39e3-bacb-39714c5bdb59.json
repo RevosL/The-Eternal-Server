@@ -1,0 +1,19 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622837844734,
+  "lastIP": "/45.4.48.65",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622837844742,
+    "start": 1622837885818,
+    "mstart": 1622837916110,
+    "sstart": 1622837942673,
+    "dstart": 1622837946072
+  },
+  "firstJoin": 1622837844734,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "KauanTretudo",
+  "powertools": {},
+  "fly": false
+}

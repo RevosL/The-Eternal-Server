@@ -1,0 +1,16 @@
+{
+  "data_version": 2,
+  "lastLogin": 1621772895213,
+  "lastIP": "/179.158.73.179",
+  "usedKits": {
+    "inicial": 1621772895221,
+    "diario": 1621773290023
+  },
+  "firstJoin": 1621772895213,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "kakashi777",
+  "powertools": {},
+  "fly": false
+}

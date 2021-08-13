@@ -1,0 +1,19 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622220800202,
+  "lastIP": "/177.131.19.134",
+  "usedKits": {
+    "inicial": 1622220800213,
+    "start": 1622220920058,
+    "sstart": 1622220940807,
+    "dstart": 1622220963712,
+    "mstart": 1622220978397
+  },
+  "firstJoin": 1622220800202,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "luxidu",
+  "powertools": {},
+  "fly": false
+}

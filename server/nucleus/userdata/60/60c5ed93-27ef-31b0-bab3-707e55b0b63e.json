@@ -1,0 +1,19 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622763933818,
+  "lastIP": "/38.146.57.243",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622763933825,
+    "start": 1622764069577,
+    "mstart": 1622764146891,
+    "sstart": 1622764197408,
+    "dstart": 1622764208047
+  },
+  "firstJoin": 1622763933818,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Yasuo",
+  "fly": true,
+  "powertools": {}
+}

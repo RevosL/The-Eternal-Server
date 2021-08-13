@@ -1,0 +1,36 @@
+{
+  "data_version": 2,
+  "lastLogin": 1621966075130,
+  "lastIP": "/179.225.133.47",
+  "usedKits": {
+    "inicial": 1621965684772,
+    "casa": 1621965746236,
+    "pascoa": 1621965754738,
+    "comida": 1621965754774,
+    "livros": 1621965754792,
+    "start": 1621965754808,
+    "menu": 1621965754860,
+    "sstart": 1621965770911,
+    "ajuda": 1621968521211,
+    "farm": 1621968569558,
+    "dstart": 1621968604902
+  },
+  "firstJoin": 1621965684765,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "zerba",
+  "fly": true,
+  "powertools": {},
+  "homes": {
+    "zerba": {
+      "x": -6686.7063385334895,
+      "y": 78.0,
+      "z": 5713.4191601867215,
+      "rotx": 64.35009002685547,
+      "roty": -62.093017578125,
+      "rotz": 0.0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  }
+}

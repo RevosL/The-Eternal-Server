@@ -1,0 +1,31 @@
+logs=[
+    {
+        otherParticipant=f0afa44f-3c7d-334c-b451-e074a085c21a
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[]
+        participant=fc41419f-c488-37fc-8a2a-ffebfd0fb0c7
+        sideItemStrings=[]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[]
+        timestamp="07/06/2021 07:26"
+        uniqueID="3f3a73e2-1ab3-4e06-ae82-368935d48abe"
+    },
+    {
+        otherParticipant=f0afa44f-3c7d-334c-b451-e074a085c21a
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[
+            "{\"EVSpeed\":0.0,\"IVAttack\":14.0,\"Growth\":2.0,\"originalTrainerUUIDMost\":-1.10348272345827238E18,\"PersistentData\":{},\"Gender\":1.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":43.0,\"Name\":\"Tynamo\",\"isInRanch\":0.0,\"Friendship\":70.0,\"StatsDefence\":35.0,\"IVDefence\":6.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":41.0,\"IVSpDef\":26.0,\"CaughtBall\":0.0,\"IVHP\":5.0,\"AbilitySlot\":0.0,\"EVHP\":0.0,\"ndex\":602.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-5.4533308822550108E18,\"Nature\":19.0,\"StatsHP\":73.0,\"UUIDLeast\":-8.8962798249326377E18,\"Health\":73.0,\"originalTrainer\":\"Hachiko\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":-1.0,\"StatsSpeed\":47.0,\"EVSpecialAttack\":0.0,\"IsShiny\":0.0,\"StatsAttack\":49.0,\"UUIDMost\":-8.2267888184999752E18,\"IVSpeed\":16.0,\"Level\":36.0,\"IVSpAtt\":4.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}"
+        ]
+        participant=fc41419f-c488-37fc-8a2a-ffebfd0fb0c7
+        sideItemStrings=[]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[
+            "{\"EVSpeed\":0.0,\"IVAttack\":3.0,\"Growth\":2.0,\"originalTrainerUUIDMost\":-2.69862348212652032E17,\"PersistentData\":{},\"Gender\":1.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":23.0,\"Name\":\"Chikorita\",\"isInRanch\":0.0,\"Friendship\":70.0,\"StatsDefence\":22.0,\"IVDefence\":5.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":16.0,\"IVSpDef\":13.0,\"CaughtBall\":0.0,\"IVHP\":10.0,\"AbilitySlot\":0.0,\"EVHP\":0.0,\"ndex\":152.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-8.4906927584255877E18,\"Nature\":15.0,\"StatsHP\":36.0,\"UUIDLeast\":-9.1858536855559014E18,\"Health\":36.0,\"originalTrainer\":\"Raykow\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":-1.0,\"StatsSpeed\":22.0,\"EVSpecialAttack\":0.0,\"IsShiny\":1.0,\"StatsAttack\":18.0,\"UUIDMost\":4.9839511581373409E18,\"IVSpeed\":29.0,\"Level\":13.0,\"IVSpAtt\":3.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}",
+            "{\"EVSpeed\":0.0,\"IVAttack\":20.0,\"Growth\":4.0,\"originalTrainerUUIDMost\":-2.69862348212652032E17,\"PersistentData\":{},\"Gender\":0.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":68.0,\"Name\":\"Masquerain\",\"isInRanch\":0.0,\"Friendship\":70.0,\"StatsDefence\":60.0,\"IVDefence\":25.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":74.0,\"IVSpDef\":23.0,\"CaughtBall\":0.0,\"IVHP\":14.0,\"AbilitySlot\":0.0,\"EVHP\":0.0,\"ndex\":284.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-8.4906927584255877E18,\"Nature\":11.0,\"StatsHP\":96.0,\"UUIDLeast\":-6.9746174192854886E18,\"Health\":96.0,\"originalTrainer\":\"Raykow\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":-1.0,\"StatsSpeed\":64.0,\"EVSpecialAttack\":0.0,\"IsShiny\":1.0,\"StatsAttack\":52.0,\"UUIDMost\":-7.3378100799431455E18,\"IVSpeed\":15.0,\"Level\":34.0,\"IVSpAtt\":31.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}"
+        ]
+        timestamp="07/06/2021 07:29"
+        uniqueID="4db028d8-c7bb-407b-bead-b9b2af80ae7b"
+    }
+]

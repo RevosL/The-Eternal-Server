@@ -1,0 +1,51 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622754627055,
+  "lastIP": "/179.250.40.31",
+  "usedKits": {
+    "inicial": 1621792795057,
+    "start": 1621793170474,
+    "diario": 1622754844165,
+    "dstart": 1622211797168,
+    "sstart": 1621793503610,
+    "mstart": 1621793509751,
+    "farm": 1622059696377,
+    "casa": 1622211826805,
+    "ajuda": 1621978102899
+  },
+  "firstJoin": 1621792795048,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Neves_gam",
+  "fly": false,
+  "homes": {
+    "casa": {
+      "x": -1502.2875548042734,
+      "y": 70.0,
+      "z": 8189.381707513475,
+      "rotx": 6.749930381774902,
+      "roty": 115.4963607788086,
+      "rotz": 0.0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    },
+    "lago": {
+      "x": -1529.8061093539213,
+      "y": 65.15814676123665,
+      "z": 7882.399965691918,
+      "rotx": 39.600074768066406,
+      "roty": 15.049835205078125,
+      "rotz": 0.0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    },
+    "fly": {
+      "x": -1502.2875548042734,
+      "y": 70.0,
+      "z": 8189.381707513475,
+      "rotx": 6.749930381774902,
+      "roty": 115.4963607788086,
+      "rotz": 0.0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  }
+}

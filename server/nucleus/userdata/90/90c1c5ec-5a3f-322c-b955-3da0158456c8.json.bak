@@ -1,0 +1,16 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623262333468,
+  "lastIP": "/138.118.171.251",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1623262116599,
+    "start": 1623262139402
+  },
+  "firstJoin": 1623262116592,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "banff02",
+  "fly": false,
+  "powertools": {}
+}

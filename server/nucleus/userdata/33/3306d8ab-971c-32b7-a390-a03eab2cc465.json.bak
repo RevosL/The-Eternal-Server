@@ -1,0 +1,21 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622757246730,
+  "lastIP": "/177.86.188.8",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622757246739,
+    "start": 1622757343313,
+    "diario": 1622757348370,
+    "ajuda": 1622757372431,
+    "casa": 1622757743049,
+    "farm": 1622757867897,
+    "dstart": 1622757899599,
+    "sstart": 1622757910838,
+    "mstart": 1622757928690
+  },
+  "firstJoin": 1622757246730,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "CBK_Fox"
+}

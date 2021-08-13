@@ -1,0 +1,17 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622660518241,
+  "lastIP": "/5.62.20.18",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622660518247,
+    "start": 1622660548832,
+    "pascoa": 1622660575884,
+    "sstart": 1622660611319
+  },
+  "firstJoin": 1622660518241,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "S1fys",
+  "fly": true
+}

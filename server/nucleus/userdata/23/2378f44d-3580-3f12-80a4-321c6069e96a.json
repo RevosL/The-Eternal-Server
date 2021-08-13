@@ -1,0 +1,31 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622198776616,
+  "lastIP": "/138.94.77.20",
+  "usedKits": {
+    "inicial": 1622138903634,
+    "start": 1622139444962,
+    "diario": 1622140385370,
+    "ajuda": 1622140887199,
+    "farm": 1622140939148,
+    "casa": 1622198845747
+  },
+  "firstJoin": 1622138903622,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "vaicaga",
+  "fly": true,
+  "homes": {
+    "casa": {
+      "x": -3484.0770756050665,
+      "y": 68,
+      "z": -6073.543007518289,
+      "rotx": 26.849857330322266,
+      "roty": 242.94757080078125,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  },
+  "powertools": {}
+}

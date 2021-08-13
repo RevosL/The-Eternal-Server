@@ -1,0 +1,31 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622985876534,
+  "lastIP": "/131.161.18.181",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622848713080,
+    "start": 1622848798133,
+    "farm": 1622848808066,
+    "diario": 1622848834621,
+    "ajuda": 1622849315921,
+    "casa": 1622849370384
+  },
+  "firstJoin": 1622848713073,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Nolovaiko",
+  "homes": {
+    "home": {
+      "x": 2221.699999988079,
+      "y": 68,
+      "z": -5298.4932733945925,
+      "rotx": -11.400009155273438,
+      "roty": 98.83879852294922,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  },
+  "fly": true,
+  "powertools": {}
+}

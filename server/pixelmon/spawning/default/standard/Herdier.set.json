@@ -1,0 +1,36 @@
+{
+  "id": "Herdier",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Herdier"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 17,
+      "maxLevel": 31,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "stringBiomes": [
+          "plains"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 1.5,
+          "condition": {
+            "structures": [
+              "Village"
+            ]
+          }
+        }
+      ],
+      "rarity": 90.0
+    }
+  ]
+}

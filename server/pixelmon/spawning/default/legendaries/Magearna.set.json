@@ -1,0 +1,29 @@
+{
+  "id": "Magearna",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Magearna",
+        "level": 50
+      },
+      "stringLocationTypes": [
+        "Indoors"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "structures": [
+          "Mansion"
+        ]
+      },
+      "rarity": 0.3
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622304315269,
+  "lastIP": "/138.204.78.75",
+  "usedKits": {
+    "inicial": 1622158194819,
+    "start": 1622158282748
+  },
+  "firstJoin": 1622158194812,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "abaxaquii",
+  "fly": true
+}

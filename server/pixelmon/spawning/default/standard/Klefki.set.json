@@ -1,0 +1,43 @@
+{
+  "id": "Klefki",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Klefki"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 54,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "taigas",
+          "magical"
+        ]
+      },
+      "rarity": 40.0
+    },
+    {
+      "spec": {
+        "name": "Klefki"
+      },
+      "stringLocationTypes": [
+        "Indoors"
+      ],
+      "minLevel": 42,
+      "maxLevel": 54,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "Mansion"
+        ]
+      },
+      "rarity": 40.0
+    }
+  ]
+}

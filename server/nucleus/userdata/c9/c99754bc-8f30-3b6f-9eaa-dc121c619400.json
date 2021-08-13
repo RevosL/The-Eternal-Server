@@ -1,0 +1,18 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622501323236,
+  "lastIP": "/179.108.7.4",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622501323248,
+    "start": 1622501377504,
+    "diario": 1622502125785,
+    "dstart": 1622502182699
+  },
+  "firstJoin": 1622501323236,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "lxtkm667",
+  "fly": false,
+  "powertools": {}
+}

@@ -1,0 +1,37 @@
+logs=[
+    {
+        otherParticipant="4f715d28-016b-3f71-899b-94c9f9cac520"
+        otherSideItemStrings=[
+            "{\"ContentVersion\":2,\"ItemType\":\"minecraft:iron_ore\",\"Count\":25,\"UnsafeDamage\":0}",
+            "{\"ContentVersion\":2,\"ItemType\":\"minecraft:iron_ingot\",\"Count\":64,\"UnsafeDamage\":0}",
+            "{\"ContentVersion\":2,\"ItemType\":\"pixelmon:xl_exp_candy\",\"Count\":8,\"UnsafeDamage\":0}"
+        ]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[]
+        participant=fd1fdf9e-6ef9-31b1-91eb-134b6d0a04a8
+        sideItemStrings=[]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[
+            "{\"EVSpeed\":0.0,\"IVAttack\":26.0,\"Growth\":5.0,\"originalTrainerUUIDMost\":-2.07201186276101696E17,\"PersistentData\":{\"SpongeData\":{}},\"Gender\":1.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":12.0,\"Name\":\"Riolu\",\"isInRanch\":0.0,\"Friendship\":70.0,\"StatsDefence\":13.0,\"IVDefence\":21.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":11.0,\"IVSpDef\":14.0,\"CaughtBall\":2.0,\"IVHP\":20.0,\"AbilitySlot\":0.0,\"EVHP\":0.0,\"ndex\":447.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-7.9322251040101489E18,\"Nature\":13.0,\"StatsHP\":26.0,\"UUIDLeast\":-5.7069827547388549E18,\"Health\":26.0,\"originalTrainer\":\"LaioPlays_751923\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":-1.0,\"StatsSpeed\":15.0,\"EVSpecialAttack\":0.0,\"IsShiny\":0.0,\"StatsAttack\":16.0,\"UUIDMost\":-7.8590915184958331E18,\"IVSpeed\":1.0,\"Level\":8.0,\"IVSpAtt\":15.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}",
+            "{\"EVSpeed\":0.0,\"IVAttack\":31.0,\"Growth\":1.0,\"originalTrainerUUIDMost\":-2.07201186276101696E17,\"PersistentData\":{\"SpongeData\":{}},\"Gender\":0.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":12.0,\"Name\":\"Riolu\",\"isInRanch\":0.0,\"Friendship\":70.0,\"StatsDefence\":9.0,\"IVDefence\":9.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":12.0,\"IVSpDef\":25.0,\"CaughtBall\":2.0,\"IVHP\":31.0,\"AbilitySlot\":1.0,\"EVHP\":0.0,\"ndex\":447.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-7.9322251040101489E18,\"Nature\":18.0,\"StatsHP\":24.0,\"UUIDLeast\":-6.5863358097548861E18,\"Health\":24.0,\"originalTrainer\":\"LaioPlays_751923\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":-1.0,\"StatsSpeed\":13.0,\"EVSpecialAttack\":0.0,\"IsShiny\":0.0,\"StatsAttack\":16.0,\"UUIDMost\":3.6037253821079414E18,\"IVSpeed\":2.0,\"Level\":7.0,\"IVSpAtt\":16.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}",
+            "{\"EVSpeed\":0.0,\"IVAttack\":19.0,\"Growth\":3.0,\"originalTrainerUUIDMost\":-2.07201186276101696E17,\"PersistentData\":{\"SpongeData\":{}},\"Gender\":1.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":58.0,\"Name\":\"Spinda\",\"isInRanch\":0.0,\"Friendship\":70.0,\"StatsDefence\":45.0,\"IVDefence\":6.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":53.0,\"IVSpDef\":29.0,\"CaughtBall\":2.0,\"IVHP\":23.0,\"AbilitySlot\":0.0,\"EVHP\":0.0,\"ndex\":327.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-7.9322251040101489E18,\"Nature\":5.0,\"StatsHP\":97.0,\"UUIDLeast\":-4.9823284892553789E18,\"Health\":97.0,\"originalTrainer\":\"LaioPlays_751923\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":-1.0,\"StatsSpeed\":51.0,\"EVSpecialAttack\":0.0,\"IsShiny\":0.0,\"StatsAttack\":60.0,\"UUIDMost\":-7.0680575061237258E18,\"IVSpeed\":9.0,\"Level\":36.0,\"IVSpAtt\":16.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}",
+            "{\"EVSpeed\":0.0,\"IVAttack\":16.0,\"Growth\":2.0,\"originalTrainerUUIDMost\":-2.07201186276101696E17,\"PersistentData\":{\"SpongeData\":{}},\"Gender\":0.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":26.0,\"Name\":\"Spinda\",\"isInRanch\":0.0,\"Friendship\":69.0,\"StatsDefence\":30.0,\"IVDefence\":21.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":26.0,\"IVSpDef\":4.0,\"CaughtBall\":2.0,\"IVHP\":12.0,\"AbilitySlot\":0.0,\"EVHP\":0.0,\"ndex\":327.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-7.9322251040101489E18,\"Nature\":10.0,\"StatsHP\":49.0,\"UUIDLeast\":-8.043927382485675E18,\"Health\":49.0,\"originalTrainer\":\"LaioPlays_751923\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":-1.0,\"StatsSpeed\":24.0,\"EVSpecialAttack\":0.0,\"IsShiny\":0.0,\"StatsAttack\":28.0,\"UUIDMost\":2.9082081521330627E18,\"IVSpeed\":14.0,\"Level\":17.0,\"IVSpAtt\":8.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}"
+        ]
+        timestamp="26/05/2021 12:56"
+        uniqueID=e8125c8a-fa1d-46bc-952f-ac60cc65b468
+    },
+    {
+        otherParticipant=fd1fdf9e-6ef9-31b1-91eb-134b6d0a04a8
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[]
+        participant=e234a26f-58f2-3297-b7c1-bb72bb436c1c
+        sideItemStrings=[]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[
+            "{\"EVSpeed\":0.0,\"IVAttack\":31.0,\"Growth\":3.0,\"originalTrainerUUIDMost\":-2.14691252323154662E18,\"PersistentData\":{\"SpongeData\":{\"CanGrief\":1.0}},\"Gender\":2.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":198.0,\"Name\":\"Nihilego\",\"isInRanch\":0.0,\"Friendship\":70.0,\"StatsDefence\":64.0,\"IVDefence\":5.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":176.0,\"IVSpDef\":31.0,\"CaughtBall\":2.0,\"IVHP\":9.0,\"AbilitySlot\":0.0,\"EVHP\":0.0,\"ndex\":793.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-5.2056735928211589E18,\"Nature\":21.0,\"StatsHP\":206.0,\"UUIDLeast\":-5.2778047918832261E18,\"Health\":206.0,\"originalTrainer\":\"zpotato_zap\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":-1.0,\"StatsSpeed\":147.0,\"EVSpecialAttack\":0.0,\"IsShiny\":0.0,\"StatsAttack\":78.0,\"UUIDMost\":6.4184866084967258E17,\"IVSpeed\":31.0,\"Level\":60.0,\"IVSpAtt\":31.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}"
+        ]
+        timestamp="29/05/2021 16:31"
+        uniqueID="42545e52-96d8-4def-9077-29461482e5c1"
+    }
+]

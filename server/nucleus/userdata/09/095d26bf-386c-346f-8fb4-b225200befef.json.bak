@@ -1,0 +1,16 @@
+{
+  "data_version": 2,
+  "lastLogin": 1621828440766,
+  "lastIP": "/191.253.63.86",
+  "usedKits": {
+    "inicial": 1621828440781,
+    "ajuda": 1621828501344,
+    "diario": 1621828561296,
+    "farm": 1621828634349
+  },
+  "firstJoin": 1621828440766,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Klebersinho1227"
+}

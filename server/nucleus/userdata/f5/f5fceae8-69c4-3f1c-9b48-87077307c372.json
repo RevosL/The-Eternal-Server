@@ -1,0 +1,20 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623006806478,
+  "lastIP": "/45.6.131.147",
+  "usedKits": {
+    "inicial": 1623006806483,
+    "pascoa": 1623006878597,
+    "start": 1623006903654,
+    "sstart": 1623006911148,
+    "mstart": 1623006912050,
+    "dstart": 1623006929000
+  },
+  "firstJoin": 1623006806478,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Premium",
+  "fly": false,
+  "powertools": {}
+}

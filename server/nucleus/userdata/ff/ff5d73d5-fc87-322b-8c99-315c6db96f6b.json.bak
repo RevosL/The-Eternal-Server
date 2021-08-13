@@ -1,0 +1,78 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623283197014,
+  "lastIP": "/186.207.73.245",
+  "usedKits": {
+    "inicial": 1621754494601,
+    "comida": 1622949309970,
+    "m-shiny": 1621755315477,
+    "s-shiny": 1622419278984,
+    "d-shiny": 1622419266606,
+    "farm": 1623104395772,
+    "ajuda": 1621767020069,
+    "pascoa": 1621805892469,
+    "casa": 1623004484499,
+    "start": 1622651826004,
+    "mstart": 1622651835945,
+    "sstart": 1622652583653,
+    "dstart": 1623233413215
+  },
+  "firstJoin": 1621754494596,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "infinitybrabo",
+  "fly": false,
+  "homes": {
+    "home": {
+      "x": 9052.641661594862,
+      "y": 85,
+      "z": 6738.1404946325665,
+      "rotx": 14.445363998413086,
+      "roty": 58.79144287109375,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    },
+    "vibesz": {
+      "x": -6294.782310636991,
+      "y": 102.24302399256699,
+      "z": 4494.66325175304,
+      "rotx": 10.81448745727539,
+      "roty": 311.60113525390625,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    },
+    "esnak": {
+      "x": 8754.596947668737,
+      "y": 105,
+      "z": 6739.885479498696,
+      "rotx": 31.180057525634766,
+      "roty": -80.26678466796875,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    },
+    "fgn": {
+      "x": 7602.894683041126,
+      "y": 203,
+      "z": -4052.074999988079,
+      "rotx": 3.5311877727508545,
+      "roty": 0.93603515625,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    },
+    "home2": {
+      "x": 7902.95603401865,
+      "y": 215,
+      "z": -2928.968171834449,
+      "rotx": 22.83835792541504,
+      "roty": -5.468539714813232,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  },
+  "nickname-text": "{\"extra\":[{\"color\":\"light_purple\",\"text\":\"salamandra\"},{\"color\":\"dark_purple\",\"text\":\"mexicana\"}],\"text\":\"\"}",
+  "ignoreList": [
+    "e571758a-f750-3478-8efb-c863d42eed7e"
+  ],
+  "powertools": {}
+}

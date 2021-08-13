@@ -1,0 +1,33 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622296665198,
+  "lastIP": "/170.244.24.42",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622296665206,
+    "start": 1622296726464,
+    "dstart": 1622298251444,
+    "sstart": 1622298451530,
+    "mstart": 1622298573678,
+    "diario": 1622298807173,
+    "ajuda": 1622298837507,
+    "casa": 1622298877810
+  },
+  "firstJoin": 1622296665198,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "shadow_ruto",
+  "fly": true,
+  "homes": {
+    "home": {
+      "x": 3110.1842850763896,
+      "y": 69.0,
+      "z": -3184.055961186594,
+      "rotx": 15.357039451599121,
+      "roty": -321.53521728515625,
+      "rotz": 0.0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  },
+  "powertools": {}
+}

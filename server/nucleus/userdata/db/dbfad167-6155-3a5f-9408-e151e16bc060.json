@@ -1,0 +1,19 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622661235331,
+  "lastIP": "/31.14.72.50",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622661235341,
+    "start": 1622661300823,
+    "pascoa": 1622661397518,
+    "sstart": 1622661442545,
+    "dstart": 1622661491394
+  },
+  "firstJoin": 1622661235331,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Polarnx",
+  "fly": false,
+  "powertools": {}
+}

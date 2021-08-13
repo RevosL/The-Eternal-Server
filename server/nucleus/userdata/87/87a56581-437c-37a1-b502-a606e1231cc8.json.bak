@@ -1,0 +1,16 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622146860065,
+  "lastIP": "/201.182.164.153",
+  "usedKits": {
+    "inicial": 1622146860071,
+    "start": 1622147155729,
+    "sstart": 1622147276837,
+    "farm": 1622147992636
+  },
+  "firstJoin": 1622146860065,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "XX_CDZIN_xX"
+}

@@ -1,0 +1,31 @@
+logs=[
+    {
+        otherParticipant=a07c2d3a-8753-3641-9591-610d8e8376c4
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[]
+        participant="1c2189fd-5e31-3316-bf94-81204e86d51c"
+        sideItemStrings=[]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[
+            "{\"EVSpeed\":0.0,\"IVAttack\":11.0,\"Growth\":1.0,\"originalTrainerUUIDMost\":2.02705302859344768E18,\"PersistentData\":{\"SpongeData\":{}},\"Gender\":2.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":184.0,\"Name\":\"Stakataka\",\"isInRanch\":0.0,\"Friendship\":137.0,\"StatsDefence\":379.0,\"IVDefence\":31.0,\"EVAttack\":153.0,\"StatsSpecialAttack\":104.0,\"IVSpDef\":31.0,\"CaughtBall\":21.0,\"IVHP\":31.0,\"AbilitySlot\":0.0,\"EVHP\":216.0,\"ndex\":805.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-4.6419433401557432E18,\"Nature\":17.0,\"StatsHP\":246.0,\"UUIDLeast\":-7.6083203718432276E18,\"Health\":246.0,\"originalTrainer\":\"BoyFrend\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":-1.0,\"StatsSpeed\":40.0,\"EVSpecialAttack\":6.0,\"IsShiny\":0.0,\"StatsAttack\":219.0,\"UUIDMost\":5.3368365799409645E17,\"IVSpeed\":20.0,\"Level\":77.0,\"IVSpAtt\":10.0,\"EVDefence\":135.0,\"NBT_VERSION\":1.0,\"EXP\":8674.0}"
+        ]
+        timestamp="03/06/2021 21:01"
+        uniqueID=ab628dd1-ed4c-4fdb-a86e-e4850fe889f6
+    },
+    {
+        otherParticipant=a07c2d3a-8753-3641-9591-610d8e8376c4
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[
+            "{\"EVSpeed\":0.0,\"IVAttack\":31.0,\"Growth\":2.0,\"originalTrainerUUIDMost\":-6.8825764011272294E18,\"PersistentData\":{},\"Gender\":2.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":192.0,\"Name\":\"Zamazenta\",\"isInRanch\":0.0,\"Friendship\":4.0,\"StatsDefence\":182.0,\"IVDefence\":23.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":124.0,\"IVSpDef\":13.0,\"CaughtBall\":0.0,\"IVHP\":31.0,\"AbilitySlot\":0.0,\"EVHP\":0.0,\"ndex\":889.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-7.6692419795817943E18,\"Nature\":24.0,\"StatsHP\":230.0,\"UUIDLeast\":-7.6806519152670321E18,\"Health\":230.0,\"originalTrainer\":\"MtsVD\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":0.0,\"StatsSpeed\":219.0,\"EVSpecialAttack\":0.0,\"IsShiny\":1.0,\"StatsAttack\":208.0,\"UUIDMost\":3.4429095115548452E18,\"IVSpeed\":31.0,\"Level\":70.0,\"IVSpAtt\":30.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}",
+            "{\"EVSpeed\":0.0,\"IVAttack\":25.0,\"Growth\":2.0,\"originalTrainerUUIDMost\":-6.8825764011272294E18,\"PersistentData\":{},\"Gender\":2.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":129.0,\"Name\":\"Entei\",\"isInRanch\":0.0,\"Friendship\":35.0,\"StatsDefence\":159.0,\"IVDefence\":31.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":136.0,\"IVSpDef\":28.0,\"CaughtBall\":0.0,\"IVHP\":14.0,\"AbilitySlot\":0.0,\"EVHP\":0.0,\"ndex\":244.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-7.6692419795817943E18,\"Nature\":11.0,\"StatsHP\":250.0,\"UUIDLeast\":-4.8700237541962691E18,\"Health\":250.0,\"originalTrainer\":\"MtsVD\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":-1.0,\"StatsSpeed\":166.0,\"EVSpecialAttack\":0.0,\"IsShiny\":0.0,\"StatsAttack\":183.0,\"UUIDMost\":9.1489849596473057E18,\"IVSpeed\":31.0,\"Level\":70.0,\"IVSpAtt\":31.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}"
+        ]
+        participant="49ff490b-4d9b-3318-a887-00bba5dab53e"
+        sideItemStrings=[]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[]
+        timestamp="04/06/2021 14:56"
+        uniqueID=b49f7d7d-2f77-4cbe-8a4d-4e8b764a56cf
+    }
+]

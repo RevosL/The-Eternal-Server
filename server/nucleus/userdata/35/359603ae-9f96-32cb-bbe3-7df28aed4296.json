@@ -1,0 +1,18 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623980398089,
+  "lastIP": "/190.115.65.64",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1623952005460,
+    "start": 1623952349218,
+    "sstart": 1623966309909,
+    "mstart": 1623966913614
+  },
+  "firstJoin": 1623952005450,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "UMKN0W",
+  "fly": false,
+  "powertools": {}
+}

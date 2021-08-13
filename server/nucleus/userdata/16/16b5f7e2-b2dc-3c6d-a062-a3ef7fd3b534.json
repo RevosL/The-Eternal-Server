@@ -1,0 +1,22 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622795940038,
+  "lastIP": "/209.58.142.234",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622795940044,
+    "start": 1622796036534,
+    "mstart": 1622796064518,
+    "sstart": 1622796105470,
+    "dstart": 1622796116620,
+    "pascoa": 1622796188267,
+    "casa": 1622796195518,
+    "ajuda": 1622796368017
+  },
+  "firstJoin": 1622795940038,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Hatsu17",
+  "fly": true,
+  "powertools": {}
+}

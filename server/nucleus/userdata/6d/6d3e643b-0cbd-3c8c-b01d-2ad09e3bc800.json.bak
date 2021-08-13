@@ -1,0 +1,27 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623292896035,
+  "lastIP": "/192.141.73.85",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1623177287576,
+    "comida": 1623182831756,
+    "start": 1623181004294,
+    "sstart": 1623181208411,
+    "pascoa": 1623181565441,
+    "farm": 1623181631527,
+    "casa": 1623181694179,
+    "diario": 1623181747583,
+    "ajuda": 1623181968471,
+    "dstart": 1623182440463,
+    "mstart": 1623182532201,
+    "menu": 1623182824758,
+    "livros": 1623182828836
+  },
+  "firstJoin": 1623177287550,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "xx_Yuri_ice",
+  "fly": true,
+  "powertools": {}
+}

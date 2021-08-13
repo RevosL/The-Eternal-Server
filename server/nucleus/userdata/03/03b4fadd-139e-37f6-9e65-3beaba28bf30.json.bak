@@ -1,0 +1,50 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623954323318,
+  "lastIP": "/186.249.153.97",
+  "usedKits": {
+    "inicial": 1621789415886,
+    "start": 1621789891199,
+    "dstart": 1622141063046,
+    "sstart": 1621789902268,
+    "mstart": 1621789904750,
+    "diario": 1623954429061,
+    "farm": 1621790195326,
+    "ajuda": 1621790213194
+  },
+  "firstJoin": 1621789415877,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Bennet",
+  "fly": false,
+  "homes": {
+    "home": {
+      "x": -911.2302527013154,
+      "y": 75,
+      "z": -2197.0887503595022,
+      "rotx": 24.449871063232422,
+      "roty": -71.54666137695312,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    },
+    "newf": {
+      "x": 3276.141178305375,
+      "y": 74,
+      "z": 8145.538942136632,
+      "rotx": 32.2500114440918,
+      "roty": 299.4037780761719,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    },
+    "mtaiga": {
+      "x": 1388.5,
+      "y": 74,
+      "z": 2439.5,
+      "rotx": 7.649838924407959,
+      "roty": -178.96722412109375,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  }
+}

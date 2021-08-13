@@ -1,0 +1,34 @@
+{
+  "data_version": 2,
+  "lastLogin": 1621894784676,
+  "lastIP": "/187.38.60.154",
+  "usedKits": {
+    "inicial": 1621779733155,
+    "start": 1621779772537,
+    "comida": 1621780770648,
+    "diario": 1621894928922,
+    "ajuda": 1621781904110,
+    "dstart": 1621895189309,
+    "sstart": 1621781992410,
+    "mstart": 1621782004516,
+    "casa": 1621896083350,
+    "farm": 1621782076472
+  },
+  "firstJoin": 1621779733145,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "lucas13423543",
+  "homes": {
+    "lucas": {
+      "x": -4093.699999988079,
+      "y": 64,
+      "z": -4101.394537953127,
+      "rotx": 13.990610122680664,
+      "roty": 267.8865966796875,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  },
+  "fly": true
+}

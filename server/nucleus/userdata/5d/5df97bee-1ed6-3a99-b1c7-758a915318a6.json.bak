@@ -1,0 +1,23 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622376795773,
+  "lastIP": "/177.128.136.240",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622376795901,
+    "livros": 1622376850744,
+    "ajuda": 1622377049881,
+    "start": 1622377385918,
+    "diario": 1622378022622,
+    "farm": 1622378114327,
+    "casa": 1622378170213,
+    "dstart": 1622378201466,
+    "sstart": 1622378282463,
+    "mstart": 1622378283712
+  },
+  "firstJoin": 1622376795773,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "gleidsonnn",
+  "fly": false
+}

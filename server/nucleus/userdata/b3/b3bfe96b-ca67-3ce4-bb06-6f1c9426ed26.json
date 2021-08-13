@@ -1,0 +1,31 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622935018245,
+  "lastIP": "/170.254.37.173",
+  "usedKits": {
+    "inicial": 1622175035204,
+    "start": 1622175162063,
+    "dstart": 1622757789823,
+    "sstart": 1622175279839,
+    "comida": 1622175931384,
+    "mstart": 1622226077929
+  },
+  "firstJoin": 1622175035197,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "icarocarvalho",
+  "fly": false,
+  "homes": {
+    "casa": {
+      "x": -1715.3409473471597,
+      "y": 69,
+      "z": 7924.646204326913,
+      "rotx": 17.69794273376465,
+      "roty": -275.352294921875,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  },
+  "powertools": {}
+}

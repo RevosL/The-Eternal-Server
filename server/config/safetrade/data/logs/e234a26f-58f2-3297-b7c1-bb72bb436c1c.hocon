@@ -1,0 +1,32 @@
+logs=[
+    {
+        otherParticipant=e234a26f-58f2-3297-b7c1-bb72bb436c1c
+        otherSideItemStrings=[
+            "{\"ContentVersion\":2,\"ItemType\":\"pixelmon:ranch_upgrade\",\"Count\":3,\"UnsafeDamage\":0}"
+        ]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[]
+        participant="17627af0-198d-329e-a580-6b3fcd5a47b3"
+        sideItemStrings=[]
+        sideMoneyStrings=[
+            "{\"Currency\":\"economylite:coin\",\"Balance\":90000}"
+        ]
+        sidePokemonStrings=[]
+        timestamp="29/05/2021 15:57"
+        uniqueID=d91e871d-281a-487c-a8ae-8c146c51093c
+    },
+    {
+        otherParticipant=fd1fdf9e-6ef9-31b1-91eb-134b6d0a04a8
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[]
+        participant=e234a26f-58f2-3297-b7c1-bb72bb436c1c
+        sideItemStrings=[]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[
+            "{\"EVSpeed\":0.0,\"IVAttack\":31.0,\"Growth\":3.0,\"originalTrainerUUIDMost\":-2.14691252323154662E18,\"PersistentData\":{\"SpongeData\":{\"CanGrief\":1.0}},\"Gender\":2.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":198.0,\"Name\":\"Nihilego\",\"isInRanch\":0.0,\"Friendship\":70.0,\"StatsDefence\":64.0,\"IVDefence\":5.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":176.0,\"IVSpDef\":31.0,\"CaughtBall\":2.0,\"IVHP\":9.0,\"AbilitySlot\":0.0,\"EVHP\":0.0,\"ndex\":793.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-5.2056735928211589E18,\"Nature\":21.0,\"StatsHP\":206.0,\"UUIDLeast\":-5.2778047918832261E18,\"Health\":206.0,\"originalTrainer\":\"zpotato_zap\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":-1.0,\"StatsSpeed\":147.0,\"EVSpecialAttack\":0.0,\"IsShiny\":0.0,\"StatsAttack\":78.0,\"UUIDMost\":6.4184866084967258E17,\"IVSpeed\":31.0,\"Level\":60.0,\"IVSpAtt\":31.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}"
+        ]
+        timestamp="29/05/2021 16:31"
+        uniqueID="42545e52-96d8-4def-9077-29461482e5c1"
+    }
+]

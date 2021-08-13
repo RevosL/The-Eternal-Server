@@ -1,0 +1,21 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623004782875,
+  "lastIP": "/188.80.193.48",
+  "usedKits": {
+    "inicial": 1623004782879,
+    "start": 1623004866746,
+    "dstart": 1623004868488,
+    "sstart": 1623004879304,
+    "livros": 1623005051229,
+    "mstart": 1623005079635,
+    "comida": 1623006032496
+  },
+  "firstJoin": 1623004782875,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "_MastermineYT",
+  "fly": true,
+  "powertools": {}
+}

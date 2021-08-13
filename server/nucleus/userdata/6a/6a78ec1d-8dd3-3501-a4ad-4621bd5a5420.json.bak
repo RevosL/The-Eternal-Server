@@ -1,0 +1,44 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623982680350,
+  "lastIP": "/177.134.217.194",
+  "usedKits": {
+    "inicial": 1621904125106,
+    "start": 1621904415269,
+    "dstart": 1622506999891,
+    "sstart": 1621907798574,
+    "mstart": 1621908172453,
+    "d-shiny": 1623879462572,
+    "s-shiny": 1623894875031,
+    "m-shiny": 1621956292629,
+    "ajuda": 1621957301984,
+    "raro": 1622729944326,
+    "pascoa": 1622817536997
+  },
+  "firstJoin": 1621904125095,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Ray",
+  "fly": false,
+  "homes": {
+    "home": {
+      "x": 2268.455363352047,
+      "y": 67,
+      "z": -6450.119834929079,
+      "rotx": 10.050031661987305,
+      "roty": -308.0584716796875,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    },
+    "ocean": {
+      "x": 2758.38996234991,
+      "y": 78,
+      "z": -6378.178876842514,
+      "rotx": 75,
+      "roty": -313.71624755859375,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  }
+}

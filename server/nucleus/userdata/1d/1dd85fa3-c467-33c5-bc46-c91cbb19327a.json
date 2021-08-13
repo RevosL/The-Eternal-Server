@@ -1,0 +1,42 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623967300719,
+  "lastIP": "/177.130.233.197",
+  "usedKits": {
+    "inicial": 1622587144549,
+    "start": 1622587415552,
+    "dstart": 1623098857589,
+    "sstart": 1622587683536,
+    "mstart": 1622587740373,
+    "diario": 1623967404670,
+    "casa": 1622751132463,
+    "farm": 1623194473153
+  },
+  "firstJoin": 1622587144537,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "VINK3",
+  "fly": false,
+  "homes": {
+    "casa": {
+      "x": 1031.3224481769544,
+      "y": 72,
+      "z": 4106.1987024737755,
+      "rotx": 4.910407543182373,
+      "roty": 181.36265563964844,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    },
+    "mansao": {
+      "x": 1020.8441464550303,
+      "y": 76,
+      "z": 4054.2371774804833,
+      "rotx": 18.33477783203125,
+      "roty": 50.01042175292969,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  },
+  "powertools": {}
+}

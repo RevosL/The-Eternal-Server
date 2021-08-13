@@ -1,0 +1,23 @@
+{
+  "data_version": 2,
+  "lastLogin": 1621796783642,
+  "lastIP": "/45.178.160.199",
+  "usedKits": {
+    "inicial": 1621793113772,
+    "comida": 1621796686466,
+    "diario": 1621796729020,
+    "pascoa": 1621796839208,
+    "menu": 1621796900162,
+    "start": 1621796949115,
+    "sstart": 1621796963605,
+    "mstart": 1621796973561,
+    "dstart": 1621797008226
+  },
+  "firstJoin": 1621793113761,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Prado09",
+  "fly": false,
+  "powertools": {}
+}

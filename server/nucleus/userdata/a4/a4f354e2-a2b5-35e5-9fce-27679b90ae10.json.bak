@@ -1,0 +1,40 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623000620615,
+  "lastIP": "/201.33.249.95",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622739165296,
+    "comida": 1622740799177,
+    "diario": 1622740807866,
+    "start": 1622824468490,
+    "dstart": 1623001162447,
+    "sstart": 1622828569341,
+    "mstart": 1622828767492
+  },
+  "firstJoin": 1622739165286,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "yEnzuu",
+  "fly": true,
+  "homes": {
+    "oi": {
+      "x": -2483.3241618276597,
+      "y": 72,
+      "z": 1376.4879797941162,
+      "rotx": 18.899948120117188,
+      "roty": -141.7611846923828,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    },
+    "base": {
+      "x": 6372.248535118716,
+      "y": 81,
+      "z": 8523.395149626223,
+      "rotx": 25.199975967407227,
+      "roty": -287.1117858886719,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  }
+}

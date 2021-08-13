@@ -1,0 +1,18 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622139585470,
+  "lastIP": "/201.13.73.32",
+  "usedKits": {
+    "inicial": 1622138969604,
+    "comida": 1622139485077,
+    "pascoa": 1622139596579,
+    "start": 1622139662163
+  },
+  "firstJoin": 1622138969598,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "NightZ",
+  "fly": true,
+  "powertools": {}
+}

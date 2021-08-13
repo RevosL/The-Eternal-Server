@@ -1,0 +1,44 @@
+{
+  "data_version": 2,
+  "lastLogin": 1621982419083,
+  "lastIP": "/186.206.204.71",
+  "usedKits": {
+    "inicial": 1621797149379,
+    "start": 1621801638312,
+    "sstart": 1621801668005,
+    "dstart": 1621981642756,
+    "ajuda": 1621802303209,
+    "farm": 1621802319149,
+    "mstart": 1621802364903,
+    "diario": 1621803313702,
+    "casa": 1621896808615,
+    "caixas": 1621983826247
+  },
+  "firstJoin": 1621797149366,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Phac",
+  "fly": true,
+  "homes": {
+    "home": {
+      "x": -6698.4450940129755,
+      "y": 67,
+      "z": -4622.0371974113095,
+      "rotx": 11.849903106689453,
+      "roty": 68.53964233398438,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    },
+    "vila": {
+      "x": 5415.809780872159,
+      "y": 64,
+      "z": 1666.339641293737,
+      "rotx": 19.649789810180664,
+      "roty": -306.162109375,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  },
+  "powertools": {}
+}

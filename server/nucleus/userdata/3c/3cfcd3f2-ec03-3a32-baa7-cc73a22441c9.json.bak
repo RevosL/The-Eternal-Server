@@ -1,0 +1,22 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623104269997,
+  "lastIP": "/177.190.77.149",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1623104270006,
+    "start": 1623104402323,
+    "comida": 1623104428903,
+    "casa": 1623104734015,
+    "dstart": 1623104748521,
+    "sstart": 1623104756955,
+    "pascoa": 1623104769410,
+    "mstart": 1623104778762,
+    "diario": 1623104797372,
+    "farm": 1623104819555
+  },
+  "firstJoin": 1623104269997,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "ApolloBlack"
+}

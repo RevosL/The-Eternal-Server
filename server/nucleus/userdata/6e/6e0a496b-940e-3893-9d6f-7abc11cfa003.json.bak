@@ -1,0 +1,34 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623286443439,
+  "lastIP": "/45.227.210.117",
+  "usedKits": {
+    "inicial": 1621791512043,
+    "start": 1621800949023,
+    "dstart": 1622343442195,
+    "sstart": 1621801142964,
+    "mstart": 1621801241633,
+    "diario": 1622855102927,
+    "casa": 1622817363540,
+    "ajuda": 1622344620436,
+    "farm": 1622855154614,
+    "pascoa": 1622346570480
+  },
+  "firstJoin": 1621791512015,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "huntergames1234",
+  "fly": false,
+  "homes": {
+    "home": {
+      "x": -5577.62219541057,
+      "y": 68,
+      "z": 1920.8130837678534,
+      "rotx": 38.84812545776367,
+      "roty": -248.75901794433594,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  }
+}

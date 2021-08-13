@@ -1,0 +1,28 @@
+{
+  "data_version": 2,
+  "lastLogin": 1621902901062,
+  "lastIP": "/177.107.87.19",
+  "usedKits": {
+    "inicial": 1621902901074,
+    "ajuda": 1621903137122,
+    "start": 1621903185067,
+    "diario": 1621903304098,
+    "farm": 1621903324697
+  },
+  "firstJoin": 1621902901062,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "CactuzzBR",
+  "homes": {
+    "casa": {
+      "x": -9438.034361963792,
+      "y": 64.0,
+      "z": 5419.997426430136,
+      "rotx": 3.859893321990967,
+      "roty": -63.62797927856445,
+      "rotz": 0.0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  }
+}

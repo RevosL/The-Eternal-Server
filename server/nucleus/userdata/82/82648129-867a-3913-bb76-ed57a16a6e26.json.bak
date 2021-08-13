@@ -1,0 +1,22 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622303212237,
+  "lastIP": "/168.121.255.40",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622303212244,
+    "diario": 1622303562889,
+    "pascoa": 1622303580026,
+    "ajuda": 1622303587554,
+    "casa": 1622303616608,
+    "start": 1622303671729,
+    "mstart": 1622303685912,
+    "sstart": 1622303708363,
+    "dstart": 1622303709961
+  },
+  "firstJoin": 1622303212237,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Tchaka",
+  "fly": false
+}

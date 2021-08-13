@@ -1,0 +1,18 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622313141208,
+  "lastIP": "/179.154.0.144",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622312395223,
+    "start": 1622312455696,
+    "dstart": 1622312459371,
+    "sstart": 1622312726049,
+    "mstart": 1622312729166
+  },
+  "firstJoin": 1622312395216,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "juan2008",
+  "fly": true
+}

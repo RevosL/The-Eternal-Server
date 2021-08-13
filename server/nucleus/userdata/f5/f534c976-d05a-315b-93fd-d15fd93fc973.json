@@ -1,0 +1,66 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623967842364,
+  "lastIP": "/45.163.193.70",
+  "usedKits": {
+    "inicial": 1621801535099,
+    "start": 1621801631590,
+    "sstart": 1621801641090,
+    "dstart": 1622122116913,
+    "mstart": 1621802355508,
+    "d-lend": 1622859740288,
+    "d-mega": 1622122586865,
+    "m-mega": 1621802547883,
+    "menu": 1621802696477,
+    "s-mega": 1621802712085,
+    "s-lend": 1623967918902,
+    "m-megak": 1621802792210,
+    "m-lend": 1621803150541,
+    "m-lendk": 1621803231299,
+    "pascoa": 1621804385719,
+    "diario": 1621804398161,
+    "d-shiny": 1622859719706,
+    "s-shiny": 1623967882624,
+    "m-shiny": 1621808095797,
+    "casa": 1621909420686,
+    "farm": 1621905973093,
+    "ultra": 1621908432831
+  },
+  "firstJoin": 1621801534958,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Kaneki",
+  "fly": true,
+  "homes": {
+    "home": {
+      "x": -4387.567923337498,
+      "y": 65,
+      "z": -37.21206748690224,
+      "rotx": 28.200000762939453,
+      "roty": 83.98300170898438,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    },
+    "farm": {
+      "x": -4577.380130975102,
+      "y": 68,
+      "z": -120.57058537037047,
+      "rotx": 29.249757766723633,
+      "roty": -87.7718505859375,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    },
+    "luk": {
+      "x": 8325.10563391317,
+      "y": 69,
+      "z": -3185.9290517795366,
+      "rotx": 26.831344604492188,
+      "roty": 118.82878875732422,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  },
+  "nickname-text": "{\"extra\":[{\"color\":\"dark_red\",\"text\":\"En\"},{\"color\":\"aqua\",\"text\":\"caixo\"},{\"color\":\"gold\",\"text\":\"tador\"},{\"color\":\"dark_blue\",\"text\":\"De\"},{\"color\":\"dark_aqua\",\"text\":\"Kpoper\"}],\"text\":\"\"}",
+  "powertools": {}
+}

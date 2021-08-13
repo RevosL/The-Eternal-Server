@@ -1,0 +1,15 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622599071071,
+  "lastIP": "/177.11.92.102",
+  "usedKits": {
+    "inicial": 1622599071079,
+    "diario": 1622599233679,
+    "farm": 1622599283466
+  },
+  "firstJoin": 1622599071071,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Phzin"
+}

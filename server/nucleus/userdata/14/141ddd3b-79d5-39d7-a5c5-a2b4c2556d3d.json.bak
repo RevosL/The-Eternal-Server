@@ -1,0 +1,30 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622765332671,
+  "lastIP": "/89.38.226.243",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622765332677,
+    "start": 1622765413082,
+    "mstart": 1622765443062,
+    "pascoa": 1622765469332,
+    "sstart": 1622765477565,
+    "dstart": 1622765491596
+  },
+  "firstJoin": 1622765332671,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "NandoDestruidor",
+  "fly": false,
+  "homes": {
+    "casa": {
+      "x": 8984.393495826866,
+      "y": 63.0,
+      "z": 6498.079780129239,
+      "rotx": 15.149944305419922,
+      "roty": 161.78016662597656,
+      "rotz": 0.0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  }
+}

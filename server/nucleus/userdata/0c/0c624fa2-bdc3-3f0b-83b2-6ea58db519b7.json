@@ -1,0 +1,47 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622384131990,
+  "lastIP": "/187.19.228.237",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622334022325,
+    "ajuda": 1622334574607,
+    "diario": 1622334594187,
+    "farm": 1622337086030
+  },
+  "firstJoin": 1622334022318,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "_JEFF",
+  "fly": false,
+  "homes": {
+    "casa": {
+      "x": -7408.010226191655,
+      "y": 64,
+      "z": 4492.10511350216,
+      "rotx": 15.065141677856445,
+      "roty": -2.4375,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    },
+    "mm": {
+      "x": -9774.415700247493,
+      "y": 104,
+      "z": 166.58331451299426,
+      "rotx": 38.21681213378906,
+      "roty": 196.7684326171875,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    },
+    "dug": {
+      "x": -4802.368608777078,
+      "y": 39,
+      "z": -3179.551507394078,
+      "rotx": 20.39221954345703,
+      "roty": -176.29541015625,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  },
+  "powertools": {}
+}

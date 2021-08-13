@@ -1,0 +1,18 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623269756312,
+  "lastIP": "/201.80.182.107",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622768952521,
+    "start": 1622769281542,
+    "mstart": 1622769398774,
+    "sstart": 1622769517735,
+    "dstart": 1623269919414
+  },
+  "firstJoin": 1622768952513,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "sacollher",
+  "fly": true
+}

@@ -1,0 +1,56 @@
+{
+  "id": "Glameow",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Glameow"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 20,
+      "maxLevel": 37,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "plains"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 1.5,
+          "condition": {
+            "structures": [
+              "Village"
+            ]
+          }
+        }
+      ],
+      "rarity": 170.0
+    },
+    {
+      "spec": {
+        "name": "Glameow"
+      },
+      "stringLocationTypes": [
+        "Indoors",
+        "Manmade"
+      ],
+      "minLevel": 20,
+      "maxLevel": 37,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "arid"
+        ],
+        "structures": [
+          "Temple"
+        ]
+      },
+      "rarity": 170.0
+    }
+  ]
+}

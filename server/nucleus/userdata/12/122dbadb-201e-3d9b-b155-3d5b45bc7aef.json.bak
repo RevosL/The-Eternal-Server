@@ -1,0 +1,29 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623160197709,
+  "lastIP": "/177.37.144.92",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1623157733465,
+    "diario": 1623158166271,
+    "ajuda": 1623158634720,
+    "start": 1623159035578
+  },
+  "firstJoin": 1623157733459,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "nick1664",
+  "fly": true,
+  "powertools": {},
+  "homes": {
+    "home": {
+      "x": -6740.843671941169,
+      "y": 88.0,
+      "z": 871.6196910390485,
+      "rotx": 21.275110244750977,
+      "roty": 14.51220703125,
+      "rotz": 0.0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  }
+}

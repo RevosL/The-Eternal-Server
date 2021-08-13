@@ -1,0 +1,27 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623895992147,
+  "lastIP": "/216.209.115.133",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622504081385,
+    "start": 1622504144546,
+    "dstart": 1623018811321,
+    "mstart": 1622558141817,
+    "sstart": 1622567854235,
+    "farm": 1623084483121,
+    "ajuda": 1622570168499,
+    "casa": 1622570745230,
+    "diario": 1622863863367,
+    "pascoa": 1622817497008,
+    "menu": 1622817551118,
+    "livros": 1622817603092,
+    "megapedra": 1623166349446
+  },
+  "firstJoin": 1622504081375,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "LionnZXD",
+  "fly": false,
+  "powertools": {}
+}

@@ -1,0 +1,29 @@
+{
+  "data_version": 2,
+  "lastLogin": 1621987053990,
+  "lastIP": "/189.113.67.90",
+  "usedKits": {
+    "inicial": 1621987053999,
+    "start": 1621987668823,
+    "dstart": 1621987697479,
+    "sstart": 1621987728837,
+    "mstart": 1621987730791
+  },
+  "firstJoin": 1621987053990,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "DudinhaS2",
+  "fly": true,
+  "homes": {
+    "home": {
+      "x": -5608.785203673486,
+      "y": 63.0,
+      "z": 1920.7480794545052,
+      "rotx": 6.584571361541748,
+      "roty": 272.6302185058594,
+      "rotz": 0.0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  }
+}

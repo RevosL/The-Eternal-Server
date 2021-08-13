@@ -1,0 +1,18 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622660818996,
+  "lastIP": "/103.231.89.172",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622660819002,
+    "start": 1622660847444,
+    "pascoa": 1622660879569,
+    "mstart": 1622660883696
+  },
+  "firstJoin": 1622660818996,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "MtsV",
+  "fly": true,
+  "powertools": {}
+}

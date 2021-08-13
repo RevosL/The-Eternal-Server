@@ -1,0 +1,24 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623979523663,
+  "lastIP": "/187.20.214.119",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622638643843,
+    "start": 1622639830467,
+    "dstart": 1623196957006,
+    "farm": 1622659604621,
+    "diario": 1622751768013,
+    "mstart": 1622742674066,
+    "sstart": 1622742827025,
+    "ajuda": 1622743119284,
+    "pascoa": 1622817544993,
+    "menu": 1622818061790,
+    "megapedra": 1623154846366
+  },
+  "firstJoin": 1622638643832,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "conseteza",
+  "fly": false
+}

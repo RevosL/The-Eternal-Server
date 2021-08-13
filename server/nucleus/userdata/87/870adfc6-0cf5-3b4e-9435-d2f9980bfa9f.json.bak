@@ -1,0 +1,15 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623880283413,
+  "lastIP": "/177.132.110.188",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1623880283424,
+    "start": 1623880376751,
+    "dstart": 1623880389045
+  },
+  "firstJoin": 1623880283413,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "DreamFFake2"
+}

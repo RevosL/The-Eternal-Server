@@ -1,0 +1,20 @@
+{
+  "data_version": 2,
+  "lastLogin": 1621892476312,
+  "lastIP": "/152.89.162.178",
+  "usedKits": {
+    "inicial": 1621892476324,
+    "ajuda": 1621892544158,
+    "diario": 1621892564042,
+    "start": 1621892588765,
+    "mstart": 1621892596465,
+    "sstart": 1621892638706,
+    "dstart": 1621892640067
+  },
+  "firstJoin": 1621892476312,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "mayconcosta75",
+  "fly": false
+}

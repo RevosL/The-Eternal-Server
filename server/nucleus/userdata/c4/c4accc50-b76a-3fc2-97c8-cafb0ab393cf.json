@@ -1,0 +1,58 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623979308180,
+  "lastIP": "/179.99.97.172",
+  "usedKits": {
+    "inicial": 1621738705804,
+    "start": 1621738750063,
+    "dstart": 1622253997737,
+    "sstart": 1621787011243,
+    "mstart": 1621787020454,
+    "ajuda": 1621900964136,
+    "diario": 1623197371362,
+    "farm": 1623267470925,
+    "casa": 1623198815657,
+    "pascoa": 1621901209158,
+    "comida": 1621901232320,
+    "d-mega": 1623888367570,
+    "s-mega": 1623888364563,
+    "m-mega": 1621901814273,
+    "m-megak": 1621902013309
+  },
+  "firstJoin": 1621738705794,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "gustavoviana2008",
+  "fly": true,
+  "homes": {
+    "home": {
+      "x": -5578.304685748151,
+      "y": 68,
+      "z": 1919.0692142469532,
+      "rotx": 71.34388732910156,
+      "roty": -88.4574966430664,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    },
+    "casa": {
+      "x": -1503.6751229888157,
+      "y": 74,
+      "z": 9653.601621607908,
+      "rotx": 37.20034408569336,
+      "roty": -182.87564086914062,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    },
+    "base": {
+      "x": 8173.29946307831,
+      "y": 69,
+      "z": -107.93140324413463,
+      "rotx": 18.67582130432129,
+      "roty": -302.35833740234375,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  },
+  "powertools": {}
+}

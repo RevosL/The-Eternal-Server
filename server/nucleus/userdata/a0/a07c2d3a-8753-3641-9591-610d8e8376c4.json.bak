@@ -1,0 +1,36 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622817178842,
+  "lastIP": "/179.96.165.230",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622746826547,
+    "start": 1622747052206,
+    "casa": 1622747355306,
+    "dstart": 1622747416546,
+    "mstart": 1622747448447,
+    "pascoa": 1622747515665,
+    "sstart": 1622747521389,
+    "diario": 1622747536442,
+    "d-lend": 1622817755965,
+    "s-lend": 1622817786624,
+    "m-lend": 1622817813854,
+    "m-lendk": 1622817933562
+  },
+  "firstJoin": 1622746826540,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "MtsVD",
+  "fly": true,
+  "homes": {
+    "casa": {
+      "x": -6577.10071749468,
+      "y": 88,
+      "z": 4304.882099002778,
+      "rotx": 51.75022888183594,
+      "roty": -277.2067565917969,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  }
+}

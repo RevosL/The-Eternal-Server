@@ -1,0 +1,18 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622683307911,
+  "lastIP": "/186.213.136.189",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622682899826,
+    "ajuda": 1622684090707,
+    "diario": 1622684261857,
+    "farm": 1622684432584
+  },
+  "firstJoin": 1622682899821,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Kasverello",
+  "fly": false,
+  "powertools": {}
+}

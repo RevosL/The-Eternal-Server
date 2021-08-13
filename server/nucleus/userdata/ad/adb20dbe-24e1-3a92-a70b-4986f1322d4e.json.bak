@@ -1,0 +1,21 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623262252513,
+  "lastIP": "/187.115.184.26",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622740257607,
+    "start": 1622740324015,
+    "dstart": 1623262380124,
+    "sstart": 1622742461967,
+    "mstart": 1622742826322,
+    "pascoa": 1623084476747,
+    "ajuda": 1623084768469,
+    "diario": 1623262619568
+  },
+  "firstJoin": 1622740257599,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "brentstaon",
+  "fly": true
+}

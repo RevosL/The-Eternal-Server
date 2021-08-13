@@ -1,0 +1,34 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622523551383,
+  "lastIP": "/181.221.183.205",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622438497493,
+    "start": 1622438798613,
+    "dstart": 1622526217739,
+    "sstart": 1622439051763,
+    "mstart": 1622439084287,
+    "casa": 1622440164320,
+    "diario": 1622526116938,
+    "farm": 1622526155088,
+    "ajuda": 1622526179791
+  },
+  "firstJoin": 1622438497481,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Rei_Maou",
+  "homes": {
+    "casa": {
+      "x": 671.0598165067187,
+      "y": 79,
+      "z": -4539.582534105086,
+      "rotx": 5.100438594818115,
+      "roty": 315.794921875,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  },
+  "fly": true,
+  "powertools": {}
+}

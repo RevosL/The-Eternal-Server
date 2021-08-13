@@ -1,0 +1,38 @@
+{
+  "baseCommandAliases": [
+    "queuebattle",
+    "pbattle",
+    "qbattle"
+  ],
+  "joinSubcommandAliases": [
+    "join"
+  ],
+  "leaveSubcommandAliases": [
+    "leave"
+  ],
+  "listSubcommandAliases": [
+    "list",
+    "view"
+  ],
+  "costToEnter": 45000.0,
+  "battleLocations": [
+    {
+      "dimension": 2,
+      "x1": 5010.0,
+      "y1": 63.0,
+      "z1": 2635.0,
+      "yaw1": 0.0,
+      "x2": 4990.0,
+      "y2": 63.0,
+      "z2": 2635.0,
+      "yaw2": 0.0,
+      "exitX": 5011.0,
+      "exitY": 96.0,
+      "exitZ": 2581.0
+    }
+  ],
+  "noPokemonErrorMessage": "\u0026cVocê não\u0027ttem qualquer Pokémon válido! Você ganhou\u0027t receba sua taxa de inscrição de volta.",
+  "joinQueueMessage": "\u00262Voce\u0027ve Entrou na Fila! Certifique-se de ter um Pokémon válido ou você ganhou\u0027t pegue seu dinheiro de volta!",
+  "secondsUntilAddedToQueue": 10,
+  "banCommandsInBattle": true
+}

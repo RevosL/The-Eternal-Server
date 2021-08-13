@@ -1,0 +1,34 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622840403124,
+  "lastIP": "/187.19.169.68",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622838225366,
+    "start": 1622838589395,
+    "farm": 1622838857617,
+    "diario": 1622838874537,
+    "ajuda": 1622838899853,
+    "casa": 1622838978568,
+    "dstart": 1622839074248,
+    "sstart": 1622839088281,
+    "mstart": 1622839090202
+  },
+  "firstJoin": 1622838225359,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Strike_XYZ",
+  "homes": {
+    "casa": {
+      "x": 3596.056639809191,
+      "y": 63,
+      "z": -5139.762499988079,
+      "rotx": 50.400047302246094,
+      "roty": -143.71160888671875,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  },
+  "fly": true,
+  "powertools": {}
+}

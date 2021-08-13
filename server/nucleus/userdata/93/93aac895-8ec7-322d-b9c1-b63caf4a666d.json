@@ -1,0 +1,36 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623335688213,
+  "lastIP": "/170.233.51.253",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1623181498387,
+    "start": 1623182038430,
+    "dstart": 1623182076658,
+    "diario": 1623335808737,
+    "farm": 1623183258236,
+    "ajuda": 1623183282561,
+    "casa": 1623192313731,
+    "sstart": 1623192387133,
+    "mstart": 1623192389686,
+    "pascoa": 1623195466798,
+    "livros": 1623197050689
+  },
+  "firstJoin": 1623181498383,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Five_Six",
+  "fly": true,
+  "homes": {
+    "home": {
+      "x": 5532.561652562018,
+      "y": 80,
+      "z": 9796.870037786526,
+      "rotx": 35.09999465942383,
+      "roty": 169.48809814453125,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  },
+  "powertools": {}
+}

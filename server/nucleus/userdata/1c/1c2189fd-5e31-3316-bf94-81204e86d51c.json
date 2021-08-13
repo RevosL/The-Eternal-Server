@@ -1,0 +1,63 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622842809568,
+  "lastIP": "/45.165.149.231",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622344048725,
+    "start": 1622344094550,
+    "ajuda": 1622344514947,
+    "comida": 1622344620288,
+    "diario": 1622709915403,
+    "sstart": 1622345722565,
+    "mstart": 1622345725167,
+    "pascoa": 1622345780512,
+    "dstart": 1622666121464,
+    "casa": 1622591540711,
+    "farm": 1622645790345
+  },
+  "firstJoin": 1622344048716,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "BoyFrend",
+  "fly": false,
+  "homes": {
+    "zerp": {
+      "x": -22.5,
+      "y": 65,
+      "z": 395.5,
+      "rotx": 88.65015411376953,
+      "roty": 321.122802734375,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    },
+    "casa": {
+      "x": -6551.612370415963,
+      "y": 64.5625,
+      "z": -3970.300000011921,
+      "rotx": 32.5501594543457,
+      "roty": 109.1731948852539,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    },
+    "ultra": {
+      "x": -1649.7539247387704,
+      "y": 90,
+      "z": -4980.300000011921,
+      "rotx": 29.25015640258789,
+      "roty": -171.17674255371094,
+      "rotz": 0,
+      "world": "c28925ca-19de-463e-a50c-875f2214c05e"
+    },
+    "bini": {
+      "x": -2049.7719656471495,
+      "y": 99,
+      "z": -3385.495257147664,
+      "rotx": 16.19999885559082,
+      "roty": -126.00021362304688,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  },
+  "powertools": {}
+}

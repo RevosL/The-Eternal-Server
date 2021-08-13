@@ -1,0 +1,22 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623966005291,
+  "lastIP": "/179.108.232.12",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1623966005301,
+    "ajuda": 1623966174123,
+    "diario": 1623966390895,
+    "casa": 1623966418765,
+    "farm": 1623966653473,
+    "comida": 1623966656924,
+    "pascoa": 1623966672872,
+    "menu": 1623966696386,
+    "livros": 1623966707193
+  },
+  "firstJoin": 1623966005291,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "wryuk",
+  "fly": false
+}

@@ -1,0 +1,17 @@
+{
+  "data_version": 2,
+  "lastLogin": 1621984747863,
+  "lastIP": "/138.99.68.20",
+  "usedKits": {
+    "inicial": 1621984747874,
+    "ajuda": 1621984965687,
+    "diario": 1621987597681,
+    "farm": 1621987791769
+  },
+  "firstJoin": 1621984747863,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "FEEDBACKSOLA",
+  "fly": false
+}

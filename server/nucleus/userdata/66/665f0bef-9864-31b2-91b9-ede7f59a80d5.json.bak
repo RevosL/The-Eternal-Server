@@ -1,0 +1,21 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623091868860,
+  "lastIP": "/187.60.219.218",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1623091868867,
+    "diario": 1623091960386,
+    "start": 1623092007764,
+    "sstart": 1623092076425,
+    "pascoa": 1623092079424,
+    "dstart": 1623092081675,
+    "menu": 1623092798738,
+    "mstart": 1623092869127
+  },
+  "firstJoin": 1623091868860,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "gabezinhu",
+  "fly": true
+}

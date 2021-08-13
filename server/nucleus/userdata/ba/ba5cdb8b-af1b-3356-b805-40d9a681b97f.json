@@ -1,0 +1,18 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623159840328,
+  "lastIP": "/187.108.110.159",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1623156049203,
+    "start": 1623156110720,
+    "diario": 1623159050420,
+    "farm": 1623159082022
+  },
+  "firstJoin": 1623156049197,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Dionizeo",
+  "powertools": {},
+  "fly": true
+}

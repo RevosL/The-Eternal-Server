@@ -1,0 +1,34 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622587150541,
+  "lastIP": "/177.132.151.10",
+  "usedKits": {
+    "inicial": 1622586748144,
+    "start": 1622586857322,
+    "dstart": 1622587446524,
+    "ajuda": 1622588083088,
+    "diario": 1622588101155,
+    "farm": 1622588352034,
+    "sstart": 1622588388462,
+    "casa": 1622588589410,
+    "mstart": 1622588603490
+  },
+  "firstJoin": 1622586748137,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "RafaelMacDonald",
+  "fly": true,
+  "homes": {
+    "casa": {
+      "x": -6365.699999988079,
+      "y": 77.0,
+      "z": 8065.117778962587,
+      "rotx": 32.54997634887695,
+      "roty": 41.788177490234375,
+      "rotz": 0.0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  },
+  "powertools": {}
+}

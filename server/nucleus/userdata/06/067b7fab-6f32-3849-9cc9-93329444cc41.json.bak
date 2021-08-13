@@ -1,0 +1,16 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622661874912,
+  "lastIP": "/168.194.162.178",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622651025707,
+    "start": 1622651102666,
+    "diario": 1622651107561
+  },
+  "firstJoin": 1622651025694,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "ImSt1le_",
+  "fly": false
+}

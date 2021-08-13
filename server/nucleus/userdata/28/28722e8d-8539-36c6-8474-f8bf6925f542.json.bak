@@ -1,0 +1,39 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622758460568,
+  "lastIP": "/187.107.253.144",
+  "usedKits": {
+    "inicial": 1622587156537,
+    "start": 1622587344263,
+    "dstart": 1622760376837,
+    "mstart": 1622587813772,
+    "sstart": 1622587839517,
+    "casa": 1622760218362
+  },
+  "firstJoin": 1622587156517,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "LGameplay",
+  "fly": true,
+  "homes": {
+    "home": {
+      "x": 987.7002115285242,
+      "y": 72.0,
+      "z": 4024.277308236288,
+      "rotx": 88.65000915527344,
+      "roty": -358.1862487792969,
+      "rotz": 0.0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    },
+    "casa": {
+      "x": 1004.163393454982,
+      "y": 71.0,
+      "z": 4014.0226780233165,
+      "rotx": 29.549951553344727,
+      "roty": -211.484375,
+      "rotz": 0.0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "data_version": 2,
+  "lastLogin": 1621881036233,
+  "lastIP": "/191.36.214.187",
+  "usedKits": {
+    "inicial": 1621881036245,
+    "start": 1621881100376,
+    "dstart": 1621881868564,
+    "sstart": 1621881874597
+  },
+  "firstJoin": 1621881036233,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Cout_Wes"
+}

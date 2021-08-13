@@ -1,0 +1,34 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622222094157,
+  "lastIP": "/186.228.160.242",
+  "usedKits": {
+    "inicial": 1622220633290,
+    "start": 1622220740690,
+    "dstart": 1622220749279,
+    "sstart": 1622220756091,
+    "mstart": 1622220834541,
+    "comida": 1622221255167,
+    "casa": 1622222536228,
+    "ajuda": 1622222554462,
+    "farm": 1622222569829
+  },
+  "firstJoin": 1622220633283,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Tietos",
+  "fly": true,
+  "homes": {
+    "roma": {
+      "x": -2152.699999988079,
+      "y": 75.41892313145945,
+      "z": -3367.300000011921,
+      "rotx": 59.700096130371094,
+      "roty": 13.35296630859375,
+      "rotz": 0.0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  },
+  "powertools": {}
+}

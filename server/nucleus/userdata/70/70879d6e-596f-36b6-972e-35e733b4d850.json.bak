@@ -1,0 +1,37 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623984420114,
+  "lastIP": "/177.192.10.180",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1623884367517,
+    "start": 1623884442372,
+    "dstart": 1623884456469,
+    "casa": 1623885184957,
+    "farm": 1623885847501,
+    "menu": 1623885937451,
+    "mstart": 1623886007303,
+    "pascoa": 1623886274851,
+    "ajuda": 1623886447853,
+    "comida": 1623886546406,
+    "sstart": 1623886654752,
+    "diario": 1623887056976,
+    "livros": 1623968852969
+  },
+  "firstJoin": 1623884367504,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "TodinhoGamer80",
+  "fly": false,
+  "homes": {
+    "home": {
+      "x": -6879.072236666482,
+      "y": 70,
+      "z": -5161.04871019025,
+      "rotx": 5.550041198730469,
+      "roty": 0.3629150390625,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623919664971,
+  "lastIP": "/190.115.67.84",
+  "usedKits": {
+    "inicial": 1623308751916,
+    "start": 1623308793178,
+    "casa": 1623312401175,
+    "diario": 1623891749215,
+    "sstart": 1623312488728,
+    "mstart": 1623312491772,
+    "pascoa": 1623312494427,
+    "dstart": 1623891689213,
+    "caixas": 1623919610034
+  },
+  "firstJoin": 1623308751915,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "gabcholi",
+  "fly": false,
+  "homes": {
+    "home": {
+      "x": -2592.865507517762,
+      "y": 63,
+      "z": -14.779102655065117,
+      "rotx": 30.899993896484375,
+      "roty": -154.805419921875,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  },
+  "powertools": {}
+}

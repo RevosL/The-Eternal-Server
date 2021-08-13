@@ -1,0 +1,16 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622502152826,
+  "lastIP": "/189.84.251.70",
+  "usedKits": {
+    "inicial": 1622140883973,
+    "diario": 1622141072029
+  },
+  "firstJoin": 1622140883966,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "mirolucas",
+  "fly": false,
+  "powertools": {}
+}

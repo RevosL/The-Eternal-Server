@@ -1,0 +1,56 @@
+{
+  "id": "Purugly",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Purugly"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 39,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "plains"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 1.5,
+          "condition": {
+            "structures": [
+              "Village"
+            ]
+          }
+        }
+      ],
+      "rarity": 8.0
+    },
+    {
+      "spec": {
+        "name": "Purugly"
+      },
+      "stringLocationTypes": [
+        "Indoors",
+        "Manmade"
+      ],
+      "minLevel": 39,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "arid"
+        ],
+        "structures": [
+          "Temple"
+        ]
+      },
+      "rarity": 8.0
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622804476349,
+  "lastIP": "/177.37.243.115",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622804476357,
+    "start": 1622804542249,
+    "pascoa": 1622804789182,
+    "dstart": 1622804846577,
+    "mstart": 1622805413305,
+    "sstart": 1622805507431,
+    "diario": 1622805542065,
+    "menu": 1622805595331,
+    "ajuda": 1622805657358
+  },
+  "firstJoin": 1622804476349,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "ALS_BR"
+}

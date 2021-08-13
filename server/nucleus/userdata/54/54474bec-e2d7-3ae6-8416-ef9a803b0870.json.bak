@@ -1,0 +1,34 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622138993374,
+  "lastIP": "/177.55.53.210",
+  "usedKits": {
+    "inicial": 1621786289278,
+    "start": 1621786463590,
+    "dstart": 1622139280021,
+    "pascoa": 1621786765014,
+    "sstart": 1621786965513,
+    "mstart": 1621786968811,
+    "casa": 1621790691840,
+    "ajuda": 1621790745960,
+    "diario": 1621790837090,
+    "farm": 1621790890726
+  },
+  "firstJoin": 1621786289270,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "dudinha",
+  "fly": true,
+  "homes": {
+    "casa": {
+      "x": -3809.5637300770554,
+      "y": 65,
+      "z": 5007.606345177616,
+      "rotx": 23.549978256225586,
+      "roty": -123.46826171875,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  }
+}

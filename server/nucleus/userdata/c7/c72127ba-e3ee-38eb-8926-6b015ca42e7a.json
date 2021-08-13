@@ -1,0 +1,34 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623073095006,
+  "lastIP": "/177.127.104.106",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622912117184,
+    "start": 1622912257581,
+    "dstart": 1623003349231,
+    "sstart": 1622913784632,
+    "mstart": 1622914010688,
+    "pascoa": 1622916107638,
+    "ajuda": 1622916111637,
+    "diario": 1623084534177,
+    "farm": 1622991715535
+  },
+  "firstJoin": 1622912117176,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "D4bjk",
+  "fly": true,
+  "homes": {
+    "home": {
+      "x": -594.7900626782282,
+      "y": 71,
+      "z": 7329.629210531704,
+      "rotx": 36.35802459716797,
+      "roty": 62.64689254760742,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  },
+  "powertools": {}
+}

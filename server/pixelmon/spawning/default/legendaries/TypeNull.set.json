@@ -1,0 +1,29 @@
+{
+  "id": "TypeNull",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "TypeNull",
+        "level": 15
+      },
+      "stringLocationTypes": [
+        "Indoors"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "structures": [
+          "Stronghold"
+        ]
+      },
+      "rarity": 2.0
+    }
+  ]
+}

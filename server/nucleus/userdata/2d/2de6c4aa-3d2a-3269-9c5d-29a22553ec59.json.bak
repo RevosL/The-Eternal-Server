@@ -1,0 +1,14 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622404458172,
+  "lastIP": "/168.228.43.214",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622404458183,
+    "start": 1622404513630
+  },
+  "firstJoin": 1622404458172,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "breno"
+}

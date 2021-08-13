@@ -1,0 +1,48 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623906098114,
+  "lastIP": "/187.19.234.92",
+  "usedKits": {
+    "inicial": 1621722968873,
+    "start": 1621722987045,
+    "m-lendk": 1622069672722,
+    "seternal": 1622775266250,
+    "mstart": 1622508947769,
+    "d-lend": 1622069217329,
+    "s-lend": 1622069218721,
+    "m-lend": 1622069331317,
+    "meternal": 1623362412598,
+    "ajuda": 1622508612358,
+    "diario": 1622508668906,
+    "farm": 1622508675709,
+    "casa": 1622508690690,
+    "dstart": 1622508720588
+  },
+  "firstJoin": 1621722968676,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Revo",
+  "fly": false,
+  "homes": {
+    "aaa": {
+      "x": 1456.4552308117316,
+      "y": 58,
+      "z": 504.57534944403517,
+      "rotx": 41.0701789855957,
+      "roty": 179.404541015625,
+      "rotz": 0,
+      "world": "85439618-2bf6-4d9f-9939-3fc21aaede45"
+    },
+    "backupspawn": {
+      "x": -7385.541962639126,
+      "y": 200,
+      "z": 7350.466072963538,
+      "rotx": 90,
+      "roty": 92.38858032226562,
+      "rotz": 0,
+      "world": "610c0b2c-1e4e-4c31-929f-c93f5ad3db9e"
+    }
+  },
+  "powertools": {}
+}

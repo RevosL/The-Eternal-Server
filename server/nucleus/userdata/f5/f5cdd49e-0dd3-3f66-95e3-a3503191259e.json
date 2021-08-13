@@ -1,0 +1,32 @@
+{
+  "data_version": 2,
+  "lastLogin": 1621768312775,
+  "lastIP": "/179.124.220.252",
+  "usedKits": {
+    "inicial": 1621768312791,
+    "pascoa": 1621768390093,
+    "comida": 1621768766158,
+    "start": 1621769092582,
+    "sstart": 1621769510072,
+    "mstart": 1621769512670,
+    "dstart": 1621769535924
+  },
+  "firstJoin": 1621768312775,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Ilomp",
+  "fly": true,
+  "homes": {
+    "home": {
+      "x": 4185.449644112296,
+      "y": 63.0,
+      "z": -5838.795912610997,
+      "rotx": 28.200037002563477,
+      "roty": -74.8629150390625,
+      "rotz": 0.0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  },
+  "powertools": {}
+}

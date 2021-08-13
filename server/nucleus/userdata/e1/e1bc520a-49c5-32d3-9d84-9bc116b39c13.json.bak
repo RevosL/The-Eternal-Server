@@ -1,0 +1,20 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623875685640,
+  "lastIP": "/177.140.107.249",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1623875685658,
+    "start": 1623875792418,
+    "mstart": 1623875798855,
+    "sstart": 1623875900731,
+    "dstart": 1623875950605,
+    "comida": 1623876512404,
+    "ajuda": 1623879175518
+  },
+  "firstJoin": 1623875685640,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "rengoku1012",
+  "fly": true
+}

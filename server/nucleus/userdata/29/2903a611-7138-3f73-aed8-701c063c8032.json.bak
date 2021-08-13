@@ -1,0 +1,16 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622699770237,
+  "lastIP": "/187.126.179.145",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622699770245,
+    "start": 1622699847968,
+    "sstart": 1622699857707,
+    "dstart": 1622699858804
+  },
+  "firstJoin": 1622699770237,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "puttputt98"
+}

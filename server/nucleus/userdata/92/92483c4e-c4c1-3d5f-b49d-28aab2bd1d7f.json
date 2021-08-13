@@ -1,0 +1,52 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623273442893,
+  "lastIP": "/138.117.116.246",
+  "usedKits": {
+    "inicial": 1622561651905,
+    "start": 1622561700508,
+    "mstart": 1622561714332,
+    "sstart": 1622561900927,
+    "dstart": 1622768770926,
+    "casa": 1622837116291,
+    "ajuda": 1622562131021,
+    "diario": 1622562157754,
+    "pascoa": 1622837208057
+  },
+  "firstJoin": 1622561651895,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "TreemBala",
+  "fly": false,
+  "homes": {
+    "casa": {
+      "x": -4566.549631019068,
+      "y": 69,
+      "z": -4186.529079219877,
+      "rotx": 17.645763397216797,
+      "roty": -32.781646728515625,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    },
+    "base": {
+      "x": 1425.8918067098489,
+      "y": 66,
+      "z": 4753.677928869482,
+      "rotx": -10.008753776550293,
+      "roty": 46.392494201660156,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    },
+    "pantano": {
+      "x": -1812.6350165520582,
+      "y": 96,
+      "z": 2801.1996710648627,
+      "rotx": 5.904635906219482,
+      "roty": -118.72854614257812,
+      "rotz": 0,
+      "world": "c28925ca-19de-463e-a50c-875f2214c05e"
+    }
+  },
+  "powertools": {}
+}

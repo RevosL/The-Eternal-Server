@@ -1,0 +1,50 @@
+{
+  "id": "Espeon",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Espeon"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "plains",
+          "magical"
+        ]
+      },
+      "rarity": 0.5
+    },
+    {
+      "spec": {
+        "name": "Espeon"
+      },
+      "stringLocationTypes": [
+        "Indoors",
+        "Manmade"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MIDDAY"
+        ],
+        "stringBiomes": [
+          "arid"
+        ],
+        "structures": [
+          "Temple"
+        ]
+      },
+      "rarity": 15.0
+    }
+  ]
+}

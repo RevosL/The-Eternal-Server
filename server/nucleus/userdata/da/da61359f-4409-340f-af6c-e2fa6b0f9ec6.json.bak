@@ -1,0 +1,32 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622151957657,
+  "lastIP": "/168.121.255.36",
+  "usedKits": {
+    "inicial": 1622151957662,
+    "start": 1622152787894,
+    "ajuda": 1622152983459,
+    "diario": 1622153078444,
+    "farm": 1622153129797,
+    "dstart": 1622153154120,
+    "sstart": 1622153193154,
+    "mstart": 1622153232563
+  },
+  "firstJoin": 1622151957657,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Yue_Sora",
+  "fly": false,
+  "homes": {
+    "casa": {
+      "x": 8161.74633631613,
+      "y": 69.0,
+      "z": 2222.2308722523258,
+      "rotx": 11.999667167663574,
+      "roty": -1.1810306310653687,
+      "rotz": 0.0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  }
+}

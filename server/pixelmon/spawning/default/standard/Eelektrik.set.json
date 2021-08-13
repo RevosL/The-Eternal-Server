@@ -1,0 +1,44 @@
+{
+  "id": "Eelektrik",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Eelektrik"
+      },
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 40,
+      "maxLevel": 52,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "deep_ocean",
+          "kelp_forest"
+        ],
+        "maxY": 35
+      },
+      "rarity": 8.0
+    },
+    {
+      "spec": {
+        "name": "Eelektrik"
+      },
+      "stringLocationTypes": [
+        "Underground Water"
+      ],
+      "minLevel": 40,
+      "maxLevel": 52,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "Monument"
+        ]
+      },
+      "rarity": 8.0
+    }
+  ]
+}

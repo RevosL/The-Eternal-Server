@@ -1,0 +1,42 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622094871217,
+  "lastIP": "/131.100.207.125",
+  "usedKits": {
+    "inicial": 1621745748717,
+    "start": 1621745868284,
+    "diario": 1622095066784,
+    "farm": 1622095091082,
+    "dstart": 1622094946082,
+    "sstart": 1621746120214,
+    "mstart": 1621746122106,
+    "pascoa": 1621966360353,
+    "casa": 1622095114387
+  },
+  "firstJoin": 1621745748709,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "SraKothan",
+  "fly": true,
+  "homes": {
+    "home": {
+      "x": -6562.394736802271,
+      "y": 65.0,
+      "z": 7810.2600831178725,
+      "rotx": 6.155902862548828,
+      "roty": 180.19537353515625,
+      "rotz": 0.0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    },
+    "nathan": {
+      "x": -6634.740226350168,
+      "y": 75.0,
+      "z": 3945.305187802896,
+      "rotx": 17.04319953918457,
+      "roty": -355.920654296875,
+      "rotz": 0.0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "Gardevoir",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Gardevoir"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "birches"
+        ]
+      },
+      "rarity": 0.5
+    },
+    {
+      "spec": {
+        "name": "Gardevoir"
+      },
+      "stringLocationTypes": [
+        "Indoors"
+      ],
+      "minLevel": 30,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "Mansion"
+        ]
+      },
+      "rarity": 1.0
+    }
+  ]
+}

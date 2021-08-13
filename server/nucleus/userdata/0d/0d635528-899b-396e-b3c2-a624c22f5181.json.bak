@@ -1,0 +1,39 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622997997126,
+  "lastIP": "/187.180.185.244",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622841228332,
+    "start": 1622841270720,
+    "casa": 1622841566648,
+    "ajuda": 1622843779062,
+    "diario": 1622998032059,
+    "farm": 1622999219460
+  },
+  "firstJoin": 1622841228325,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "eSnakzz",
+  "fly": true,
+  "homes": {
+    "home": {
+      "x": 8750.007079466859,
+      "y": 105,
+      "z": 6726.717094113508,
+      "rotx": 29.4486026763916,
+      "roty": -108.11734008789062,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    },
+    "enzoplot": {
+      "x": 9080.386419318493,
+      "y": 85,
+      "z": 6744.250548971193,
+      "rotx": 12.97864055633545,
+      "roty": -4.244873046875,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  }
+}

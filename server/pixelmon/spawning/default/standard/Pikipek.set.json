@@ -1,0 +1,59 @@
+{
+  "id": "Pikipek",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Pikipek"
+      },
+      "stringLocationTypes": [
+        "Tree Top",
+        "Headbutt",
+        "Manmade"
+      ],
+      "minLevel": 3,
+      "maxLevel": 13,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:oran_berry",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 300.0
+    },
+    {
+      "spec": {
+        "name": "Pikipek"
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 3,
+      "maxLevel": 13,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:oran_berry",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 200.0
+    }
+  ]
+}

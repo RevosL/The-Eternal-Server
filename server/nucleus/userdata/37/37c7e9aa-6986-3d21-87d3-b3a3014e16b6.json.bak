@@ -1,0 +1,30 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623973034896,
+  "lastIP": "/177.66.108.177",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622485220388,
+    "start": 1622485556428,
+    "dstart": 1622776036771,
+    "sstart": 1622663619504,
+    "mstart": 1622663651721,
+    "diario": 1623274613683
+  },
+  "firstJoin": 1622485220373,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "PedroDBRa",
+  "fly": false,
+  "homes": {
+    "home": {
+      "x": 8184.834576710338,
+      "y": 69,
+      "z": -144.7217723684496,
+      "rotx": 19.499975204467773,
+      "roty": -184.77066040039062,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  }
+}

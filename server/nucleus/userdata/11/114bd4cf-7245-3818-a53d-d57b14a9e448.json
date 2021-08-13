@@ -1,0 +1,30 @@
+{
+  "data_version": 2,
+  "lastLogin": 1621799593006,
+  "lastIP": "/187.4.222.56",
+  "usedKits": {
+    "inicial": 1621778658615,
+    "start": 1621778704798,
+    "diario": 1621778844050,
+    "ajuda": 1621778874883,
+    "farm": 1621779282706
+  },
+  "firstJoin": 1621778658608,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "IVONESTICO",
+  "homes": {
+    "casa": {
+      "x": -7714.776458712335,
+      "y": 63,
+      "z": -6137.498697213517,
+      "rotx": 14.099985122680664,
+      "roty": -263.11138916015625,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  },
+  "fly": true,
+  "powertools": {}
+}

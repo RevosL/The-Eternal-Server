@@ -1,0 +1,79 @@
+{
+  "groupList": {
+    "HIGHESTGROUP(OWNER)": {
+      "name": "aaa",
+      "prefix": "[&f&lDONO&f]",
+      "suffix": ""
+    },
+    "LOWERGROUP(1)": {
+      "name": "bbb",
+      "prefix": "[&cAdM&f]",
+      "suffix": ""
+    },
+    "LOWERGROUP(2)": {
+      "name": "ccc",
+      "prefix": "[&aMOD&f]",
+      "suffix": ""
+    },
+    "LOWERGROUP(3)": {
+      "name": "ddd",
+      "prefix": "[&9AJD+&f]",
+      "suffix": ""
+    },
+    "LOWERGROUP(4)": {
+      "name": "eee",
+      "prefix": "[&aAJD&f]",
+      "suffix": ""
+    },
+    "LOWERGROUP(5)": {
+      "name": "fff",
+      "prefix": "[&0Eternal&f]",
+      "suffix": ""
+    },
+    "LOWERGROUP(6)": {
+      "name": "ggg",
+      "prefix": "[&3Lendy&f]",
+      "suffix": ""
+    },
+    "LOWERGROUP(7)": {
+      "name": "hhh",
+      "prefix": "[&bBeta&f]",
+      "suffix": ""
+    },
+    "LOWERGROUP(8)": {
+      "name": "iii",
+      "prefix": "[&dUltra&f]",
+      "suffix": ""
+    },
+    "LOWERGROUP(9)": {
+      "name": "jjj",
+      "prefix": "[&5Mega&f]",
+      "suffix": ""
+    },
+    "LOWERGROUP(10)": {
+      "name": "kkk",
+      "prefix": "[&6Shiny&f]",
+      "suffix": ""
+    },
+    "LOWERGROUP(11)": {
+      "name": "lll",
+      "prefix": "[Y-&5T&f]",
+      "suffix": ""
+    },
+    "LOWERGROUP(12)": {
+      "name": "mmm",
+      "prefix": "[&fM-&4Yt&f]",
+      "suffix": ""
+    },
+    "LOWERGROUP(15)": {
+      "name": "ppp",
+      "prefix": "[&2Start&f]",
+      "suffix": ""
+    },
+    "LOWEST_GROUP(DEFAULT)": {
+      "name": "qqq",
+      "prefix": "&f[M]",
+      "suffix": ""
+    }
+  }
+}

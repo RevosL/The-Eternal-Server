@@ -1,0 +1,26 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622927810280,
+  "lastIP": "/177.89.64.223",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622834739850,
+    "ajuda": 1622835162410,
+    "farm": 1622835202944,
+    "diario": 1622928056269,
+    "start": 1622835520562,
+    "sstart": 1622835896808,
+    "mstart": 1622835899864,
+    "pascoa": 1622835909174,
+    "livros": 1622835913021,
+    "menu": 1622835938975,
+    "dstart": 1622928071880,
+    "comida": 1622928300294,
+    "casa": 1622928449857
+  },
+  "firstJoin": 1622834739844,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "blackf21",
+  "fly": true
+}

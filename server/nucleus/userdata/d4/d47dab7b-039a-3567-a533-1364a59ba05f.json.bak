@@ -1,0 +1,18 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622051864445,
+  "lastIP": "/187.108.125.71",
+  "usedKits": {
+    "inicial": 1622051864448,
+    "ajuda": 1622051977694,
+    "casa": 1622052091507,
+    "menu": 1622052111109,
+    "start": 1622052111518,
+    "pascoa": 1622052112783
+  },
+  "firstJoin": 1622051864445,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "uQuity"
+}

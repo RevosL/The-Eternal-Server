@@ -1,0 +1,31 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622571875067,
+  "lastIP": "/187.180.185.107",
+  "usedKits": {
+    "inicial": 1622557060636,
+    "start": 1622557889475,
+    "diario": 1622557902768,
+    "dstart": 1622558412680,
+    "sstart": 1622558427022,
+    "mstart": 1622558431261
+  },
+  "firstJoin": 1622557060629,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Makyya",
+  "fly": true,
+  "homes": {
+    "casa": {
+      "x": -3272.381120152325,
+      "y": 70,
+      "z": -5797.817159451096,
+      "rotx": 28.208906173706055,
+      "roty": 49.8347053527832,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  },
+  "powertools": {}
+}

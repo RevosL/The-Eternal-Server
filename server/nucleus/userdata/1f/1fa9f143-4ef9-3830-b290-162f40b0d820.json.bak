@@ -1,0 +1,46 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622774423985,
+  "lastIP": "/168.205.21.172",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622774423992,
+    "start": 1622774522470,
+    "mstart": 1622774559170,
+    "comida": 1622775052937,
+    "sstart": 1622775068421
+  },
+  "firstJoin": 1622774423985,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "rickwolfgamer",
+  "homes": {
+    "casa": {
+      "x": 4520.185632254255,
+      "y": 73.0,
+      "z": -1629.8545213963548,
+      "rotx": 24.209178924560547,
+      "roty": 251.50494384765625,
+      "rotz": 0.0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    },
+    "casona": {
+      "x": -2181.8221830224325,
+      "y": 125.0,
+      "z": 3147.7479134820637,
+      "rotx": 39.43476486206055,
+      "roty": 280.1214599609375,
+      "rotz": 0.0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    },
+    "mina": {
+      "x": 7740.300000011921,
+      "y": 66.0,
+      "z": 1940.300000011921,
+      "rotx": -3.3391661643981934,
+      "roty": 321.3055419921875,
+      "rotz": 0.0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  }
+}

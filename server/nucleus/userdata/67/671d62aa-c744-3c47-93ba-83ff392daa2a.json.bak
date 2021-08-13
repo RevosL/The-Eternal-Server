@@ -1,0 +1,20 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622838532901,
+  "lastIP": "/138.117.116.246",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622501847374,
+    "pascoa": 1622501908988,
+    "start": 1622501922299,
+    "ajuda": 1622501928989,
+    "mstart": 1622838548214,
+    "sstart": 1622838644766,
+    "dstart": 1622838665179
+  },
+  "firstJoin": 1622501847361,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "leonardo2K",
+  "fly": false
+}

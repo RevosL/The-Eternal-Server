@@ -1,0 +1,19 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622325856987,
+  "lastIP": "/177.66.55.68",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622325856995,
+    "start": 1622325887107,
+    "dstart": 1622325897458,
+    "sstart": 1622325926162,
+    "mstart": 1622325927574,
+    "farm": 1622326246937,
+    "ajuda": 1622326326740
+  },
+  "firstJoin": 1622325856987,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "paulindobigode"
+}

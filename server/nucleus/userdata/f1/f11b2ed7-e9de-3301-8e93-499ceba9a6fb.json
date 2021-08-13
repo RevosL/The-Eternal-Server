@@ -1,0 +1,20 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622640967891,
+  "lastIP": "/187.19.212.160",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622639495006,
+    "start": 1622639544232,
+    "sstart": 1622639593907,
+    "mstart": 1622639595665,
+    "pascoa": 1622640362802,
+    "comida": 1622640368188
+  },
+  "firstJoin": 1622639495000,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Polar",
+  "fly": true,
+  "powertools": {}
+}

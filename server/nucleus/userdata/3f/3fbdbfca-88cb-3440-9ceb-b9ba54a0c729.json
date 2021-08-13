@@ -1,0 +1,23 @@
+{
+  "data_version": 2,
+  "lastLogin": 1621947552866,
+  "lastIP": "/46.19.139.106",
+  "usedKits": {
+    "inicial": 1621947552878,
+    "ajuda": 1621947663721,
+    "start": 1621947691519,
+    "diario": 1621947706670,
+    "farm": 1621947744709,
+    "mstart": 1621947768918,
+    "dstart": 1621947865892,
+    "sstart": 1621947870776,
+    "casa": 1621947931885
+  },
+  "firstJoin": 1621947552866,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "gustavouchiha",
+  "fly": false,
+  "powertools": {}
+}

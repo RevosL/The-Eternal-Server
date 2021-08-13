@@ -1,0 +1,46 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622211631668,
+  "lastIP": "/138.185.218.141",
+  "usedKits": {
+    "inicial": 1622180417103,
+    "start": 1622180513801,
+    "dstart": 1622180532941,
+    "sstart": 1622180559199,
+    "mstart": 1622180564047,
+    "diario": 1622180999092,
+    "farm": 1622181719283,
+    "pascoa": 1622181853402,
+    "casa": 1622181862893,
+    "comida": 1622181935006,
+    "ajuda": 1622182574898,
+    "livros": 1622184610131
+  },
+  "firstJoin": 1622180417094,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "eoLIGHTx",
+  "fly": false,
+  "homes": {
+    "casa": {
+      "x": -2265.2415373418576,
+      "y": 88,
+      "z": -5056.901115624454,
+      "rotx": 48.750003814697266,
+      "roty": -175.9478759765625,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    },
+    "narutin": {
+      "x": 762.8011028370875,
+      "y": 79,
+      "z": -4496.061908102211,
+      "rotx": -12.300004005432129,
+      "roty": -152.12835693359375,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  },
+  "powertools": {}
+}

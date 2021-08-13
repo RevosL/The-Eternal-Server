@@ -1,0 +1,11 @@
+﻿ &fEste é o sistema de &6"RTP"&f do nosso Servidor:
+
+&f* &7Você pode utilizar o comando &6/rtp &7a cada &615 #minutos apenar no mundo minerar# &7!
+
+&f* &7Para ir ao mundo ao &6mineração&7 de o comando &6/minerar &7!
+
+&6Exemplo: &fPara pegar recursos, blocos e minerar e no /minerar
+
+&f* &7Os pokémons spawnam normalmente no mundo &6normal&7, porém não no &6mineração &7!
+
+&6Exemplo²: &fPara construir sua casa utilize /p auto , e caçar pokémons e no /explorar

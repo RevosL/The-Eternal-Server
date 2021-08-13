@@ -1,0 +1,17 @@
+{
+  "data_version": 2,
+  "lastLogin": 1621814683172,
+  "lastIP": "/177.51.38.179",
+  "usedKits": {
+    "inicial": 1621774596712,
+    "start": 1621808951410,
+    "pascoa": 1621808960578,
+    "mstart": 1621809004387
+  },
+  "firstJoin": 1621774596704,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "absolut",
+  "fly": true
+}

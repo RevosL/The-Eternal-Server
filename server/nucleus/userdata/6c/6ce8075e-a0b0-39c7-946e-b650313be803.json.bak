@@ -1,0 +1,19 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622815583775,
+  "lastIP": "/167.249.188.42",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622766346380,
+    "start": 1622766474197,
+    "livros": 1622766977669,
+    "diario": 1622815659675,
+    "farm": 1622815895387,
+    "casa": 1622816993393
+  },
+  "firstJoin": 1622766346372,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "SHUBILIN21009",
+  "fly": false
+}

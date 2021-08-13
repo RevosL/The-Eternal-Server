@@ -1,0 +1,54 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623364874483,
+  "lastIP": "/103.231.89.173",
+  "usedKits": {
+    "inicial": 1621782005353,
+    "start": 1621782046688,
+    "mstart": 1621782067018,
+    "sstart": 1621782125510,
+    "dstart": 1621782126964,
+    "diario": 1621788422026,
+    "ajuda": 1621788656093,
+    "casa": 1621788725848,
+    "farm": 1621788741250,
+    "mbeta": 1621801966011,
+    "sbeta": 1622871892842,
+    "dbeta": 1623364933126
+  },
+  "firstJoin": 1621782005345,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Taliner00",
+  "fly": false,
+  "homes": {
+    "mesat": {
+      "x": -4978.947520418662,
+      "y": 95,
+      "z": -8853.697177987577,
+      "rotx": 33.71426010131836,
+      "roty": -312.63079833984375,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    },
+    "ralts": {
+      "x": -9960.660347982046,
+      "y": 69,
+      "z": -9730.514238185655,
+      "rotx": 17.269195556640625,
+      "roty": -40.4339599609375,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    },
+    "casa": {
+      "x": 710.0731008134935,
+      "y": 69,
+      "z": -3558.5690047344315,
+      "rotx": 19.93651008605957,
+      "roty": -330.96551513671875,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  }
+}

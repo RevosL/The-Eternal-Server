@@ -1,0 +1,20 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623333132356,
+  "lastIP": "/189.26.212.170",
+  "usedKits": {
+    "inicial": 1622556602828,
+    "pascoa": 1622556997209,
+    "diario": 1623163958019,
+    "farm": 1622569757850,
+    "ajuda": 1622569949055,
+    "casa": 1623164040295
+  },
+  "firstJoin": 1622556602822,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "rafinhadaboca",
+  "fly": false,
+  "powertools": {}
+}

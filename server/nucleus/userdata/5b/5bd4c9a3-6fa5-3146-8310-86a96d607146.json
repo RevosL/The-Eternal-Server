@@ -1,0 +1,33 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622920863676,
+  "lastIP": "/201.19.201.197",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622920863687,
+    "start": 1622920962566,
+    "dstart": 1622920972180,
+    "sstart": 1622920975990,
+    "mstart": 1622920979230,
+    "diario": 1622921483966,
+    "farm": 1622921540917,
+    "caixas": 1622922022755
+  },
+  "firstJoin": 1622920863676,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "PhenixHK777",
+  "fly": true,
+  "homes": {
+    "casa": {
+      "x": -8857.77935587188,
+      "y": 80.0,
+      "z": -6157.880978694997,
+      "rotx": 41.249977111816406,
+      "roty": -292.03497314453125,
+      "rotz": 0.0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  },
+  "powertools": {}
+}

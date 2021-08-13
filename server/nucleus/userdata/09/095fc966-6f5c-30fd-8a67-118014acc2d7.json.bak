@@ -1,0 +1,65 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622574438508,
+  "lastIP": "/201.4.128.172",
+  "usedKits": {
+    "inicial": 1621776126716,
+    "ajuda": 1621776526032,
+    "diario": 1622558342930,
+    "start": 1621777208952,
+    "dstart": 1622306788997,
+    "sstart": 1621777228240,
+    "mstart": 1621777245138,
+    "pascoa": 1621960882048,
+    "menu": 1621961535993,
+    "casa": 1621983194789,
+    "farm": 1622035407890,
+    "livros": 1622251714741,
+    "caixas": 1622384875620,
+    "raro": 1622396662839
+  },
+  "firstJoin": 1621776126708,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "KilleiTuaMae",
+  "fly": false,
+  "homes": {
+    "roofed": {
+      "x": -1205.300000011921,
+      "y": 73,
+      "z": -7005.758717439666,
+      "rotx": 34.499961853027344,
+      "roty": -141.8703155517578,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    },
+    "extreme": {
+      "x": 8467.040246739569,
+      "y": 123,
+      "z": 9403.018184806237,
+      "rotx": 16.798728942871094,
+      "roty": 162.92872619628906,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    },
+    "farm": {
+      "x": -3023.0615758859653,
+      "y": 65,
+      "z": -715.2938959762695,
+      "rotx": 4.200007915496826,
+      "roty": 85.05178833007812,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    },
+    "forest": {
+      "x": 9178.420028962848,
+      "y": 125,
+      "z": -3697.310509953817,
+      "rotx": 5.8066277503967285,
+      "roty": 275.6807861328125,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  }
+}

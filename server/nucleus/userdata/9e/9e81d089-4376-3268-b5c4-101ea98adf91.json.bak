@@ -1,0 +1,19 @@
+{
+  "data_version": 2,
+  "lastLogin": 1621786375483,
+  "lastIP": "/177.137.96.19",
+  "usedKits": {
+    "inicial": 1621786191747,
+    "start": 1621786342082,
+    "mstart": 1621786416788,
+    "sstart": 1621786524377,
+    "dstart": 1621786531889
+  },
+  "firstJoin": 1621786191715,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Mathz",
+  "powertools": {},
+  "fly": false
+}

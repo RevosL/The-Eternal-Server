@@ -1,0 +1,248 @@
+logs=[
+    {
+        otherParticipant="84d92559-5516-3a14-bbf2-55f457708eac"
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[]
+        participant=e598b8f7-bdf8-33da-99a0-11308c0866b8
+        sideItemStrings=[]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[
+            "{\"EVSpeed\":0.0,\"IVAttack\":23.0,\"Growth\":2.0,\"originalTrainerUUIDMost\":-1.9025674683804416E18,\"PersistentData\":{},\"Gender\":0.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":54.0,\"Name\":\"Sirfetchd\",\"isInRanch\":0.0,\"Friendship\":52.0,\"StatsDefence\":75.0,\"IVDefence\":25.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":61.0,\"IVSpDef\":7.0,\"CaughtBall\":0.0,\"IVHP\":17.0,\"AbilitySlot\":0.0,\"EVHP\":0.0,\"ndex\":865.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-7.3768772894274089E18,\"Nature\":20.0,\"StatsHP\":89.0,\"UUIDLeast\":-7.6512561523995525E18,\"Health\":89.0,\"originalTrainer\":\"HellDragon\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":-1.0,\"StatsSpeed\":52.0,\"EVSpecialAttack\":0.0,\"IsShiny\":0.0,\"StatsAttack\":101.0,\"UUIDMost\":-8.3916780063936164E18,\"IVSpeed\":13.0,\"Level\":33.0,\"IVSpAtt\":19.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}"
+        ]
+        timestamp="30/05/2021 00:01"
+        uniqueID="55e6096d-3e86-403c-9a71-11ea61fe6b7f"
+    },
+    {
+        otherParticipant=e598b8f7-bdf8-33da-99a0-11308c0866b8
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[]
+        participant="84d92559-5516-3a14-bbf2-55f457708eac"
+        sideItemStrings=[]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[
+            "{\"EVSpeed\":0.0,\"IVAttack\":23.0,\"Growth\":2.0,\"originalTrainerUUIDMost\":-1.9025674683804416E18,\"PersistentData\":{},\"Gender\":0.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":57.0,\"Name\":\"Sirfetchd\",\"isInRanch\":0.0,\"Friendship\":62.0,\"StatsDefence\":80.0,\"IVDefence\":25.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":64.0,\"IVSpDef\":7.0,\"CaughtBall\":0.0,\"IVHP\":17.0,\"AbilitySlot\":0.0,\"EVHP\":15.0,\"ndex\":865.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-7.3768772894274089E18,\"Nature\":20.0,\"StatsHP\":95.0,\"UUIDLeast\":-7.6512561523995525E18,\"Health\":95.0,\"originalTrainer\":\"HellDragon\",\"DoesLevel\":0.0,\"DynamaxLevel\":0.0,\"Variant\":-1.0,\"StatsSpeed\":55.0,\"EVSpecialAttack\":0.0,\"IsShiny\":0.0,\"StatsAttack\":107.0,\"UUIDMost\":-8.3916780063936164E18,\"IVSpeed\":13.0,\"Level\":35.0,\"IVSpAtt\":19.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":2833.0}"
+        ]
+        timestamp="30/05/2021 00:04"
+        uniqueID="801c6b19-9059-41e4-bb8d-e8980749e3d2"
+    },
+    {
+        otherParticipant="49ff490b-4d9b-3318-a887-00bba5dab53e"
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[]
+        participant=e598b8f7-bdf8-33da-99a0-11308c0866b8
+        sideItemStrings=[
+            "{\"ContentVersion\":2,\"ItemType\":\"pixelmon:water_stone_ore\",\"Count\":9,\"UnsafeDamage\":0}"
+        ]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[]
+        timestamp="31/05/2021 16:11"
+        uniqueID="9366453f-3663-41eb-90d6-27fdb28fcc6a"
+    },
+    {
+        otherParticipant=ccfb59da-75c9-3db2-9f84-ccd983d4390f
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[
+            "{\"EVSpeed\":0.0,\"IVAttack\":6.0,\"Growth\":5.0,\"originalTrainerUUIDMost\":-3.6762458760040125E18,\"PersistentData\":{},\"Gender\":1.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":10.0,\"Name\":\"Azurill\",\"isInRanch\":0.0,\"Friendship\":70.0,\"StatsDefence\":8.0,\"IVDefence\":10.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":8.0,\"IVSpDef\":25.0,\"CaughtBall\":0.0,\"IVHP\":8.0,\"AbilitySlot\":1.0,\"EVHP\":0.0,\"ndex\":298.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-6.9522066901615104E18,\"Nature\":18.0,\"StatsHP\":20.0,\"UUIDLeast\":-8.9326595876658596E18,\"Health\":20.0,\"originalTrainer\":\"REIZINHO15\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":-1.0,\"StatsSpeed\":7.0,\"EVSpecialAttack\":0.0,\"IsShiny\":0.0,\"StatsAttack\":7.0,\"UUIDMost\":4.2386507617110134E18,\"IVSpeed\":0.0,\"Level\":5.0,\"IVSpAtt\":30.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}",
+            "{\"EVSpeed\":0.0,\"IVAttack\":14.0,\"Growth\":2.0,\"originalTrainerUUIDMost\":-3.6762458760040125E18,\"PersistentData\":{},\"Gender\":1.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":19.0,\"Name\":\"Flabebe\",\"isInRanch\":0.0,\"Friendship\":0.0,\"StatsDefence\":12.0,\"IVDefence\":29.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":18.0,\"IVSpDef\":4.0,\"CaughtBall\":0.0,\"IVHP\":9.0,\"AbilitySlot\":0.0,\"EVHP\":0.0,\"ndex\":669.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-6.9522066901615104E18,\"Nature\":14.0,\"StatsHP\":27.0,\"UUIDLeast\":-6.2295592798275502E18,\"Health\":27.0,\"originalTrainer\":\"REIZINHO15\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":4.0,\"StatsSpeed\":16.0,\"EVSpecialAttack\":0.0,\"IsShiny\":0.0,\"StatsAttack\":13.0,\"UUIDMost\":-3.218351750055575E18,\"IVSpeed\":29.0,\"Level\":9.0,\"IVSpAtt\":24.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}"
+        ]
+        participant=e598b8f7-bdf8-33da-99a0-11308c0866b8
+        sideItemStrings=[
+            "{\"ContentVersion\":2,\"ItemType\":\"pixelmon:thunder_stone\",\"Count\":1,\"UnsafeDamage\":0}"
+        ]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[]
+        timestamp="03/06/2021 15:23"
+        uniqueID="8e4c3b2e-4e99-421f-bfbf-99e694b577ff"
+    },
+    {
+        otherParticipant=e598b8f7-bdf8-33da-99a0-11308c0866b8
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[
+            "{\"EVSpeed\":2.0,\"IVAttack\":6.0,\"Growth\":0.0,\"originalTrainerUUIDMost\":-1.9025674683804416E18,\"PersistentData\":{\"SpongeData\":{}},\"Gender\":2.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":180.0,\"Name\":\"Nihilego\",\"isInRanch\":0.0,\"Friendship\":72.0,\"StatsDefence\":65.0,\"IVDefence\":7.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":158.0,\"IVSpDef\":31.0,\"CaughtBall\":3.0,\"IVHP\":31.0,\"AbilitySlot\":0.0,\"EVHP\":0.0,\"ndex\":793.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-7.3768772894274089E18,\"Nature\":6.0,\"StatsHP\":219.0,\"UUIDLeast\":-7.4072298154136013E18,\"Health\":219.0,\"originalTrainer\":\"HellDragon\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":-1.0,\"StatsSpeed\":132.0,\"EVSpecialAttack\":0.0,\"IsShiny\":0.0,\"StatsAttack\":79.0,\"UUIDMost\":8.4191289965705503E18,\"IVSpeed\":31.0,\"Level\":60.0,\"IVSpAtt\":2.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":781.0}"
+        ]
+        participant=c4accc50-b76a-3fc2-97c8-cafb0ab393cf
+        sideItemStrings=[]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[
+            "{\"EVSpeed\":0.0,\"IVAttack\":31.0,\"Growth\":3.0,\"originalTrainerUUIDMost\":-4.2748172992347996E18,\"PersistentData\":{\"SpongeData\":{\"CanGrief\":1.0}},\"Gender\":2.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":107.0,\"Name\":\"Xurkitree\",\"isInRanch\":0.0,\"Friendship\":69.0,\"StatsDefence\":97.0,\"IVDefence\":31.0,\"EVAttack\":3.0,\"StatsSpecialAttack\":230.0,\"IVSpDef\":29.0,\"CaughtBall\":3.0,\"IVHP\":31.0,\"AbilitySlot\":0.0,\"EVHP\":0.0,\"ndex\":796.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-7.509529199075159E18,\"Nature\":14.0,\"StatsHP\":188.0,\"UUIDLeast\":-9.1428633097982188E18,\"Health\":188.0,\"originalTrainer\":\"gustavoviana2008\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":-1.0,\"StatsSpeed\":115.0,\"EVSpecialAttack\":0.0,\"IsShiny\":0.0,\"StatsAttack\":130.0,\"UUIDMost\":4.0562516109641032E16,\"IVSpeed\":2.0,\"Level\":60.0,\"IVSpAtt\":30.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":1080.0}"
+        ]
+        timestamp="03/06/2021 18:08"
+        uniqueID=fa9e5b26-8e3e-4800-b576-79ff7c5467aa
+    },
+    {
+        otherParticipant=e598b8f7-bdf8-33da-99a0-11308c0866b8
+        otherSideItemStrings=[
+            "{\"ContentVersion\":2,\"ItemType\":\"pixelmon:thunder_stone\",\"Count\":2,\"UnsafeDamage\":0}"
+        ]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[]
+        participant="59bc4fba-bba4-3205-ab0e-c0a556ba80b2"
+        sideItemStrings=[]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[
+            "{\"EVSpeed\":0.0,\"IVAttack\":14.0,\"Growth\":6.0,\"originalTrainerUUIDMost\":6.4661308284278016E18,\"PersistentData\":{},\"Gender\":1.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":70.0,\"Name\":\"Excadrill\",\"isInRanch\":0.0,\"Friendship\":74.0,\"StatsDefence\":61.0,\"IVDefence\":30.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":53.0,\"IVSpDef\":26.0,\"CaughtBall\":0.0,\"IVHP\":12.0,\"AbilitySlot\":1.0,\"EVHP\":0.0,\"ndex\":530.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-6.1207430271927255E18,\"Nature\":5.0,\"StatsHP\":149.0,\"UUIDLeast\":-5.3099925467811543E18,\"Health\":149.0,\"originalTrainer\":\"LionnZXD\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":-1.0,\"StatsSpeed\":78.0,\"EVSpecialAttack\":0.0,\"IsShiny\":1.0,\"StatsAttack\":136.0,\"UUIDMost\":4.6745649667868774E18,\"IVSpeed\":0.0,\"Level\":42.0,\"IVSpAtt\":16.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}"
+        ]
+        timestamp="03/06/2021 18:17"
+        uniqueID="1ea02929-5472-4a0b-ae09-9d8bb927f8c0"
+    },
+    {
+        otherParticipant=e598b8f7-bdf8-33da-99a0-11308c0866b8
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[]
+        participant="4e48b9d0-3b44-3b19-91ad-ccbd851623fb"
+        sideItemStrings=[]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[
+            "{\"EVSpeed\":0.0,\"IVAttack\":31.0,\"originalTrainerUUIDMost\":5.6409628372802099E18,\"Growth\":5.0,\"PersistentData\":{},\"Gender\":1.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":7.0,\"Name\":\"Mimikyu\",\"isInRanch\":0.0,\"Friendship\":70.0,\"StatsDefence\":6.0,\"IVDefence\":31.0,\"eggCycles\":20.0,\"EVAttack\":0.0,\"IVSpDef\":31.0,\"StatsSpecialAttack\":5.0,\"CaughtBall\":21.0,\"IVHP\":31.0,\"AbilitySlot\":0.0,\"EVHP\":0.0,\"ndex\":778.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-7.9494726528853514E18,\"Nature\":15.0,\"StatsHP\":12.0,\"UUIDLeast\":-8.4388565854359521E18,\"Health\":12.0,\"originalTrainer\":\"Mugiwaraboy\",\"DoesLevel\":1.0,\"steps\":95.0,\"DynamaxLevel\":0.0,\"Variant\":0.0,\"EVSpecialAttack\":0.0,\"StatsSpeed\":7.0,\"IsShiny\":0.0,\"StatsAttack\":7.0,\"UUIDMost\":-1.67710344206468531E18,\"IVSpeed\":11.0,\"Level\":1.0,\"EVDefence\":0.0,\"IVSpAtt\":23.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}"
+        ]
+        timestamp="03/06/2021 18:17"
+        uniqueID=af3305ed-47c5-469f-be9b-f261adaabaca
+    },
+    {
+        otherParticipant=e598b8f7-bdf8-33da-99a0-11308c0866b8
+        otherSideItemStrings=[
+            "{\"ContentVersion\":2,\"ItemType\":\"pixelmon:swampertite\",\"Count\":1,\"UnsafeDamage\":0}"
+        ]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[]
+        participant=c924cccc-c1df-35bd-a5e5-747661abbbd9
+        sideItemStrings=[
+            "{\"ContentVersion\":2,\"ItemType\":\"pixelmon:salamencite\",\"Count\":1,\"UnsafeDamage\":0}"
+        ]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[]
+        timestamp="07/06/2021 01:20"
+        uniqueID="661e26b1-da36-4b04-bfb4-b118cca078d2"
+    },
+    {
+        otherParticipant=e598b8f7-bdf8-33da-99a0-11308c0866b8
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[]
+        participant=c924cccc-c1df-35bd-a5e5-747661abbbd9
+        sideItemStrings=[
+            "{\"ContentVersion\":2,\"ItemType\":\"minecraft:silver_shulker_box\",\"Count\":1,\"UnsafeDamage\":0,\"UnsafeData\":{\"BlockEntityTag\":{\"Items\":[{\"Slot\":0,\"id\":\"minecraft:dirt\",\"Count\":64,\"Damage\":0},{\"Slot\":1,\"id\":\"minecraft:dirt\",\"Count\":64,\"Damage\":0},{\"Slot\":2,\"id\":\"minecraft:dirt\",\"Count\":64,\"Damage\":0},{\"Slot\":3,\"id\":\"minecraft:dirt\",\"Count\":64,\"Damage\":0},{\"Slot\":4,\"id\":\"minecraft:dirt\",\"Count\":64,\"Damage\":0},{\"Slot\":5,\"id\":\"minecraft:dirt\",\"Count\":64,\"Damage\":0},{\"Slot\":6,\"id\":\"minecraft:dirt\",\"Count\":64,\"Damage\":0},{\"Slot\":7,\"id\":\"minecraft:dirt\",\"Count\":64,\"Damage\":0},{\"Slot\":8,\"id\":\"minecraft:dirt\",\"Count\":64,\"Damage\":0},{\"Slot\":9,\"id\":\"minecraft:dirt\",\"Count\":64,\"Damage\":0},{\"Slot\":10,\"id\":\"minecraft:dirt\",\"Count\":64,\"Damage\":0},{\"Slot\":11,\"id\":\"minecraft:dirt\",\"Count\":64,\"Damage\":0},{\"Slot\":12,\"id\":\"minecraft:dirt\",\"Count\":64,\"Damage\":0},{\"Slot\":13,\"id\":\"minecraft:dirt\",\"Count\":64,\"Damage\":0},{\"Slot\":14,\"id\":\"minecraft:dirt\",\"Count\":64,\"Damage\":0},{\"Slot\":15,\"id\":\"minecraft:dirt\",\"Count\":64,\"Damage\":0},{\"Slot\":16,\"id\":\"minecraft:dirt\",\"Count\":64,\"Damage\":0},{\"Slot\":17,\"id\":\"minecraft:dirt\",\"Count\":64,\"Damage\":0},{\"Slot\":18,\"id\":\"minecraft:dirt\",\"Count\":64,\"Damage\":0},{\"Slot\":19,\"id\":\"minecraft:dirt\",\"Count\":64,\"Damage\":0},{\"Slot\":20,\"id\":\"minecraft:dirt\",\"Count\":64,\"Damage\":0},{\"Slot\":21,\"id\":\"minecraft:dirt\",\"Count\":64,\"Damage\":0},{\"Slot\":22,\"id\":\"minecraft:dirt\",\"Count\":64,\"Damage\":0},{\"Slot\":23,\"id\":\"minecraft:dirt\",\"Count\":64,\"Damage\":0},{\"Slot\":24,\"id\":\"minecraft:dirt\",\"Count\":64,\"Damage\":0},{\"Slot\":25,\"id\":\"minecraft:dirt\",\"Count\":64,\"Damage\":0},{\"Slot\":26,\"id\":\"minecraft:dirt\",\"Count\":64,\"Damage\":0}]}}}"
+        ]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[]
+        timestamp="07/06/2021 03:04"
+        uniqueID="697d37ee-50cc-40b2-b800-a7c1f9fb19ac"
+    },
+    {
+        otherParticipant=e598b8f7-bdf8-33da-99a0-11308c0866b8
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[]
+        participant="4e48b9d0-3b44-3b19-91ad-ccbd851623fb"
+        sideItemStrings=[]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[
+            "{\"EVSpeed\":0.0,\"IVAttack\":31.0,\"Growth\":6.0,\"originalTrainerUUIDMost\":0.0,\"PersistentData\":{},\"Gender\":0.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":6.0,\"Name\":\"Dratini\",\"isInRanch\":0.0,\"Friendship\":35.0,\"StatsDefence\":5.0,\"eggCycles\":37.0,\"IVDefence\":0.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":5.0,\"IVSpDef\":4.0,\"CaughtBall\":2.0,\"IVHP\":12.0,\"AbilitySlot\":0.0,\"EVHP\":0.0,\"ndex\":147.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":0.0,\"Nature\":7.0,\"StatsHP\":11.0,\"UUIDLeast\":-5.1629290853048893E18,\"Health\":11.0,\"DoesLevel\":1.0,\"steps\":233.0,\"DynamaxLevel\":0.0,\"Variant\":-1.0,\"StatsSpeed\":6.0,\"EVSpecialAttack\":0.0,\"IsShiny\":0.0,\"StatsAttack\":6.0,\"UUIDMost\":6.3100674341598177E18,\"IVSpeed\":31.0,\"Level\":1.0,\"IVSpAtt\":31.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}"
+        ]
+        timestamp="09/06/2021 01:51"
+        uniqueID=c6d96a5e-3068-4ed9-a39d-a62a1925774b
+    },
+    {
+        otherParticipant=e598b8f7-bdf8-33da-99a0-11308c0866b8
+        otherSideItemStrings=[
+            "{\"ContentVersion\":2,\"ItemType\":\"pixelmon:ultra_ball\",\"Count\":64,\"UnsafeDamage\":0}"
+        ]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[]
+        participant=c924cccc-c1df-35bd-a5e5-747661abbbd9
+        sideItemStrings=[]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[
+            "{\"EVSpeed\":0.0,\"IVAttack\":11.0,\"Growth\":4.0,\"originalTrainerUUIDMost\":-3.9528093931264271E18,\"PersistentData\":{\"SpongeData\":{\"CanGrief\":1.0}},\"Gender\":0.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":60.0,\"Name\":\"Alakazam\",\"isInRanch\":0.0,\"Friendship\":70.0,\"StatsDefence\":28.0,\"IVDefence\":2.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":81.0,\"IVSpDef\":22.0,\"CaughtBall\":2.0,\"IVHP\":17.0,\"AbilitySlot\":0.0,\"EVHP\":0.0,\"ndex\":65.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-6.4926552359910943E18,\"Nickname\":\"Kadabra Timid\",\"Nature\":13.0,\"StatsHP\":69.0,\"UUIDLeast\":-6.684306684678914E18,\"Health\":69.0,\"originalTrainer\":\"Desmond_Hume20\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":0.0,\"StatsSpeed\":77.0,\"EVSpecialAttack\":0.0,\"IsShiny\":0.0,\"StatsAttack\":29.0,\"UUIDMost\":4.7868012666354565E18,\"IVSpeed\":12.0,\"Level\":26.0,\"IVSpAtt\":24.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}",
+            "{\"EVSpeed\":0.0,\"IVAttack\":4.0,\"Growth\":4.0,\"originalTrainerUUIDMost\":-3.9528093931264271E18,\"PersistentData\":{\"SpongeData\":{}},\"Gender\":0.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":24.0,\"Name\":\"Abra\",\"isInRanch\":0.0,\"Friendship\":70.0,\"StatsDefence\":14.0,\"IVDefence\":27.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":38.0,\"IVSpDef\":11.0,\"CaughtBall\":2.0,\"IVHP\":2.0,\"AbilitySlot\":0.0,\"EVHP\":0.0,\"ndex\":63.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-6.4926552359910943E18,\"Nickname\":\"Abra Adamant\",\"Nature\":7.0,\"StatsHP\":34.0,\"UUIDLeast\":-5.9698694794780047E18,\"Health\":34.0,\"originalTrainer\":\"Desmond_Hume20\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":-1.0,\"StatsSpeed\":35.0,\"EVSpecialAttack\":0.0,\"IsShiny\":0.0,\"StatsAttack\":13.0,\"UUIDMost\":-2.4004000579322337E18,\"IVSpeed\":12.0,\"Level\":16.0,\"IVSpAtt\":31.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}",
+            "{\"EVSpeed\":0.0,\"IVAttack\":28.0,\"Growth\":6.0,\"originalTrainerUUIDMost\":-3.9528093931264271E18,\"PersistentData\":{\"SpongeData\":{}},\"Gender\":0.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":26.0,\"Name\":\"Abra\",\"isInRanch\":0.0,\"Friendship\":70.0,\"StatsDefence\":14.0,\"IVDefence\":29.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":35.0,\"IVSpDef\":23.0,\"CaughtBall\":2.0,\"IVHP\":26.0,\"AbilitySlot\":0.0,\"EVHP\":0.0,\"ndex\":63.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-6.4926552359910943E18,\"Nickname\":\"Abra Jolly\",\"Nature\":15.0,\"StatsHP\":38.0,\"UUIDLeast\":-8.9500413915506289E18,\"Health\":38.0,\"originalTrainer\":\"Desmond_Hume20\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":-1.0,\"StatsSpeed\":38.0,\"EVSpecialAttack\":0.0,\"IsShiny\":0.0,\"StatsAttack\":15.0,\"UUIDMost\":2.621995041996031E18,\"IVSpeed\":12.0,\"Level\":16.0,\"IVSpAtt\":4.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}",
+            "{\"EVSpeed\":0.0,\"IVAttack\":6.0,\"Growth\":4.0,\"originalTrainerUUIDMost\":-3.9528093931264271E18,\"PersistentData\":{\"SpongeData\":{}},\"Gender\":0.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":19.0,\"Name\":\"Abra\",\"isInRanch\":0.0,\"Friendship\":70.0,\"StatsDefence\":11.0,\"IVDefence\":17.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":33.0,\"IVSpDef\":14.0,\"CaughtBall\":2.0,\"IVHP\":22.0,\"AbilitySlot\":0.0,\"EVHP\":0.0,\"ndex\":63.0,\"ribbon_display\":\"UNCOMMON\",\"originalTrainerUUIDLeast\":-6.4926552359910943E18,\"Nickname\":\"Abra Bold\",\"Nature\":9.0,\"StatsHP\":30.0,\"UUIDLeast\":-4.9458374316357806E18,\"Health\":30.0,\"originalTrainer\":\"Desmond_Hume20\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":-1.0,\"StatsSpeed\":30.0,\"EVSpecialAttack\":0.0,\"IsShiny\":0.0,\"StatsAttack\":9.0,\"UUIDMost\":-3.3504445370508708E18,\"IVSpeed\":29.0,\"Level\":12.0,\"IVSpAtt\":25.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}",
+            "{\"EVSpeed\":0.0,\"IVAttack\":4.0,\"Growth\":5.0,\"originalTrainerUUIDMost\":-3.9528093931264271E18,\"PersistentData\":{},\"Gender\":0.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":6.0,\"Name\":\"Abra\",\"isInRanch\":0.0,\"Friendship\":76.0,\"StatsDefence\":5.0,\"IVDefence\":4.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":6.0,\"IVSpDef\":0.0,\"CaughtBall\":2.0,\"IVHP\":17.0,\"AbilitySlot\":0.0,\"EVHP\":0.0,\"ndex\":63.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-6.4926552359910943E18,\"Nickname\":\"Abra Impish\",\"Nature\":11.0,\"StatsHP\":11.0,\"UUIDLeast\":-5.097401494279893E18,\"Health\":11.0,\"originalTrainer\":\"Desmond_Hume20\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":-1.0,\"StatsSpeed\":7.0,\"EVSpecialAttack\":0.0,\"IsShiny\":0.0,\"StatsAttack\":5.0,\"UUIDMost\":6.7172172217252751E18,\"IVSpeed\":31.0,\"Level\":1.0,\"IVSpAtt\":24.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}"
+        ]
+        timestamp="09/06/2021 02:22"
+        uniqueID="4ab6d705-6b8e-4998-aecf-c7cfcbabcc25"
+    },
+    {
+        otherParticipant=e598b8f7-bdf8-33da-99a0-11308c0866b8
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[]
+        participant=c924cccc-c1df-35bd-a5e5-747661abbbd9
+        sideItemStrings=[]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[
+            "{\"EVSpeed\":0.0,\"IVAttack\":20.0,\"Growth\":3.0,\"originalTrainerUUIDMost\":-3.9528093931264271E18,\"PersistentData\":{\"SpongeData\":{}},\"Gender\":0.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":26.0,\"Name\":\"Abra\",\"isInRanch\":0.0,\"Friendship\":70.0,\"StatsDefence\":9.0,\"IVDefence\":1.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":40.0,\"IVSpDef\":26.0,\"CaughtBall\":2.0,\"IVHP\":17.0,\"AbilitySlot\":0.0,\"EVHP\":0.0,\"ndex\":63.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-6.4926552359910943E18,\"Nickname\":\"Abra Brave\",\"Nature\":6.0,\"StatsHP\":36.0,\"UUIDLeast\":-5.4840417240158403E18,\"Health\":36.0,\"originalTrainer\":\"Desmond_Hume20\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":-1.0,\"StatsSpeed\":30.0,\"EVSpecialAttack\":0.0,\"IsShiny\":0.0,\"StatsAttack\":15.0,\"UUIDMost\":-7.2760765934402765E18,\"IVSpeed\":3.0,\"Level\":16.0,\"IVSpAtt\":13.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}",
+            "{\"EVSpeed\":0.0,\"IVAttack\":10.0,\"Growth\":4.0,\"originalTrainerUUIDMost\":-3.9528093931264271E18,\"PersistentData\":{\"SpongeData\":{}},\"Gender\":0.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":22.0,\"Name\":\"Abra\",\"isInRanch\":0.0,\"Friendship\":70.0,\"StatsDefence\":13.0,\"IVDefence\":21.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":41.0,\"IVSpDef\":2.0,\"CaughtBall\":2.0,\"IVHP\":4.0,\"AbilitySlot\":0.0,\"EVHP\":0.0,\"ndex\":63.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-6.4926552359910943E18,\"Nickname\":\"Abra Serious\",\"Nature\":1.0,\"StatsHP\":34.0,\"UUIDLeast\":-6.742226300869334E18,\"Health\":34.0,\"originalTrainer\":\"Desmond_Hume20\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":-1.0,\"StatsSpeed\":37.0,\"EVSpecialAttack\":0.0,\"IsShiny\":0.0,\"StatsAttack\":13.0,\"UUIDMost\":6.2698425186258954E18,\"IVSpeed\":21.0,\"Level\":16.0,\"IVSpAtt\":21.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}",
+            "{\"EVSpeed\":0.0,\"IVAttack\":29.0,\"Growth\":3.0,\"originalTrainerUUIDMost\":-3.9528093931264271E18,\"PersistentData\":{\"SpongeData\":{}},\"Gender\":0.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":27.0,\"Name\":\"Abra\",\"isInRanch\":0.0,\"Friendship\":70.0,\"StatsDefence\":12.0,\"IVDefence\":15.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":45.0,\"IVSpDef\":30.0,\"CaughtBall\":2.0,\"IVHP\":19.0,\"AbilitySlot\":0.0,\"EVHP\":0.0,\"ndex\":63.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-6.4926552359910943E18,\"Nickname\":\"Abra Quiet\",\"Nature\":19.0,\"StatsHP\":37.0,\"UUIDLeast\":-5.2459182005430579E18,\"Health\":37.0,\"originalTrainer\":\"Desmond_Hume20\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":-1.0,\"StatsSpeed\":33.0,\"EVSpecialAttack\":0.0,\"IsShiny\":0.0,\"StatsAttack\":16.0,\"UUIDMost\":3.4430180087498194E18,\"IVSpeed\":26.0,\"Level\":16.0,\"IVSpAtt\":21.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}"
+        ]
+        timestamp="09/06/2021 02:23"
+        uniqueID="8adf207d-89ce-4a5e-84f4-99666a702aa3"
+    },
+    {
+        otherParticipant=e598b8f7-bdf8-33da-99a0-11308c0866b8
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[
+            "{\"EVSpeed\":0.0,\"IVAttack\":19.0,\"Growth\":5.0,\"originalTrainerUUIDMost\":-1.9025674683804416E18,\"PersistentData\":{\"SpongeData\":{}},\"Gender\":1.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":42.0,\"Name\":\"Teddiursa\",\"isInRanch\":0.0,\"Friendship\":70.0,\"StatsDefence\":42.0,\"IVDefence\":31.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":36.0,\"IVSpDef\":29.0,\"CaughtBall\":4.0,\"IVHP\":16.0,\"AbilitySlot\":0.0,\"EVHP\":0.0,\"ndex\":216.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-7.3768772894274089E18,\"Nature\":15.0,\"StatsHP\":78.0,\"UUIDLeast\":-7.0143405943097999E18,\"Health\":78.0,\"originalTrainer\":\"HellDragon\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":-1.0,\"StatsSpeed\":40.0,\"EVSpecialAttack\":0.0,\"IsShiny\":0.0,\"StatsAttack\":56.0,\"UUIDMost\":-2.4759309014729196E18,\"IVSpeed\":31.0,\"Level\":29.0,\"IVSpAtt\":23.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}"
+        ]
+        participant=c924cccc-c1df-35bd-a5e5-747661abbbd9
+        sideItemStrings=[]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[
+            "{\"EVSpeed\":0.0,\"IVAttack\":17.0,\"Growth\":4.0,\"originalTrainerUUIDMost\":-3.9528093931264271E18,\"PersistentData\":{\"SpongeData\":{}},\"Gender\":1.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":27.0,\"Name\":\"Hoothoot\",\"isInRanch\":0.0,\"Friendship\":70.0,\"StatsDefence\":20.0,\"IVDefence\":24.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":22.0,\"IVSpDef\":29.0,\"CaughtBall\":2.0,\"IVHP\":27.0,\"AbilitySlot\":0.0,\"EVHP\":0.0,\"ndex\":163.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-6.4926552359910943E18,\"Nature\":20.0,\"StatsHP\":56.0,\"UUIDLeast\":-5.1876055487572838E18,\"Health\":56.0,\"originalTrainer\":\"Desmond_Hume20\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":-1.0,\"StatsSpeed\":29.0,\"EVSpecialAttack\":0.0,\"IsShiny\":1.0,\"StatsAttack\":19.0,\"UUIDMost\":-9.214092803759062E18,\"IVSpeed\":27.0,\"Level\":19.0,\"IVSpAtt\":12.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}"
+        ]
+        timestamp="17/06/2021 19:15"
+        uniqueID=cdffb5e9-ef08-4390-b2ea-f5c04d391051
+    },
+    {
+        otherParticipant="5e088e59-9105-366c-bf7a-4b93604cccec"
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[]
+        participant=e598b8f7-bdf8-33da-99a0-11308c0866b8
+        sideItemStrings=[
+            "{\"ContentVersion\":2,\"ItemType\":\"pixelmon:quick_ball\",\"Count\":64,\"UnsafeDamage\":0}",
+            "{\"ContentVersion\":2,\"ItemType\":\"pixelmon:ultra_ball\",\"Count\":64,\"UnsafeDamage\":0}"
+        ]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[]
+        timestamp="17/06/2021 19:25"
+        uniqueID="51293b1f-c197-4b80-9414-bf06ade26502"
+    },
+    {
+        otherParticipant="5e088e59-9105-366c-bf7a-4b93604cccec"
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[
+            "{\"EVSpeed\":0.0,\"IVAttack\":18.0,\"Growth\":4.0,\"originalTrainerUUIDMost\":6.7758221547151831E18,\"PersistentData\":{\"SpongeData\":{}},\"Gender\":0.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":38.0,\"Name\":\"Meditite\",\"isInRanch\":0.0,\"Friendship\":69.0,\"StatsDefence\":39.0,\"IVDefence\":0.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":33.0,\"IVSpDef\":14.0,\"CaughtBall\":2.0,\"IVHP\":3.0,\"AbilitySlot\":0.0,\"EVHP\":0.0,\"ndex\":307.0,\"ribbon_display\":\"CLOUDY\",\"originalTrainerUUIDLeast\":-4.6493205689586944E18,\"Nature\":8.0,\"StatsHP\":60.0,\"UUIDLeast\":-4.8370226391262095E18,\"Health\":0.0,\"originalTrainer\":\"wolfswal\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":-1.0,\"StatsSpeed\":44.0,\"EVSpecialAttack\":0.0,\"IsShiny\":0.0,\"StatsAttack\":38.0,\"UUIDMost\":-7.9290376901802547E18,\"IVSpeed\":7.0,\"Level\":31.0,\"IVSpAtt\":13.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}"
+        ]
+        participant=e598b8f7-bdf8-33da-99a0-11308c0866b8
+        sideItemStrings=[]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[
+            "{\"EVSpeed\":0.0,\"IVAttack\":23.0,\"Growth\":4.0,\"originalTrainerUUIDMost\":-1.9025674683804416E18,\"PersistentData\":{},\"Gender\":0.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":29.0,\"Name\":\"Charmeleon\",\"isInRanch\":0.0,\"Friendship\":70.0,\"StatsDefence\":21.0,\"IVDefence\":5.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":31.0,\"IVSpDef\":25.0,\"CaughtBall\":0.0,\"IVHP\":20.0,\"AbilitySlot\":0.0,\"EVHP\":0.0,\"ndex\":5.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-7.3768772894274089E18,\"Nature\":5.0,\"StatsHP\":47.0,\"UUIDLeast\":-7.8038143243102464E18,\"Health\":47.0,\"originalTrainer\":\"HellDragon\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":-1.0,\"StatsSpeed\":33.0,\"EVSpecialAttack\":0.0,\"IsShiny\":0.0,\"StatsAttack\":31.0,\"UUIDMost\":8.1351547669598228E18,\"IVSpeed\":20.0,\"Level\":16.0,\"IVSpAtt\":6.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}"
+        ]
+        timestamp="17/06/2021 20:00"
+        uniqueID=bc9366c5-52bc-4573-beb1-2fc235b265ff
+    },
+    {
+        otherParticipant=e598b8f7-bdf8-33da-99a0-11308c0866b8
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[]
+        participant=c924cccc-c1df-35bd-a5e5-747661abbbd9
+        sideItemStrings=[]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[
+            "{\"EVSpeed\":0.0,\"IVAttack\":4.0,\"Growth\":3.0,\"originalTrainerUUIDMost\":-3.9528093931264271E18,\"PersistentData\":{\"SpongeData\":{}},\"Gender\":1.0,\"EVSpecialDefence\":0.0,\"GigantamaxFactor\":0.0,\"StatsSpecialDefence\":24.0,\"Name\":\"Abra\",\"isInRanch\":0.0,\"Friendship\":70.0,\"StatsDefence\":9.0,\"IVDefence\":0.0,\"EVAttack\":0.0,\"StatsSpecialAttack\":41.0,\"IVSpDef\":11.0,\"CaughtBall\":2.0,\"IVHP\":27.0,\"AbilitySlot\":0.0,\"EVHP\":0.0,\"ndex\":63.0,\"ribbon_display\":\"NONE\",\"originalTrainerUUIDLeast\":-6.4926552359910943E18,\"Nickname\":\"Abra Docile\",\"Nature\":2.0,\"StatsHP\":38.0,\"UUIDLeast\":-8.3798987083617362E18,\"Health\":38.0,\"originalTrainer\":\"Desmond_Hume20\",\"DoesLevel\":1.0,\"DynamaxLevel\":0.0,\"Variant\":-1.0,\"StatsSpeed\":38.0,\"EVSpecialAttack\":0.0,\"IsShiny\":0.0,\"StatsAttack\":12.0,\"UUIDMost\":2.4337283045992868E18,\"IVSpeed\":31.0,\"Level\":16.0,\"IVSpAtt\":20.0,\"EVDefence\":0.0,\"NBT_VERSION\":1.0,\"EXP\":0.0}"
+        ]
+        timestamp="17/06/2021 20:54"
+        uniqueID=e443b98c-4dcb-4388-ae90-b0dc530742b8
+    }
+]

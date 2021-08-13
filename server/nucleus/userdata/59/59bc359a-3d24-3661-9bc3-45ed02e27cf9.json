@@ -1,0 +1,22 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622798020786,
+  "lastIP": "/131.100.2.103",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622798020792,
+    "start": 1622798065880,
+    "mstart": 1622798111969,
+    "sstart": 1622798128174,
+    "dstart": 1622798147072,
+    "pascoa": 1622798157868,
+    "casa": 1622798240868,
+    "ajuda": 1622798360118
+  },
+  "firstJoin": 1622798020786,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Galinhosnipeiro",
+  "fly": true,
+  "powertools": {}
+}

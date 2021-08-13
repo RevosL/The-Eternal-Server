@@ -1,0 +1,48 @@
+{
+  "id": "Passimian",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Passimian"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top"
+      ],
+      "minLevel": 15,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "jungle_hills",
+          "mutated_jungle"
+        ]
+      },
+      "rarity": 8.0
+    },
+    {
+      "spec": {
+        "name": "Passimian"
+      },
+      "stringLocationTypes": [
+        "Indoors",
+        "Manmade"
+      ],
+      "minLevel": 15,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "Temple"
+        ],
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 10.0
+    }
+  ]
+}

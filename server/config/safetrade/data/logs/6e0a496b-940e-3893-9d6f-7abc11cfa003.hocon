@@ -1,0 +1,16 @@
+logs=[
+    {
+        otherParticipant=c4accc50-b76a-3fc2-97c8-cafb0ab393cf
+        otherSideItemStrings=[]
+        otherSideMoneyStrings=[]
+        otherSidePokemonStrings=[]
+        participant="6e0a496b-940e-3893-9d6f-7abc11cfa003"
+        sideItemStrings=[
+            "{\"ContentVersion\":2,\"ItemType\":\"pixelmon:red_orb\",\"Count\":1,\"UnsafeDamage\":0}"
+        ]
+        sideMoneyStrings=[]
+        sidePokemonStrings=[]
+        timestamp="04/06/2021 03:19"
+        uniqueID=f1fbe6a7-90e9-4719-95f7-aa77a56eaec9
+    }
+]

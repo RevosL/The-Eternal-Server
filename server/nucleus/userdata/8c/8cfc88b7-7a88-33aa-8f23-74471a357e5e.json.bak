@@ -1,0 +1,33 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622685519252,
+  "lastIP": "/45.233.191.42",
+  "usedKits": {
+    "inicial": 1621989812751,
+    "start": 1621990130527,
+    "casa": 1621990454153,
+    "ajuda": 1621990641681,
+    "farm": 1621990689566,
+    "dstart": 1621990716811,
+    "sstart": 1621990731204,
+    "mstart": 1621990758234,
+    "diario": 1622314596360
+  },
+  "firstJoin": 1621989812742,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "taylan123",
+  "fly": true,
+  "homes": {
+    "home": {
+      "x": -470.7895089357895,
+      "y": 67,
+      "z": -7242.704877137246,
+      "rotx": 45.29254150390625,
+      "roty": 192.49139404296875,
+      "rotz": 0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  }
+}

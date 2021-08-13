@@ -1,0 +1,36 @@
+{
+  "data_version": 2,
+  "lastLogin": 1623089558269,
+  "lastIP": "/189.127.222.138",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1623089558275,
+    "diario": 1623089701965,
+    "start": 1623090036244,
+    "dstart": 1623090056985,
+    "sstart": 1623090065142,
+    "mstart": 1623091183987,
+    "ajuda": 1623091321493,
+    "casa": 1623091380393,
+    "pascoa": 1623092086674,
+    "comida": 1623092089225,
+    "menu": 1623092090723
+  },
+  "firstJoin": 1623089558269,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Ravidapastela",
+  "fly": true,
+  "homes": {
+    "casa": {
+      "x": 5364.519200372035,
+      "y": 63.0,
+      "z": 6464.235429098631,
+      "rotx": 37.62458038330078,
+      "roty": -221.27392578125,
+      "rotz": 0.0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  },
+  "powertools": {}
+}

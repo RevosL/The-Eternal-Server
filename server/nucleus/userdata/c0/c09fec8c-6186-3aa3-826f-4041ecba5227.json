@@ -1,0 +1,40 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622825942479,
+  "lastIP": "/201.33.249.9",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622825942487,
+    "comida": 1622826611097,
+    "start": 1622828544595,
+    "dstart": 1622829146766,
+    "sstart": 1622829267349,
+    "mstart": 1622829607546
+  },
+  "firstJoin": 1622825942479,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Jvictor03",
+  "fly": true,
+  "homes": {
+    "home": {
+      "x": 6377.732378206878,
+      "y": 79.0,
+      "z": 8523.436907998004,
+      "rotx": 16.971296310424805,
+      "roty": -249.0030517578125,
+      "rotz": 0.0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    },
+    "enzo": {
+      "x": 6376.451108975516,
+      "y": 79.0,
+      "z": 8523.50627728343,
+      "rotx": 16.971296310424805,
+      "roty": -249.0030517578125,
+      "rotz": 0.0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  },
+  "powertools": {}
+}

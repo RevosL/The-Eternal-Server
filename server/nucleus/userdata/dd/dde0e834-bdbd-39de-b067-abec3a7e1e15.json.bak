@@ -1,0 +1,32 @@
+{
+  "data_version": 2,
+  "lastLogin": 1622291082695,
+  "lastIP": "/201.4.144.223",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1622287392150,
+    "start": 1622287493886,
+    "ajuda": 1622287517854,
+    "sstart": 1622287556594,
+    "casa": 1622295958585,
+    "diario": 1622288457393,
+    "farm": 1622289725734
+  },
+  "firstJoin": 1622287392134,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "_TCT_Gustavo",
+  "homes": {
+    "casa": {
+      "x": 1078.1844763653248,
+      "y": 65.0,
+      "z": -5949.365937619653,
+      "rotx": 40.499820709228516,
+      "roty": 85.3544921875,
+      "rotz": 0.0,
+      "world": "fa9df8f4-6bbe-42a7-b26d-a3befddff91d"
+    }
+  },
+  "fly": true,
+  "powertools": {}
+}
