@@ -1,2 +1,4 @@
-# The-Eternal-Server
- a pixelmon server with a lot for beginners
+**_# The-Eternal-Server-project_**
+
+**This is a small repository for my project's settings and codes
+feel free to explore and extract anything useful you find ;-)**
